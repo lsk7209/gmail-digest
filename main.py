@@ -1,4 +1,9 @@
+import sys
+import io
 from datetime import datetime, timezone, timedelta
+
+# Windows 콘솔 UTF-8 출력
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
 from config import FETCH_DAYS, GITHUB_OWNER, GITHUB_REPO
 from gmail_client import fetch_emails
