@@ -1,18 +1,25 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-16 02:08 KST
+> 마지막 업데이트: 2026-06-16 05:50 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 81 |
+| ✅ 승인 | 88 |
 | ❌ 반려 | 7 |
-| 🚨 에러 | 82 |
+| 🚨 에러 | 88 |
 | ⚠️ 경고 | 24 |
-| 📊 알림 | 9 |
+| 📊 알림 | 10 |
 
 ## ✅ 승인
 
+- `04:01` [앱인토스] 코냥이 v20260616-13 → ✅ 승인 ⚠️ 출시 필요
+- `04:01` [앱인토스] 1분 경제퀴즈 v20260616-27 → ✅ 승인 ⚠️ 출시 필요
+- `02:46` [앱인토스] 1분 스트레칭 v20260615-13 → ✅ 승인 ⚠️ 출시 필요
+- `02:46` [앱인토스] 절약 챌린지 v20260615-10 → ✅ 승인 ⚠️ 출시 필요
+- `02:31` [앱인토스] 강아지저금통 v20260615-21 → ✅ 승인 ⚠️ 출시 필요
+- `02:31` [앱인토스] 짠테크 복권 v20260615-30 → ✅ 승인 ⚠️ 출시 필요
+- `02:15` [앱인토스] 1분 명상 v20260615-25 → ✅ 승인 ⚠️ 출시 필요
 - `02:01` [앱인토스] 카덕후 v20260615-20 → ✅ 승인 ⚠️ 출시 필요
 - `02:01` [앱인토스] 오늘도 갓생 빙고 v20260615-26 → ✅ 승인 ⚠️ 출시 필요
 - `02:01` [앱인토스] 눈 건강 운동 v20260615-11 → ✅ 승인 ⚠️ 출시 필요
@@ -116,21 +123,21 @@
 | `dolbomjigi` | ETL Scheduled Jobs | 데이터 | 1회 | `422ebc2` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `e5522fc` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `a669408` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **8회** | `80db30e` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **9회** | `80db30e` |
 | `today_yakuk` | Daily Pharmacy Sync | 데이터 | 1회 | `2542e07` |
 | `gmail-digest` | Gmail Digest | 배포 | **2회** | `5145700` |
 | `campgogo.kr` | dedup-review | 시스템 | 1회 | `f806a65` |
-| `campgogo.kr` | backup | 시스템 | 1회 | `f806a65` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **17회** | `f380a7a` |
+| `campgogo.kr` | backup | 시스템 | **2회** | `bf840ae` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **18회** | `f380a7a` |
 | `gong365kr` | Apply Drizzle Migrations | 시스템 | **2회** | `eb1605b` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `ebe4a01` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `80db30e` |
 | `cartainkr` | Auto Publish Article | 콘텐츠 | **2회** | `0a372f7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `abebb33` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **7회** | `b7dc759` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `09fed24` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **8회** | `09fed24` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `a4f406b` |
 | `today_yakuk` | Generate Pharmacy Content | 콘텐츠 | 1회 | `d5da21b` |
-| `yoyangwon` | Release due blog posts | 콘텐츠 | **7회** | `3350cba` |
+| `yoyangwon` | Release due blog posts | 콘텐츠 | **8회** | `3350cba` |
 
 - `23:45` [Vercel] 배포 실패
 - `14:28` [Vercel] 권한 오류: Vercelauto-publisher@crepika.com 배포 시도
@@ -170,6 +177,7 @@
 
 ## 📊 알림
 
+- `03:37` [AdSense] Important notice regarding your AdSense for YouTube account
 - `15:11` [공공데이터]  공공데이터포털 
 - `15:10` [공공데이터]  공공데이터포털 
 - `15:08` [공공데이터]  공공데이터포털 
