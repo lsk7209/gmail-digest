@@ -56,6 +56,17 @@ def _parse_appin_toss(subject: str, category: str) -> dict:
     return extra
 
 
+_WORKFLOW_TYPES = [
+    ("콘텐츠", ["Auto Publish", "Release due", "Generate Blog", "Generate Pharmacy",
+                "Scheduled publish", "Auto Publish Article"]),
+    ("데이터",  ["Auto Enrich", "ETL", "bulk-collect", "plant-data", "Daily Pharmacy",
+                "Sync TourAPI", "Sync Tour"]),
+    ("배포",   ["CI", "Lint", "Deploy", "Gmail Digest"]),
+    ("시스템", ["StartupMoneyMap", "Scheduled Search", "backup", "Update dashboard",
+               "Apply Drizzle", "Turso", "GSC Sitemap", "SEO Weekly", "dedup"]),
+]
+
+
 def _parse_github(subject: str) -> dict:
     extra = {}
     # [repo] Run failed: workflow - branch (commit)
@@ -64,6 +75,12 @@ def _parse_github(subject: str) -> dict:
         extra["repo"] = m.group(1)
         extra["workflow"] = m.group(2)
         extra["commit"] = m.group(3)
+        wf = m.group(2)
+        for wtype, patterns in _WORKFLOW_TYPES:
+            if any(p.lower() in wf.lower() for p in patterns):
+                extra["workflow_type"] = wtype
+                break
+        extra.setdefault("workflow_type", "기타")
     return extra
 
 
