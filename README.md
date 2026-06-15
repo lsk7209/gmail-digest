@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-15 19:53 KST
+> 마지막 업데이트: 2026-06-15 20:01 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 56 |
 | ❌ 반려 | 7 |
-| 🚨 에러 | 74 |
+| 🚨 에러 | 76 |
 | ⚠️ 경고 | 24 |
 | 📊 알림 | 2 |
 
@@ -82,6 +82,8 @@
 
 ## 🚨 에러
 
+- `20:00` [GitHub] lsk7209/gmail-digest / Gmail Digest `5145700` 실패
+- `19:57` [GitHub] lsk7209/gmail-digest / Gmail Digest `3fc1f66` 실패
 - `19:49` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
 - `16:23` [GitHub] lsk7209/askorekr / plant-data-pipeline `1e235ed` 실패
 - `14:28` [Vercel] 권한 오류: Vercelauto-publisher@crepika.com 배포 시도
