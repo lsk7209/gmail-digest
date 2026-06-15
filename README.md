@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-15 20:04 KST
+> 마지막 업데이트: 2026-06-15 20:16 KST
 
 ## 📊 오늘 현황
 
@@ -82,109 +82,64 @@
 
 ## 🚨 에러
 
-- `20:00` [GitHub] lsk7209/gmail-digest / Gmail Digest `5145700` 실패
-- `19:57` [GitHub] lsk7209/gmail-digest / Gmail Digest `3fc1f66` 실패
-- `19:49` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
-- `16:23` [GitHub] lsk7209/askorekr / plant-data-pipeline `1e235ed` 실패
+### 🔴 GitHub Actions 실패
+
+| 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
+|------|-----------|------|------|------|
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
+| `campgogo.kr` | bulk-collect | 데이터 | 1회 | `f806a65` |
+| `dolbomjigi` | ETL Scheduled Jobs | 데이터 | 1회 | `422ebc2` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `e5522fc` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `a669408` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **7회** | `80db30e` |
+| `today_yakuk` | Daily Pharmacy Sync | 데이터 | 1회 | `2542e07` |
+| `gmail-digest` | Gmail Digest | 배포 | **2회** | `5145700` |
+| `campgogo.kr` | dedup-review | 시스템 | 1회 | `f806a65` |
+| `campgogo.kr` | backup | 시스템 | 1회 | `f806a65` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **16회** | `f380a7a` |
+| `gong365kr` | Apply Drizzle Migrations | 시스템 | **2회** | `eb1605b` |
+| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `ebe4a01` |
+| `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `80db30e` |
+| `cartainkr` | Auto Publish Article | 콘텐츠 | **2회** | `0a372f7` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `b7dc759` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **7회** | `b7dc759` |
+| `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `a4f406b` |
+| `today_yakuk` | Generate Pharmacy Content | 콘텐츠 | 1회 | `d5da21b` |
+| `yoyangwon` | Release due blog posts | 콘텐츠 | **7회** | `3350cba` |
+
 - `14:28` [Vercel] 권한 오류: Vercelauto-publisher@crepika.com 배포 시도
-- `14:28` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `b7dc759` 실패
-- `14:03` [GitHub] lsk7209/campgogo.kr / bulk-collect `f806a65` 실패
-- `14:00` [GitHub] lsk7209/today_yakuk / Auto Enrich Supplements `80db30e` 실패
-- `13:23` [GitHub] lsk7209/nongsusangogo.kr / bulk-collect `e5522fc` 실패
-- `12:47` [GitHub] lsk7209/today_yakuk / Turso Usage Monitor `80db30e` 실패
-- `12:39` [GitHub] lsk7209/spinkorea / Scheduled publish `a4f406b` 실패
-- `11:34` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
-- `11:11` [GitHub] lsk7209/cartainkr / Auto Publish Article `0a372f7` 실패
-- `09:09` [GitHub] lsk7209/crepikacom / Auto Publish Utility Tool `b7dc759` 실패
-- `09:09` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `b7dc759` 실패
-- `09:08` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `08:38` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `07:51` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `f1366bc` 실패
-- `07:17` [GitHub] lsk7209/today_yakuk / Auto Enrich Supplements `2542e07` 실패
-- `06:41` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `06:40` [GitHub] lsk7209/crepikacom / Auto Publish Utility Tool `f1366bc` 실패
-- `06:40` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `f1366bc` 실패
-- `06:12` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `05:58` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
-- `05:57` [GitHub] lsk7209/petjigi / ETL — Rescued Animals (APMS 구조동물, noindex) `a669408` 실패
-- `05:16` [GitHub] lsk7209/today_yakuk / Daily Pharmacy Sync `2542e07` 실패
-- `05:01` [GitHub] lsk7209/crepikacom / Auto Publish Utility Tool `f1366bc` 실패
-- `05:01` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `f1366bc` 실패
-- `04:45` [GitHub] lsk7209/today_yakuk / Auto Enrich Supplements `2542e07` 실패
-- `04:42` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `04:40` [GitHub] lsk7209/dolbomjigi / ETL Scheduled Jobs `422ebc2` 실패
-- `03:15` [GitHub] lsk7209/crepikacom / Auto Publish Utility Tool `f1366bc` 실패
-- `03:15` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `f1366bc` 실패
-- `02:57` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `01:56` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `778e681` 실패
-- `01:27` [GitHub] lsk7209/campgogo.kr / backup `f806a65` 실패
-- `01:27` [GitHub] lsk7209/today_yakuk / Auto Enrich Supplements `2542e07` 실패
-- `01:21` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `01:16` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
-- `00:49` [GitHub] lsk7209/campgogo.kr / dedup-review `f806a65` 실패
-- `00:19` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `f380a7a` 실패
-- `00:19` [GitHub] lsk7209/crepikacom / Auto Publish Utility Tool `778e681` 실패
-- `00:19` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `778e681` 실패
-- `23:17` [GitHub] lsk7209/today_yakuk / Auto Enrich Supplements `2542e07` 실패
-- `22:15` [GitHub] lsk7209/gong365kr / Apply Drizzle Migrations `eb1605b` 실패
-- `22:13` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `5f6fdaf` 실패
-- `22:09` [GitHub] lsk7209/gong365kr / Apply Drizzle Migrations `8321511` 실패
-- `22:06` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `778e681` 실패
-- `22:06` [GitHub] lsk7209/crepikacom / Auto Publish Utility Tool `778e681` 실패
-- `22:05` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `5499c85` 실패
-- `21:23` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `5499c85` 실패
 - `21:09` [Vercel] 배포 실패
-- `20:49` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
-- `20:14` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `f572378` 실패
 - `19:51` [Vercel] 배포 실패
-- `19:45` [GitHub] lsk7209/today_yakuk / Generate Pharmacy Content `d5da21b` 실패
-- `19:33` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `a7c5301` 실패
-- `19:25` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `a7c5301` 실패
 - `19:03` [Vercel] 배포 실패
 - `19:03` [Vercel] 배포 실패
-- `18:45` [GitHub] lsk7209/today_yakuk / Auto Enrich Supplements `12ad490` 실패
 - `18:45` [Vercel] 배포 실패
-- `17:37` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
-- `17:22` [GitHub] lsk7209/crepikacom / Auto Publish Utility Tool `f572378` 실패
-- `17:22` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `f572378` 실패
-- `15:59` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `091e5ae` 실패
-- `15:44` [GitHub] lsk7209/askorekr / plant-data-pipeline `1e235ed` 실패
-- `13:45` [GitHub] lsk7209/today_yakuk / Auto Enrich Supplements `3238f80` 실패
-- `13:12` [GitHub] lsk7209/nongsusangogo.kr / bulk-collect `e5522fc` 실패
-- `13:03` [GitHub] lsk7209/crepikacom / Auto Publish Blog Post `6946b83` 실패
-- `12:29` [GitHub] lsk7209/spinkorea / Scheduled publish `a4f406b` 실패
-- `11:30` [GitHub] lsk7209/yoyangwon / Release due blog posts `3350cba` 실패
-- `11:07` [GitHub] lsk7209/cartainkr / Auto Publish Article `0a372f7` 실패
-- `10:44` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `091e5ae` 실패
-- `10:38` [GitHub] lsk7209/gong365kr / StartupMoneyMap cron `091e5ae` 실패
-- `09:46` [GitHub] lsk7209/multi-dashboard / Update dashboard stats `ebe4a01` 실패
 
 ## ⚠️ 경고
 
-- `11:41` [GSC] runmania.kr → * 적절한 표준 태그가 포함된 대체 페이지
-- `11:36` [GSC] campgogo.kr → * 찾을 수 없음(404)
-- `11:36` [GSC] campgogo.kr → * 찾을 수 없음(404)
-- `11:33` [GSC] sorimate.com → * 리디렉션이 포함된 페이지
-- `11:27` [GSC] today2424.kr → * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `11:26` [GSC] sssaass.com → * 찾을 수 없음(404)
-- `11:25` [GSC] sssaass.com → * 찾을 수 없음(404)
-- `11:23` [GSC] crepika.com → * 적절한 표준 태그가 포함된 대체 페이지
-- `11:19` [GSC] autoscares.com → * robots.txt에 의해 차단됨
-- `11:13` [GSC] bojo24.kr → * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `11:13` [GSC] bojo24.kr → * 찾을 수 없음(404)
-- `11:07` [GSC] legalser.com → * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `11:07` [GSC] legalser.com → * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `11:06` [GSC] limsight.kr → * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `16:15` [GSC] youkamap.kr → * 찾을 수 없음(404)
-- `16:15` [GSC] youkamap.kr → * 찾을 수 없음(404)
-- `16:06` [GSC] caregos.com → * 적절한 표준 태그가 포함된 대체 페이지
-- `16:03` [GSC] todaypharm.kr → * 리디렉션이 포함된 페이지
+- `11:41` [GSC] runmania.kr — * 적절한 표준 태그가 포함된 대체 페이지
+- `11:36` [GSC] campgogo.kr — * 찾을 수 없음(404)
+- `11:36` [GSC] campgogo.kr — * 찾을 수 없음(404)
+- `11:33` [GSC] sorimate.com — * 리디렉션이 포함된 페이지
+- `11:27` [GSC] today2424.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
+- `11:26` [GSC] sssaass.com — * 찾을 수 없음(404)
+- `11:25` [GSC] sssaass.com — * 찾을 수 없음(404)
+- `11:23` [GSC] crepika.com — * 적절한 표준 태그가 포함된 대체 페이지
+- `11:19` [GSC] autoscares.com — * robots.txt에 의해 차단됨
+- `11:13` [GSC] bojo24.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
+- `11:13` [GSC] bojo24.kr — * 찾을 수 없음(404)
+- `11:07` [GSC] legalser.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `11:07` [GSC] legalser.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `11:06` [GSC] limsight.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `16:15` [GSC] youkamap.kr — * 찾을 수 없음(404)
+- `16:15` [GSC] youkamap.kr — * 찾을 수 없음(404)
+- `16:06` [GSC] caregos.com — * 적절한 표준 태그가 포함된 대체 페이지
+- `16:03` [GSC] todaypharm.kr — * 리디렉션이 포함된 페이지
 - `16:03` [GSC] * 리디렉션이 포함된 페이지
-- `16:02` [GSC] today2424.kr → * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
+- `16:02` [GSC] today2424.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
 - `15:58` [GSC] * 리디렉션이 포함된 페이지
-- `15:57` [GSC] bojo24.kr → * 사용자가 선택한 표준이 없는 중복 페이지
-- `15:53` [GSC] bojo24.kr → * 사용자가 선택한 표준이 없는 중복 페이지
-- `15:49` [GSC] spinkorea.kr → * 적절한 표준 태그가 포함된 대체 페이지
+- `15:57` [GSC] bojo24.kr — * 사용자가 선택한 표준이 없는 중복 페이지
+- `15:53` [GSC] bojo24.kr — * 사용자가 선택한 표준이 없는 중복 페이지
+- `15:49` [GSC] spinkorea.kr — * 적절한 표준 태그가 포함된 대체 페이지
 
 ## 📊 알림
 
