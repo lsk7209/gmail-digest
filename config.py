@@ -34,13 +34,20 @@ FILTERS = [
         "name": "Vercel",
         "sender_contains": "vercel",
         "categories": {
-            "에러": ["Failed production deployment", "Failed production deployments", "error deploying"],
+            "에러": [
+                "Failed production deployment",
+                "Failed production deployments",
+                "error deploying",
+                "not a member of the team",  # 권한 오류
+                "attempted to deploy",
+            ],
         },
     },
     {
         "name": "GSC",
         "sender_contains": "Google Search Console",
         "categories": {
+            "경고": ["색인이 생성되지 않", "새로운 이유로", "색인 생성 오류", "index coverage"],
             "알림": ["트래픽 모니터링", "Search traffic", "search traffic"],
         },
     },
@@ -57,5 +64,6 @@ CATEGORY_EMOJI = {
     "승인": "✅",
     "반려": "❌",
     "에러": "🚨",
+    "경고": "⚠️",
     "알림": "📊",
 }
