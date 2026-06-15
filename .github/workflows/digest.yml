@@ -34,3 +34,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GMAIL_TOKEN_FILE: token.json
+
+      - name: 대시보드 자동 반영
+        if: env.DASHBOARD_WEBHOOK_URL != ''
+        run: |
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST "$DASHBOARD_WEBHOOK_URL" \
+            -H "x-api-key: $DASHBOARD_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{}')
+          echo "Dashboard webhook: $STATUS"
+        env:
+          DASHBOARD_WEBHOOK_URL: ${{ secrets.DASHBOARD_WEBHOOK_URL }}
+          DASHBOARD_API_KEY: ${{ secrets.DASHBOARD_API_KEY }}
