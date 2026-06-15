@@ -66,6 +66,39 @@ FILTERS = [
             "알림": ["Upgrade/Downgrade", "Account updated"],
         },
     },
+    {
+        "name": "AdSense",
+        "sender_contains": "adsense",
+        "categories": {
+            "경고": ["정책 위반", "policy violation", "위반이 감지", "ads.txt", "광고 게재 제한", "serving limit"],
+            "알림": ["지급", "payment", "수익", "earnings", "월간 보고"],
+        },
+    },
+    {
+        "name": "PlayConsole",
+        "sender_contains": "play-developer",
+        "categories": {
+            "경고": ["정책 위반", "policy violation", "앱이 삭제", "app removed", "suspended"],
+            "에러": ["비정상 종료", "crash", "ANR", "fatal"],
+            "알림": ["새 리뷰", "new review", "업데이트", "승인", "published"],
+        },
+    },
+    {
+        "name": "공공데이터",
+        "sender_contains": "data.go.kr",
+        "categories": {
+            "경고": ["만료", "expired", "만료 예정", "서비스키", "API키", "활용 중지"],
+            "알림": ["승인", "신청", "변경", "안내"],
+        },
+    },
+    {
+        "name": "Lovable",
+        "sender_contains": "lovable.dev",
+        "categories": {
+            "에러": ["failed", "error", "실패"],
+            "알림": ["deployed", "published", "usage", "limit"],
+        },
+    },
 ]
 
 CATEGORY_EMOJI = {

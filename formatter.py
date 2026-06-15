@@ -55,6 +55,23 @@ def _item_label(item: dict) -> str:
         domain = item.get("domain", "")
         return f"{domain} 계정 변경" if domain else item["subject"][:50]
 
+    if src == "AdSense":
+        return item["subject"][:60]
+
+    if src == "PlayConsole":
+        return item["subject"][:60]
+
+    if src == "공공데이터":
+        api = item.get("api_name", "")
+        expire = item.get("expire_date", "")
+        if api and expire:
+            return f"{api} 만료 예정 ({expire})"
+        return api or item["subject"][:60]
+
+    if src == "Lovable":
+        project = item.get("project", "")
+        return f"{project} — {item['subject'][:40]}" if project else item["subject"][:60]
+
     return item["subject"][:60]
 
 

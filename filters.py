@@ -30,6 +30,10 @@ def classify_email(email: dict) -> dict | None:
                     result.update(_parse_firebase(subject, body))
                 elif rule["name"] == "cPanel":
                     result.update(_parse_cpanel(subject))
+                elif rule["name"] == "공공데이터":
+                    result.update(_parse_publicdata(subject))
+                elif rule["name"] == "Lovable":
+                    result.update(_parse_lovable(subject))
                 return result
 
     return None
@@ -156,4 +160,26 @@ def _parse_cpanel(subject: str) -> dict:
     m = re.search(r"Upgrade/Downgrade:\s+\S+\s+\((.+?)\)", subject)
     if m:
         extra["domain"] = m.group(1)
+    return extra
+
+
+def _parse_publicdata(subject: str) -> dict:
+    extra = {}
+    # API명 추출: 대괄호 또는 따옴표 안
+    m = re.search(r"['\[「](.{3,40}?)['\]」]", subject)
+    if m:
+        extra["api_name"] = m.group(1)
+    # 만료일 추출
+    m2 = re.search(r"(\d{4}[-./]\d{2}[-./]\d{2})", subject)
+    if m2:
+        extra["expire_date"] = m2.group(1)
+    return extra
+
+
+def _parse_lovable(subject: str) -> dict:
+    extra = {}
+    # 프로젝트명: "Project X deployed" / "[X] failed"
+    m = re.search(r"(?:project\s+)?['\[]?([A-Za-z0-9_-]{3,40})['\]]?\s+(?:deployed|failed|published)", subject, re.IGNORECASE)
+    if m:
+        extra["project"] = m.group(1)
     return extra
