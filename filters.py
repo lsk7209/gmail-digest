@@ -86,12 +86,22 @@ def _parse_github(subject: str) -> dict:
 
 def _parse_vercel(subject: str, body: str) -> dict:
     extra = {}
-    # 배포 사이트: "deploying X to the production"
+    # 배포 사이트: body "deploying X to the production"
     m = re.search(r"deploying\s+(\S+)\s+to the production", body, re.IGNORECASE)
     if m:
         extra["site"] = m.group(1)
-    # 권한 오류: "email attempted to deploy"
-    m2 = re.search(r"([\w.+-]+@[\w.-]+)\s+attempted to deploy", body, re.IGNORECASE)
+    # 배포 사이트 fallback: subject "[vercel] Failed production deployment for site.com"
+    if "site" not in extra:
+        m = re.search(r"deployment for\s+(\S+)", subject, re.IGNORECASE)
+        if m:
+            extra["site"] = m.group(1).rstrip(".")
+    # 배포 사이트 fallback2: body "Your deployment of [project] to ... failed"
+    if "site" not in extra:
+        m = re.search(r"deployment of\s+(\S+)\s+to", body, re.IGNORECASE)
+        if m:
+            extra["site"] = m.group(1)
+    # 권한 오류: "email attempted to deploy" — 앞에 공백/줄바꿈 필수
+    m2 = re.search(r"(?:^|[\s\n<\"])([\w.+-]+@[\w.-]+)\s+attempted to deploy", body, re.IGNORECASE | re.MULTILINE)
     if m2:
         extra["unauthorized_user"] = m2.group(1)
     # 팀명: "on team 'xxx'"

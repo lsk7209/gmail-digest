@@ -74,19 +74,35 @@ def _decode_header(value: str) -> str:
 
 
 def _get_body(msg) -> str:
-    body = ""
+    text_plain = ""
+    text_html = ""
     if msg.is_multipart():
         for part in msg.walk():
-            if part.get_content_type() == "text/plain":
-                payload = part.get_payload(decode=True)
-                if payload:
-                    body = payload.decode(part.get_content_charset() or "utf-8", errors="replace")
-                    break
+            ct = part.get_content_type()
+            payload = part.get_payload(decode=True)
+            if not payload:
+                continue
+            charset = part.get_content_charset() or "utf-8"
+            if ct == "text/plain" and not text_plain:
+                text_plain = payload.decode(charset, errors="replace")
+            elif ct == "text/html" and not text_html:
+                text_html = payload.decode(charset, errors="replace")
     else:
         payload = msg.get_payload(decode=True)
         if payload:
-            body = payload.decode(msg.get_content_charset() or "utf-8", errors="replace")
-    return body
+            charset = msg.get_content_charset() or "utf-8"
+            if msg.get_content_type() == "text/html":
+                text_html = payload.decode(charset, errors="replace")
+            else:
+                text_plain = payload.decode(charset, errors="replace")
+
+    if text_plain:
+        return text_plain
+    # HTML fallback: 태그 제거 후 공백 정리
+    import re as _re
+    text = _re.sub(r"<[^>]+>", " ", text_html)
+    text = _re.sub(r"[ \t]+", " ", text)
+    return text
 
 
 def _parse_date(date_str: str) -> str:
