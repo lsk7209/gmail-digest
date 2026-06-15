@@ -40,6 +40,17 @@ def _item_label(item: dict) -> str:
             return f"{site} → {reason}" if site else reason
         return site or item["subject"][:50]
 
+    if src == "Firebase":
+        app = item.get("app_id", "")
+        ver = item.get("version", "")
+        build = item.get("build", "")
+        ver_str = f" {ver}({build})" if ver else ""
+        if item["category"] == "경고":
+            return f"{app}{ver_str} dSYM 누락"
+        crashes = item.get("crash_count", "")
+        crash_str = f" 장애 {crashes}건" if crashes else ""
+        return f"{app}{ver_str}{crash_str} 안정성 문제"
+
     if src == "cPanel":
         domain = item.get("domain", "")
         return f"{domain} 계정 변경" if domain else item["subject"][:50]
@@ -127,6 +138,11 @@ def build_daily_log(date_str: str, classified: list[dict]) -> str:
                 lines.append(f"- 사이트: `{item['site']}`")
             if item["source"] == "GSC" and item.get("reason"):
                 lines.append(f"- 오류: {item['reason']}")
+            if item["source"] == "Firebase":
+                if item.get("dsym_uuid"):
+                    lines.append(f"- UUID: `{item['dsym_uuid']}`")
+                if item.get("crash_count"):
+                    lines.append(f"- 장애: {item['crash_count']}건 / 사용자 {item.get('user_count', '?')}명")
             if item["source"] == "cPanel" and item.get("domain"):
                 lines.append(f"- 도메인: `{item['domain']}`")
             lines.append("")

@@ -26,6 +26,8 @@ def classify_email(email: dict) -> dict | None:
                     result.update(_parse_vercel(subject, body))
                 elif rule["name"] == "GSC":
                     result.update(_parse_gsc(subject, body))
+                elif rule["name"] == "Firebase":
+                    result.update(_parse_firebase(subject, body))
                 elif rule["name"] == "cPanel":
                     result.update(_parse_cpanel(subject))
                 return result
@@ -96,6 +98,28 @@ def _parse_gsc(subject: str, body: str) -> dict:
             if line and len(line) < 80:
                 extra["reason"] = line
                 break
+    return extra
+
+
+def _parse_firebase(subject: str, body: str) -> dict:
+    extra = {}
+    # dSYM 누락: "dSYM 누락 - iOS com.tennisfrens.app 1.0.44 (164)"
+    m = re.search(r"([\w.]+)\s+([\d.]+)\s+\((\d+)\)", subject)
+    if m:
+        extra["app_id"] = m.group(1)
+        extra["version"] = m.group(2)
+        extra["build"] = m.group(3)
+    # UUID 추출
+    m2 = re.search(r"([0-9A-F]{8}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{12})", body, re.IGNORECASE)
+    if m2:
+        extra["dsym_uuid"] = m2.group(1)
+    # 안정성 문제: 장애 건수/사용자 수
+    m3 = re.search(r"장애\s*(\d+)건", body)
+    if m3:
+        extra["crash_count"] = m3.group(1)
+    m4 = re.search(r"사용자\s*(\d+)명", body)
+    if m4:
+        extra["user_count"] = m4.group(1)
     return extra
 
 

@@ -52,6 +52,14 @@ FILTERS = [
         },
     },
     {
+        "name": "Firebase",
+        "sender_contains": "firebase-noreply@google.com",
+        "categories": {
+            "에러": ["안정성 문제", "발생 빈도", "급속도로 증가", "stability issue", "crash rate"],
+            "경고": ["dSYM", "누락", "missing dSYM"],
+        },
+    },
+    {
         "name": "cPanel",
         "sender_contains": "serverhostgroup",
         "categories": {
