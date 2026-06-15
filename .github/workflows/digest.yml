@@ -1,0 +1,33 @@
+name: Gmail Digest
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6시간마다 (UTC 기준 0, 6, 12, 18시 → KST 9, 15, 21, 3시)
+  workflow_dispatch:          # 수동 실행 가능
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: Gmail 토큰 복원
+        run: echo "$GMAIL_TOKEN" | base64 -d > token.json
+        env:
+          GMAIL_TOKEN: ${{ secrets.GMAIL_TOKEN }}
+
+      - name: Gmail 수집 및 GitHub 업로드
+        run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
