@@ -1,18 +1,23 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-17 01:44 KST
+> 마지막 업데이트: 2026-06-17 05:44 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 72 |
+| ✅ 승인 | 77 |
 | ❌ 반려 | 9 |
-| 🚨 에러 | 57 |
+| 🚨 에러 | 61 |
 | ⚠️ 경고 | 14 |
 | 📊 알림 | 11 |
 
 ## ✅ 승인
 
+- `03:00` [앱인토스] 짠테크 복권 v20260617-31 → ✅ 승인 ⚠️ 출시 필요
+- `02:46` [앱인토스] 리셋아워 v20260616-7 → ✅ 승인 ⚠️ 출시 필요
+- `02:16` [앱인토스] 카덕후 v20260616-22 → ✅ 승인 ⚠️ 출시 필요
+- `02:16` [앱인토스] 오늘 뭐 입지 v20260616-5 → ✅ 승인 ⚠️ 출시 필요
+- `02:01` [앱인토스] 집중 스프린트 v20260616-1 → ✅ 승인 ⚠️ 출시 필요
 - `18:51` [앱인토스] 미라클모닝 v20260616-10 → ✅ 승인 ⚠️ 출시 필요
 - `16:20` [앱인토스] 계단 도장 v20260612-4 → ✅ 승인 ⚠️ 출시 필요
 - `16:19` [앱인토스] 오늘의 전국 v20260612-4 → ✅ 승인 ⚠️ 출시 필요
@@ -114,11 +119,11 @@
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **6회** | `80db30e` |
 | `today_yakuk` | Daily Pharmacy Sync | 데이터 | 1회 | `80db30e` |
 | `gmail-digest` | Gmail Digest | 배포 | **2회** | `5145700` |
-| `campgogo.kr` | backup | 시스템 | 1회 | `bf840ae` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **7회** | `f380a7a` |
+| `campgogo.kr` | backup | 시스템 | **2회** | `bf840ae` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **9회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **3회** | `67a07a0` |
 | `cartainkr` | Auto Publish Article | 콘텐츠 | **2회** | `92d3475` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **4회** | `91b08c7` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **5회** | `91b08c7` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `91b08c7` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `a4f406b` |
 | `yoyangwon` | Release due blog posts | 콘텐츠 | **7회** | `d2d25c6` |
