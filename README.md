@@ -1,18 +1,22 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-16 12:34 KST
+> 마지막 업데이트: 2026-06-16 20:02 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 68 |
-| ❌ 반려 | 7 |
-| 🚨 에러 | 39 |
+| ✅ 승인 | 72 |
+| ❌ 반려 | 9 |
+| 🚨 에러 | 48 |
 | ⚠️ 경고 | 14 |
-| 📊 알림 | 10 |
+| 📊 알림 | 11 |
 
 ## ✅ 승인
 
+- `18:51` [앱인토스] 미라클모닝 v20260616-10 → ✅ 승인 ⚠️ 출시 필요
+- `16:20` [앱인토스] 계단 도장 v20260612-4 → ✅ 승인 ⚠️ 출시 필요
+- `16:19` [앱인토스] 오늘의 전국 v20260612-4 → ✅ 승인 ⚠️ 출시 필요
+- `14:22` [앱인토스] 연봉 계산기 v20260616-10 → ✅ 승인 ⚠️ 출시 필요
 - `11:45` [앱인토스] 아기 디데이 v20260616-3 → ✅ 승인 ⚠️ 출시 필요
 - `11:36` [앱인토스] 1분 경제뉴스 v20260616-12 → ✅ 승인 ⚠️ 출시 필요
 - `11:35` [앱인토스] 연봉 계산기 v20260615-9 → ✅ 승인 ⚠️ 출시 필요
@@ -84,6 +88,8 @@
 
 ## ❌ 반려
 
+- `18:49` [앱인토스] 책상 자세 리셋 v20260616-2 → ❌ 반려
+- `16:18` [앱인토스] 미라클모닝 v20260615-8 → ❌ 반려
 - `18:10` [앱인토스] 잔머리테스트 v20260614-11 → ❌ 반려
 - `11:37` [앱인토스] 미래의 나에게 v20260612-3 → ❌ 반려
 - `11:37` [앱인토스] 계절 꽃 도감 v20260612-3 → ❌ 반려
@@ -98,23 +104,23 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `campgogo.kr` | bulk-collect | 데이터 | 1회 | `f806a65` |
 | `dolbomjigi` | ETL Scheduled Jobs | 데이터 | 1회 | `422ebc2` |
-| `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `e5522fc` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `e5522fc` |
 | `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `a669408` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `a669408` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **4회** | `80db30e` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **5회** | `80db30e` |
 | `today_yakuk` | Daily Pharmacy Sync | 데이터 | 1회 | `80db30e` |
 | `gmail-digest` | Gmail Digest | 배포 | **2회** | `5145700` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `bf840ae` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **4회** | `f380a7a` |
-| `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `80db30e` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **6회** | `f380a7a` |
+| `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `80db30e` |
 | `cartainkr` | Auto Publish Article | 콘텐츠 | **2회** | `92d3475` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `bf44fc0` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `bf44fc0` |
-| `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `a4f406b` |
-| `yoyangwon` | Release due blog posts | 콘텐츠 | **5회** | `3350cba` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `bf44fc0` |
+| `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `a4f406b` |
+| `yoyangwon` | Release due blog posts | 콘텐츠 | **6회** | `3350cba` |
 
 - `23:45` [Vercel] 배포 실패
 - `14:28` [Vercel] 권한 오류: Vercelauto-publisher@crepika.com 배포 시도
@@ -138,6 +144,7 @@
 
 ## 📊 알림
 
+- `15:44` [공공데이터]  공공데이터포털 
 - `03:37` [AdSense] Important notice regarding your AdSense for YouTube account
 - `15:11` [공공데이터]  공공데이터포털 
 - `15:10` [공공데이터]  공공데이터포털 
