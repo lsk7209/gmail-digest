@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-16 20:02 KST
+> 마지막 업데이트: 2026-06-17 01:44 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 72 |
 | ❌ 반려 | 9 |
-| 🚨 에러 | 48 |
+| 🚨 에러 | 57 |
 | ⚠️ 경고 | 14 |
 | 📊 알림 | 11 |
 
@@ -104,24 +104,26 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
+| `crepikacom` | Quality Gates | 기타 | 1회 | `f03ed11` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `campgogo.kr` | bulk-collect | 데이터 | 1회 | `f806a65` |
 | `dolbomjigi` | ETL Scheduled Jobs | 데이터 | 1회 | `422ebc2` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `e5522fc` |
 | `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `a669408` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `a669408` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **5회** | `80db30e` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **6회** | `80db30e` |
 | `today_yakuk` | Daily Pharmacy Sync | 데이터 | 1회 | `80db30e` |
 | `gmail-digest` | Gmail Digest | 배포 | **2회** | `5145700` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `bf840ae` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **6회** | `f380a7a` |
-| `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `80db30e` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **7회** | `f380a7a` |
+| `today_yakuk` | Turso Usage Monitor | 시스템 | **3회** | `67a07a0` |
 | `cartainkr` | Auto Publish Article | 콘텐츠 | **2회** | `92d3475` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `bf44fc0` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `bf44fc0` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **4회** | `91b08c7` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `91b08c7` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `a4f406b` |
-| `yoyangwon` | Release due blog posts | 콘텐츠 | **6회** | `3350cba` |
+| `yoyangwon` | Release due blog posts | 콘텐츠 | **7회** | `d2d25c6` |
 
+- `21:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
 - `23:45` [Vercel] 배포 실패
 - `14:28` [Vercel] 권한 오류: Vercelauto-publisher@crepika.com 배포 시도
 
@@ -158,5 +160,6 @@
 
 ## 📁 로그 파일
 
+- [2026-06-17](logs/2026-06-17.md)
 - [2026-06-16](logs/2026-06-16.md)
 - [2026-06-15](logs/2026-06-15.md)
