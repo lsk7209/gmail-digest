@@ -1,18 +1,25 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-18 01:54 KST
+> 마지막 업데이트: 2026-06-18 04:25 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 53 |
+| ✅ 승인 | 60 |
 | ❌ 반려 | 12 |
-| 🚨 에러 | 53 |
+| 🚨 에러 | 56 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
 ## ✅ 승인
 
+- `02:46` [앱인토스] 집중 휴식 리셋 v20260616-3 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `02:15` [앱인토스] 축의금 가이드 v20260616-3 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `02:15` [앱인토스] 아기 디데이 v20260616-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `02:15` [앱인토스] 옷장 한 벌 조합 v20260616-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `02:15` [앱인토스] 책상 자세 리셋 v20260616-3 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `02:15` [앱인토스] 출근 여유 계산기 v20260616-3 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `02:01` [앱인토스] 에어프라이어 가이드 v20260616-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `23:15` [앱인토스] OX 상식퀴즈 v20260617-8 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `23:00` [앱인토스] 오늘의 반응속도 v20260617-6 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `22:46` [앱인토스] 가계부노트 v20260617-6 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -98,11 +105,11 @@
 | `today_yakuk` | Daily Pharmacy Sync | 데이터 | 1회 | `423d11d` |
 | `dolbomjigi` | CI | 배포 | 1회 | `0cc1c91` |
 | `petjigi` | Deploy — Vercel Production | 배포 | 1회 | `f153b51` |
-| `campgogo.kr` | backup | 시스템 | 1회 | `bf840ae` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **17회** | `93b14a0` |
+| `campgogo.kr` | backup | 시스템 | **2회** | `bf840ae` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **18회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **3회** | `4184166` |
 | `cartainkr` | Auto Publish Article | 콘텐츠 | 1회 | `92d3475` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `1d74eec` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2dae7fd` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **5회** | `acdfe28` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `a4f406b` |
 | `yoyangwon` | Release due blog posts | 콘텐츠 | **3회** | `d2d25c6` |
