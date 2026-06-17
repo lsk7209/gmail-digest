@@ -15,7 +15,7 @@ def _item_label(item: dict) -> str:
         ver = item.get("app_version", "")
         ver_str = f" v{ver}" if ver else ""
         emoji = CATEGORY_EMOJI[cat]
-        action = " ⚠️ 출시 필요" if item.get("action") else ""
+        action = " ⚠️ 출시 업데이트 필요" if item.get("release_update_required") else ""
         return f"{name}{ver_str} → {emoji} {cat}{action}"
 
     if src == "GitHub":

@@ -55,7 +55,8 @@ def _parse_appin_toss(subject: str, category: str) -> dict:
         extra["app_version"] = m.group(1)
 
     if category == "승인":
-        extra["action"] = "출시 필요 — 콘솔에서 [출시하기] 클릭"
+        extra["release_update_required"] = True
+        extra["action"] = "출시 처리 후 앱인토스 반영 시 출시 업데이트 필요"
 
     return extra
 
