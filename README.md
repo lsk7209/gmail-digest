@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-18 04:25 KST
+> 마지막 업데이트: 2026-06-18 06:59 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 60 |
 | ❌ 반려 | 12 |
-| 🚨 에러 | 56 |
+| 🚨 에러 | 60 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -96,7 +96,7 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `crepikacom` | Quality Gates | 기타 | 1회 | `f03ed11` |
-| `gungangbohum` | Publish scheduled content | 기타 | **2회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **3회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `dolbomjigi` | ETL Scheduled Jobs | 데이터 | 1회 | `422ebc2` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `e5522fc` |
@@ -106,11 +106,11 @@
 | `dolbomjigi` | CI | 배포 | 1회 | `0cc1c91` |
 | `petjigi` | Deploy — Vercel Production | 배포 | 1회 | `f153b51` |
 | `campgogo.kr` | backup | 시스템 | **2회** | `bf840ae` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **18회** | `93b14a0` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **19회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **3회** | `4184166` |
 | `cartainkr` | Auto Publish Article | 콘텐츠 | 1회 | `92d3475` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2dae7fd` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **5회** | `acdfe28` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `dbb3f5d` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **6회** | `dbb3f5d` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `a4f406b` |
 | `yoyangwon` | Release due blog posts | 콘텐츠 | **3회** | `d2d25c6` |
 
