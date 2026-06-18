@@ -1,18 +1,19 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-19 01:29 KST
+> 마지막 업데이트: 2026-06-19 04:26 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 84 |
+| ✅ 승인 | 85 |
 | ❌ 반려 | 9 |
-| 🚨 에러 | 51 |
+| 🚨 에러 | 55 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
 ## ✅ 승인
 
+- `02:31` [앱인토스] 넌센스 한판 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `01:16` [앱인토스] 오늘의영단어 v20260618-9 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `01:16` [앱인토스] 감정다이어리 v20260618-10 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `01:01` [앱인토스] 타임캡슐 v20260618-7 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -117,12 +118,12 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `crepikacom` | Quality Gates | 기타 | **2회** | `6d79752` |
-| `gungangbohum` | Publish scheduled content | 기타 | **8회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **9회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `e5522fc` |
 | `2424` | Deploy to Vercel | 배포 | **4회** | `9d53d92` |
-| `campgogo.kr` | backup | 시스템 | 1회 | `bf840ae` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **17회** | `93b14a0` |
+| `campgogo.kr` | backup | 시스템 | **2회** | `90c6202` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **19회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **6회** | `e63c209` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `1274dc9` |
