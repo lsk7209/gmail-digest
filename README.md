@@ -1,18 +1,25 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-18 12:41 KST
+> 마지막 업데이트: 2026-06-18 17:44 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 51 |
+| ✅ 승인 | 58 |
 | ❌ 반려 | 9 |
-| 🚨 에러 | 29 |
+| 🚨 에러 | 36 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
 ## ✅ 승인
 
+- `15:16` [앱인토스] 회의 10분 브리프 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `14:15` [앱인토스] 홈카페 메뉴 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `14:15` [앱인토스] 빨래 날씨 체크 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `14:01` [앱인토스] 선물 힌트 정리 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `13:45` [앱인토스] 집중 스프린트 v20260618-5 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `13:30` [앱인토스] 선물 고민 끝 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `13:30` [앱인토스] 냉장고 우선순위 메모 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `11:46` [앱인토스] 옷장 한 벌 조합 v20260618-5 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `11:46` [앱인토스] 축의금 가이드 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `11:16` [앱인토스] 아기 디데이 v20260618-5 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -83,14 +90,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `gungangbohum` | Publish scheduled content | 기타 | **5회** | `d805895` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
-| `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `e5522fc` |
+| `gungangbohum` | Publish scheduled content | 기타 | **6회** | `d805895` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `e5522fc` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `bf840ae` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **11회** | `93b14a0` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **13회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **4회** | `dbb3f5d` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **5회** | `2736917` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **4회** | `b29dc21` |
+
+- `15:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
 
 ## 📊 알림
 
