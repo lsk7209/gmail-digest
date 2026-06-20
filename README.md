@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-21 00:47 KST
+> 마지막 업데이트: 2026-06-21 02:24 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 17 |
 | ❌ 반려 | 7 |
-| 🚨 에러 | 97 |
+| 🚨 에러 | 107 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -47,19 +47,20 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **12회** | `` |
+| `` |  | 기타 | **13회** | `` |
 | `coverclarityhealth.com` | Content quality | 기타 | **3회** | `276d18e` |
-| `gungangbohum` | Publish scheduled content | 기타 | **13회** | `d805895` |
-| `kapti.kr` | .github/workflows/content-publish-seo.yml | 기타 | **5회** | `0d486a8` |
+| `gungangbohum` | Publish scheduled content | 기타 | **14회** | `d805895` |
+| `kapti.kr` | .github/workflows/content-publish-seo.yml | 기타 | **7회** | `52c7f29` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
+| `dolbomjigi` | CI | 배포 | **2회** | `e906b41` |
 | `gmail-digest` | Gmail Digest | 배포 | **8회** | `b9289da` |
 | `solarpaybackmap.com` | CI | 배포 | **2회** | `f442629` |
-| `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **23회** | `93b14a0` |
+| `campgogo.kr` | backup | 시스템 | **2회** | `90c6202` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **25회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **10회** | `a6d165b` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `a6d165b` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `876fcb3` |
 
 - `09:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
 - `12:26` [Vercel] 배포 실패
