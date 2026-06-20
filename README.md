@@ -1,18 +1,21 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-20 22:58 KST
+> 마지막 업데이트: 2026-06-21 00:47 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 14 |
-| ❌ 반려 | 0 |
-| 🚨 에러 | 86 |
+| ✅ 승인 | 17 |
+| ❌ 반려 | 7 |
+| 🚨 에러 | 97 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
 ## ✅ 승인
 
+- `23:18` [앱인토스] 식물 물주는 날 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `23:18` [앱인토스] 가벼운 스트레칭 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `23:18` [앱인토스] 우산 타이밍 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `02:46` [앱인토스] 디데이모아 v20260619-14 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `02:46` [앱인토스] 코냥이 v20260619-15 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `02:31` [앱인토스] 색깔 테스트 v20260619-15 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -28,23 +31,34 @@
 - `02:01` [앱인토스] 드라마퀴즈 v20260619-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `01:46` [앱인토스] 1분 스트레칭 v20260619-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
 
+## ❌ 반려
+
+- `23:18` [앱인토스] 물마심 균형 → ❌ 반려
+- `23:17` [앱인토스] 주말 리셋 루틴 → ❌ 반려
+- `23:17` [앱인토스] 방 정리 루틴 → ❌ 반려
+- `23:17` [앱인토스] 복약 체크 메모 → ❌ 반려
+- `23:17` [앱인토스] 여행 짐 체크 → ❌ 반려
+- `23:17` [앱인토스] 구독 정리 체크 → ❌ 반려
+- `23:17` [앱인토스] 수면 리듬 체크 → ❌ 반려
+
 ## 🚨 에러
 
 ### 🔴 GitHub Actions 실패
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **11회** | `` |
-| `coverclarityhealth.com` | Content quality | 기타 | 1회 | `2e84f44` |
-| `gungangbohum` | Publish scheduled content | 기타 | **12회** | `d805895` |
-| `kapti.kr` | .github/workflows/content-publish-seo.yml | 기타 | **3회** | `54b2af5` |
+| `` |  | 기타 | **12회** | `` |
+| `coverclarityhealth.com` | Content quality | 기타 | **3회** | `276d18e` |
+| `gungangbohum` | Publish scheduled content | 기타 | **13회** | `d805895` |
+| `kapti.kr` | .github/workflows/content-publish-seo.yml | 기타 | **5회** | `0d486a8` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
 | `gmail-digest` | Gmail Digest | 배포 | **8회** | `b9289da` |
+| `solarpaybackmap.com` | CI | 배포 | **2회** | `f442629` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **21회** | `93b14a0` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **23회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **9회** | `a6d165b` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **10회** | `a6d165b` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `a6d165b` |
 
 - `09:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
@@ -59,6 +73,7 @@
 
 ## 📁 로그 파일
 
+- [2026-06-21](logs/2026-06-21.md)
 - [2026-06-20](logs/2026-06-20.md)
 - [2026-06-19](logs/2026-06-19.md)
 - [2026-06-18](logs/2026-06-18.md)
