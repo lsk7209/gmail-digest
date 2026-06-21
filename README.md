@@ -1,35 +1,21 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-21 08:06 KST
+> 마지막 업데이트: 2026-06-21 12:58 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 17 |
+| ✅ 승인 | 3 |
 | ❌ 반려 | 7 |
-| 🚨 에러 | 126 |
+| 🚨 에러 | 73 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 1 |
+| 📊 알림 | 0 |
 
 ## ✅ 승인
 
 - `23:18` [앱인토스] 식물 물주는 날 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `23:18` [앱인토스] 가벼운 스트레칭 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `23:18` [앱인토스] 우산 타이밍 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:46` [앱인토스] 디데이모아 v20260619-14 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:46` [앱인토스] 코냥이 v20260619-15 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:31` [앱인토스] 색깔 테스트 v20260619-15 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:31` [앱인토스] 색채 무드보드 v20260619-7 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:31` [앱인토스] 둘중 선택하기 v20260619-6 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:16` [앱인토스] 이상형월드컵 v20260619-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:16` [앱인토스] 불멍 모닥불 v20260619-5 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:16` [앱인토스] 컬러아이 v20260619-12 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:16` [앱인토스] 추억하면 돈벌기 v20260619-8 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:01` [앱인토스] 가계부노트 v20260619-7 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:01` [앱인토스] 1분 명상 v20260619-28 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:01` [앱인토스] 버킷리스트 우주 v20260619-6 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `02:01` [앱인토스] 드라마퀴즈 v20260619-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `01:46` [앱인토스] 1분 스트레칭 v20260619-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
 
 ## ❌ 반려
 
@@ -47,31 +33,22 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **16회** | `` |
-| `coverclarityhealth.com` | Content quality | 기타 | **3회** | `276d18e` |
-| `gungangbohum` | Publish scheduled content | 기타 | **17회** | `d805895` |
-| `kapti.kr` | .github/workflows/content-publish-seo.yml | 기타 | **7회** | `52c7f29` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
-| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
+| `` |  | 기타 | **10회** | `` |
+| `coverclarityhealth.com` | Content quality | 기타 | **2회** | `276d18e` |
+| `gungangbohum` | Publish scheduled content | 기타 | **10회** | `d805895` |
+| `kapti.kr` | .github/workflows/content-publish-seo.yml | 기타 | **4회** | `52c7f29` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `2f463a5` |
 | `dolbomjigi` | CI | 배포 | **2회** | `e906b41` |
-| `gmail-digest` | Gmail Digest | 배포 | **8회** | `b9289da` |
 | `solarpaybackmap.com` | CI | 배포 | **2회** | `f442629` |
-| `campgogo.kr` | backup | 시스템 | **2회** | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **31회** | `93b14a0` |
+| `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **19회** | `93b14a0` |
 | `temon` | SEO Weekly Report | 시스템 | 1회 | `91e0929` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **13회** | `e057f87` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `6a90f84` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **8회** | `f369608` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `f369608` |
 
 - `09:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
-- `12:26` [Vercel] 배포 실패
-- `12:20` [Vercel] 배포 실패
-- `10:00` [Vercel] 배포 실패
-- `09:36` [Vercel] 배포 실패
-
-## 📊 알림
-
-- `17:02` [GSC] limsight.kr
 
 ## 📁 로그 파일
 
