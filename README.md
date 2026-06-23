@@ -1,18 +1,22 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-23 20:59 KST
+> 마지막 업데이트: 2026-06-24 00:20 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 40 |
+| ✅ 승인 | 44 |
 | ❌ 반려 | 3 |
-| 🚨 에러 | 54 |
+| 🚨 에러 | 61 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
 ## ✅ 승인
 
+- `23:00` [앱인토스] 맞춤법퀴즈 v20260623-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `22:46` [앱인토스] 미라클모닝 v20260623-13 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `22:31` [앱인토스] 오늘의미션 v20260623-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `22:15` [앱인토스] 말투 바꿔드림 v20260623-6 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `12:53` [앱인토스] 1분 경제뉴스 v20260622-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `12:52` [앱인토스] 보험용어사전 v20260622-12 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `12:51` [앱인토스] 1분금융테스트 v20260619-38 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -66,17 +70,19 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **8회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **8회** | `d805895` |
+| `` |  | 기타 | **9회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **9회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `campgogo.kr` | bulk-collect | 데이터 | 1회 | `90c6202` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
 | `gmail-digest` | Gmail Digest | 배포 | **6회** | `cd2f54d` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **16회** | `93b14a0` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **18회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **4회** | `963d8f3` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **4회** | `963d8f3` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **5회** | `d7f3353` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `d7f3353` |
+
+- `21:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
 
 ## 📊 알림
 
@@ -85,6 +91,7 @@
 
 ## 📁 로그 파일
 
+- [2026-06-24](logs/2026-06-24.md)
 - [2026-06-23](logs/2026-06-23.md)
 - [2026-06-22](logs/2026-06-22.md)
 - [2026-06-21](logs/2026-06-21.md)
