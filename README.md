@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-23 13:59 KST
+> 마지막 업데이트: 2026-06-23 17:33 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 40 |
 | ❌ 반려 | 3 |
-| 🚨 에러 | 46 |
+| 🚨 에러 | 50 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
@@ -68,14 +68,14 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **7회** | `` |
 | `gungangbohum` | Publish scheduled content | 기타 | **7회** | `d805895` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `campgogo.kr` | bulk-collect | 데이터 | 1회 | `90c6202` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
 | `gmail-digest` | Gmail Digest | 배포 | **6회** | `cd2f54d` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **13회** | `93b14a0` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **15회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `9073705` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **4회** | `963d8f3` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **3회** | `9073705` |
 
 ## 📊 알림
