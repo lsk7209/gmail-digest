@@ -1,18 +1,22 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-23 09:03 KST
+> 마지막 업데이트: 2026-06-23 13:59 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 36 |
+| ✅ 승인 | 40 |
 | ❌ 반려 | 3 |
-| 🚨 에러 | 39 |
+| 🚨 에러 | 46 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 1 |
+| 📊 알림 | 2 |
 
 ## ✅ 승인
 
+- `12:53` [앱인토스] 1분 경제뉴스 v20260622-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `12:52` [앱인토스] 보험용어사전 v20260622-12 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `12:51` [앱인토스] 1분금융테스트 v20260619-38 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `12:50` [앱인토스] 연봉 계산기 v20260619-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `02:15` [앱인토스] 강아지저금통 v20260622-27 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `01:01` [앱인토스] 오늘의미션 v20260622-15 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `23:30` [앱인토스] 1분 경제퀴즈 v20260622-31 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -62,20 +66,21 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **6회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **6회** | `d805895` |
+| `` |  | 기타 | **7회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **7회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
 | `campgogo.kr` | bulk-collect | 데이터 | 1회 | `90c6202` |
-| `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `2f463a5` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
 | `gmail-digest` | Gmail Digest | 배포 | **6회** | `cd2f54d` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **11회** | `93b14a0` |
-| `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `4184166` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **13회** | `93b14a0` |
+| `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `9073705` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `9073705` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **3회** | `9073705` |
 
 ## 📊 알림
 
+- `13:38` [GSC] coverclarityhealth.com
 - `10:56` [GSC] kapti.kr
 
 ## 📁 로그 파일
