@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-24 19:22 KST
+> 마지막 업데이트: 2026-06-24 22:21 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 8 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 65 |
+| 🚨 에러 | 70 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -28,14 +28,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **10회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **10회** | `d805895` |
+| `` |  | 기타 | **11회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **11회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **18회** | `93b14a0` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **20회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `471a81b` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `d69edf4` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **7회** | `471a81b` |
 
 - `21:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
