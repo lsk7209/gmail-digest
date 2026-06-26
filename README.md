@@ -1,26 +1,25 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-25 05:47 KST
+> 마지막 업데이트: 2026-06-26 12:29 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 8 |
-| ❌ 반려 | 0 |
-| 🚨 에러 | 89 |
+| ✅ 승인 | 3 |
+| ❌ 반려 | 1 |
+| 🚨 에러 | 61 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 3 |
+| 📊 알림 | 2 |
 
 ## ✅ 승인
 
-- `23:00` [앱인토스] 맞춤법퀴즈 v20260623-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `22:46` [앱인토스] 미라클모닝 v20260623-13 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `22:31` [앱인토스] 오늘의미션 v20260623-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `22:15` [앱인토스] 말투 바꿔드림 v20260623-6 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `12:53` [앱인토스] 1분 경제뉴스 v20260622-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `12:52` [앱인토스] 보험용어사전 v20260622-12 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `12:51` [앱인토스] 1분금융테스트 v20260619-38 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `12:50` [앱인토스] 연봉 계산기 v20260619-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `16:51` [앱인토스] 0원의하루 v20260622-8 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `16:40` [앱인토스] 우리 사이  100답 v20260618-9 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `16:39` [앱인토스] 미래의 나에게 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
+
+## ❌ 반려
+
+- `16:52` [앱인토스] 계절 꽃 도감 v20260622-4 → ❌ 반려
 
 ## 🚨 에러
 
@@ -28,26 +27,25 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **14회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **14회** | `d805895` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
-| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
-| `campgogo.kr` | backup | 시스템 | **2회** | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **26회** | `93b14a0` |
+| `` |  | 기타 | **9회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **9회** | `d805895` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `2f463a5` |
+| `gmail-digest` | Gmail Digest | 배포 | **9회** | `6d36aa6` |
+| `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **13회** | `93b14a0` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `440805a` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **10회** | `440805a` |
-
-- `21:50` [Lovable] $25.00 payment to Lovable Labs Incorporated was unsuccessful
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `43877fa` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **6회** | `43877fa` |
 
 ## 📊 알림
 
-- `14:55` [GSC] smart.sellerpit.kr
-- `14:52` [GSC] solarpaybackmap.com
-- `13:38` [GSC] coverclarityhealth.com
+- `16:57` [GSC] travel.sellerpit.kr
+- `11:03` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
 
+- [2026-06-26](logs/2026-06-26.md)
 - [2026-06-25](logs/2026-06-25.md)
 - [2026-06-24](logs/2026-06-24.md)
 - [2026-06-23](logs/2026-06-23.md)
