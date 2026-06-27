@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-27 09:05 KST
+> 마지막 업데이트: 2026-06-27 13:52 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 52 |
+| 🚨 에러 | 61 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,16 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **8회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **8회** | `d805895` |
+| `` |  | 기타 | **9회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **9회** | `d805895` |
 | `lim-skills` | Skill checks | 기타 | 1회 | `2fd4b39` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
-| `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `2f463a5` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **14회** | `93b14a0` |
-| `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `4184166` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `003567a` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **6회** | `003567a` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **17회** | `93b14a0` |
+| `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `003567a` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **7회** | `003567a` |
 
 ## 📁 로그 파일
 
