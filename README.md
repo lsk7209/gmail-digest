@@ -1,25 +1,15 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-27 07:11 KST
+> 마지막 업데이트: 2026-06-27 09:05 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 3 |
-| ❌ 반려 | 1 |
-| 🚨 에러 | 101 |
+| ✅ 승인 | 0 |
+| ❌ 반려 | 0 |
+| 🚨 에러 | 52 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 2 |
-
-## ✅ 승인
-
-- `16:51` [앱인토스] 0원의하루 v20260622-8 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `16:40` [앱인토스] 우리 사이  100답 v20260618-9 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `16:39` [앱인토스] 미래의 나에게 v20260618-4 → ✅ 승인 ⚠️ 출시 업데이트 필요
-
-## ❌ 반려
-
-- `16:52` [앱인토스] 계절 꽃 도감 v20260622-4 → ❌ 반려
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -27,22 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **15회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **15회** | `d805895` |
+| `` |  | 기타 | **8회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **8회** | `d805895` |
 | `lim-skills` | Skill checks | 기타 | 1회 | `2fd4b39` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
-| `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `2f463a5` |
-| `gmail-digest` | Gmail Digest | 배포 | **9회** | `6d36aa6` |
-| `campgogo.kr` | backup | 시스템 | **2회** | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **24회** | `93b14a0` |
-| `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **18회** | `34278c6` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **11회** | `34278c6` |
-
-## 📊 알림
-
-- `16:57` [GSC] travel.sellerpit.kr
-- `11:03` [공공데이터]  공공데이터포털 
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
+| `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `2f463a5` |
+| `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **14회** | `93b14a0` |
+| `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `4184166` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `003567a` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **6회** | `003567a` |
 
 ## 📁 로그 파일
 
