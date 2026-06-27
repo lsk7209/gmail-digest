@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-27 16:48 KST
+> 마지막 업데이트: 2026-06-27 19:06 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 127 |
+| 🚨 에러 | 133 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,7 +17,7 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **10회** | `` |
+| `` |  | 기타 | **11회** | `` |
 | `2424` | Live Cost Watch | 기타 | **5회** | `e387ee2` |
 | `campgogo.kr` | Live Cost Watch | 기타 | **2회** | `87eee46` |
 | `crepikacom` | Quality Gates | 기타 | **5회** | `3ad04d7` |
@@ -26,7 +26,7 @@
 | `dog-breed` | Publish scheduled BreedWise posts | 기타 | 1회 | `547b4b3` |
 | `dolbomjigi` | Live Cost Watch | 기타 | **2회** | `5d2230a` |
 | `gong365kr` | Live Cost Watch | 기타 | **2회** | `f5b3ca3` |
-| `gungangbohum` | Publish scheduled content | 기타 | **10회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **11회** | `d805895` |
 | `lim-skills` | Skill checks | 기타 | 1회 | `2fd4b39` |
 | `nongsusangogo.kr` | Live Cost Watch | 기타 | **2회** | `15579a3` |
 | `petjigi` | Live Cost Watch | 기타 | **2회** | `d1c6a39` |
@@ -45,10 +45,10 @@
 | `pickleball_app` | Lint TS (eslint, prettier) | 배포 | **5회** | `259c9cb` |
 | `tennis_friends` | Deploy to GitHub Pages | 배포 | **5회** | `2c21087` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `90c6202` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **18회** | `0af1f9f` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **20회** | `bdd5a4e` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `4184166` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `bbd0f6a` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **7회** | `003567a` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `3ad04d7` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **8회** | `3ad04d7` |
 
 ## 📁 로그 파일
 
