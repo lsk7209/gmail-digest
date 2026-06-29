@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-29 23:47 KST
+> 마지막 업데이트: 2026-06-30 02:35 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 2 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 96 |
+| 🚨 에러 | 100 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -22,7 +22,7 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **13회** | `` |
+| `` |  | 기타 | **14회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `5779ca2` |
 | `gungangbohum` | Publish scheduled content | 기타 | **14회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
@@ -31,10 +31,10 @@
 | `gmail-digest` | Gmail Digest | 배포 | **10회** | `c4a32fc` |
 | `campgogo.kr` | dedup-review | 시스템 | 1회 | `2aa94af` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `2aa94af` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **22회** | `bdd5a4e` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **23회** | `bdd5a4e` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | **2회** | `6f7b14c` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `9da6853` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **10회** | `9da6853` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **17회** | `4ddc039` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **11회** | `4ddc039` |
 
 ## 📊 알림
 
@@ -44,6 +44,7 @@
 
 ## 📁 로그 파일
 
+- [2026-06-30](logs/2026-06-30.md)
 - [2026-06-29](logs/2026-06-29.md)
 - [2026-06-28](logs/2026-06-28.md)
 - [2026-06-27](logs/2026-06-27.md)
@@ -57,4 +58,3 @@
 - [2026-06-19](logs/2026-06-19.md)
 - [2026-06-18](logs/2026-06-18.md)
 - [2026-06-17](logs/2026-06-17.md)
-- [2026-06-16](logs/2026-06-16.md)
