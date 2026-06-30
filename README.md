@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-06-30 21:07 KST
+> 마지막 업데이트: 2026-07-01 00:26 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 2 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 70 |
+| 🚨 에러 | 74 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 7 |
 
@@ -22,18 +22,18 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **10회** | `` |
+| `` |  | 기타 | **11회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `5779ca2` |
-| `gungangbohum` | Publish scheduled content | 기타 | **10회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **11회** | `d805895` |
 | `runmania` | Auto-Publish Cron | 기타 | 1회 | `607ed16` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `campgogo.kr` | bulk-collect | 데이터 | 1회 | `2aa94af` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `45d9655` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `68a5e65` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `2aa94af` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **20회** | `bdd5a4e` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **21회** | `bdd5a4e` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `6f7b14c` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `8967845` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `8967845` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **7회** | `8967845` |
 
 ## 📊 알림
@@ -48,6 +48,7 @@
 
 ## 📁 로그 파일
 
+- [2026-07-01](logs/2026-07-01.md)
 - [2026-06-30](logs/2026-06-30.md)
 - [2026-06-29](logs/2026-06-29.md)
 - [2026-06-28](logs/2026-06-28.md)
@@ -61,4 +62,3 @@
 - [2026-06-20](logs/2026-06-20.md)
 - [2026-06-19](logs/2026-06-19.md)
 - [2026-06-18](logs/2026-06-18.md)
-- [2026-06-17](logs/2026-06-17.md)
