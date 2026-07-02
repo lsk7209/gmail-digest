@@ -10,6 +10,7 @@ from gmail_client import fetch_emails
 from filters import classify_email
 from formatter import build_readme, build_daily_log
 from github_uploader import ensure_repo_exists, upsert_file, list_log_dates
+from dashboard_ingest import post_to_dashboard
 
 
 def main():
@@ -30,6 +31,17 @@ def main():
     print(f"  분류된 메일 {len(classified)}건")
     for item in classified:
         print(f"    [{item['category']}] {item['source']} | {item['subject'][:60]}")
+
+    dashboard_result = post_to_dashboard(classified)
+    if dashboard_result["enabled"]:
+        print(
+            "  dashboard ingest: "
+            f"posted={dashboard_result['posted']} "
+            f"skipped={dashboard_result['skipped']} "
+            f"failed={dashboard_result['failed']}"
+        )
+    else:
+        print("  dashboard ingest: disabled (AIT_DASH_URL/AIT_API_KEY not set)")
 
     # 날짜별 로그 업로드
     daily_log = build_daily_log(today, classified)

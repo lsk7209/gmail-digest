@@ -1,6 +1,24 @@
 # 📬 Gmail Digest
 > 마지막 업데이트: 2026-07-03 00:15 KST
 
+## AIT Dashboard Direct Ingest
+
+The hourly Gmail API collector can post Apps in Toss review mails directly to
+the AIT dashboard, without waiting for the dashboard to read GitHub log files.
+
+Set these repository secrets in `lsk7209/gmail-digest`:
+
+- `AIT_DASH_URL`: dashboard base URL, for example `https://appintosdashboard.vercel.app`
+- `AIT_API_KEY`: dashboard `INGEST_API_KEY`
+
+Existing compatible secret names are also supported:
+
+- `DASHBOARD_WEBHOOK_URL`: direct `/api/ingest/issue` URL
+- `DASHBOARD_API_KEY`: dashboard ingest API key
+
+When these secrets are missing, the digest still updates GitHub logs, but
+dashboard ingest is skipped.
+
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
