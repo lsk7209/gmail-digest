@@ -28,9 +28,13 @@ def _dashboard_config() -> tuple[str | None, str | None, str | None]:
         issue_url = f"{base_url}/api/ingest/issue"
         heartbeat_url = f"{base_url}/api/ingest/heartbeat"
     elif webhook_url:
-        issue_url = webhook_url
-        if webhook_url.endswith("/api/ingest/issue"):
-            heartbeat_url = webhook_url[: -len("/issue")] + "/heartbeat"
+        if "/api/ingest/" in webhook_url:
+            issue_url = webhook_url
+        else:
+            issue_url = f"{webhook_url}/api/ingest/issue"
+            heartbeat_url = f"{webhook_url}/api/ingest/heartbeat"
+        if issue_url.endswith("/api/ingest/issue"):
+            heartbeat_url = issue_url[: -len("/issue")] + "/heartbeat"
 
     return issue_url, heartbeat_url, (key or None)
 
