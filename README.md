@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-03 06:04 KST
+> 마지막 업데이트: 2026-07-03 08:03 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 22 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 107 |
+| 🚨 에러 | 115 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 5 |
 
@@ -47,9 +47,9 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **15회** | `` |
+| `` |  | 기타 | **16회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `5779ca2` |
-| `gungangbohum` | Publish scheduled content | 기타 | **15회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **16회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `45d9655` |
 | `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `77b3ebe` |
@@ -57,9 +57,10 @@
 | `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `77b3ebe` |
 | `gmail-digest` | Gmail Digest | 배포 | **8회** | `efa9a1c` |
 | `campgogo.kr` | backup | 시스템 | **2회** | `2aa94af` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **28회** | `bdd5a4e` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **18회** | `8a5d4b2` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **11회** | `8a5d4b2` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **30회** | `bdd5a4e` |
+| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `18f639a` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **20회** | `8a5d4b2` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **12회** | `8a5d4b2` |
 
 - `12:59` [Vercel] 배포 실패
 
