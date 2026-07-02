@@ -1,18 +1,19 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-02 21:56 KST
+> 마지막 업데이트: 2026-07-03 00:15 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 21 |
+| ✅ 승인 | 22 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 85 |
+| 🚨 에러 | 89 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 4 |
+| 📊 알림 | 5 |
 
 ## ✅ 승인
 
+- `00:01` [앱인토스] 식물 물주는 날 v20260702-6 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `19:31` [앱인토스] 가벼운 스트레칭 v20260626-3 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `19:16` [앱인토스] 빨래 날씨 체크 v20260626-7 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `19:16` [앱인토스] 감정다이어리 v20260619-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -48,7 +49,7 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **12회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `5779ca2` |
-| `gungangbohum` | Publish scheduled content | 기타 | **11회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **12회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `45d9655` |
 | `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `77b3ebe` |
@@ -56,14 +57,15 @@
 | `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `77b3ebe` |
 | `gmail-digest` | Gmail Digest | 배포 | **8회** | `efa9a1c` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `2aa94af` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **21회** | `bdd5a4e` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `1c54bb8` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **8회** | `1c54bb8` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **22회** | `bdd5a4e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `1c54bb8` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **9회** | `1c54bb8` |
 
 - `12:59` [Vercel] 배포 실패
 
 ## 📊 알림
 
+- `22:42` [GSC] patentgogo.com
 - `20:48` [GSC] dogbreedcost.com
 - `10:36` [공공데이터]  공공데이터포털 
 - `10:22` [공공데이터]  공공데이터포털 
@@ -71,6 +73,7 @@
 
 ## 📁 로그 파일
 
+- [2026-07-03](logs/2026-07-03.md)
 - [2026-07-02](logs/2026-07-02.md)
 - [2026-07-01](logs/2026-07-01.md)
 - [2026-06-30](logs/2026-06-30.md)
@@ -84,4 +87,3 @@
 - [2026-06-22](logs/2026-06-22.md)
 - [2026-06-21](logs/2026-06-21.md)
 - [2026-06-20](logs/2026-06-20.md)
-- [2026-06-19](logs/2026-06-19.md)
