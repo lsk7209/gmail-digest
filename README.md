@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-04 04:18 KST
+> 마지막 업데이트: 2026-07-04 06:03 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 6 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 101 |
+| 🚨 에러 | 109 |
 | ⚠️ 경고 | 38 |
 | 📊 알림 | 4 |
 
@@ -31,17 +31,17 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **15회** | `` |
+| `` |  | 기타 | **16회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `5779ca2` |
-| `gungangbohum` | Publish scheduled content | 기타 | **15회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **16회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `45d9655` |
 | `tennis_friends` | Deploy to GitHub Pages | 배포 | **2회** | `e24e367` |
 | `campgogo.kr` | backup | 시스템 | **2회** | `95a8cff` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **28회** | `bdd5a4e` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **30회** | `bdd5a4e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `18f639a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **19회** | `c01e6e5` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **12회** | `c01e6e5` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **21회** | `c01e6e5` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **14회** | `c01e6e5` |
 
 - `12:59` [Vercel] 배포 실패
 
