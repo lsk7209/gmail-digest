@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-04 02:23 KST
+> 마지막 업데이트: 2026-07-04 04:18 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 6 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 95 |
-| ⚠️ 경고 | 22 |
+| 🚨 에러 | 101 |
+| ⚠️ 경고 | 38 |
 | 📊 알림 | 4 |
 
 ## ✅ 승인
@@ -31,22 +31,38 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **14회** | `` |
+| `` |  | 기타 | **15회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `5779ca2` |
-| `gungangbohum` | Publish scheduled content | 기타 | **14회** | `d805895` |
+| `gungangbohum` | Publish scheduled content | 기타 | **15회** | `d805895` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `45d9655` |
 | `tennis_friends` | Deploy to GitHub Pages | 배포 | **2회** | `e24e367` |
 | `campgogo.kr` | backup | 시스템 | **2회** | `95a8cff` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **26회** | `bdd5a4e` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **28회** | `bdd5a4e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `18f639a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **18회** | `6465ccb` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **11회** | `6465ccb` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **19회** | `c01e6e5` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **12회** | `c01e6e5` |
 
 - `12:59` [Vercel] 배포 실패
 
 ## ⚠️ 경고
 
+- `03:09` [GSC] picklefriend.kr — * 사용자가 선택한 표준이 없는 중복 페이지
+- `03:09` [GSC] nexttech7.com — * 서버 오류(5xx)
+- `03:07` [GSC] nexttech7.com — * 서버 오류(5xx)
+- `03:04` [GSC] runmania.kr — * 적절한 표준 태그가 포함된 대체 페이지
+- `03:03` [GSC] runmania.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
+- `03:00` [GSC] discparty.com — * 서버 오류(5xx)
+- `02:58` [GSC] dolbomjigi.ehon365.kr — * 찾을 수 없음(404)
+- `02:57` [GSC] discparty.com — * 서버 오류(5xx)
+- `02:49` [GSC] sorimate.com — * 사용자가 선택한 표준이 없는 중복 페이지
+- `02:48` [GSC] campgogo.kr — * 서버 오류(5xx)
+- `02:47` [GSC] healfood.kr — * 찾을 수 없음(404)
+- `02:46` [GSC] fastjob.kr — * 서버 오류(5xx)
+- `02:38` [GSC] petjigi.kr — * 찾을 수 없음(404)
+- `02:30` [GSC] gradienttrail.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `02:27` [GSC] dullegilgogo.kr — * 리디렉션이 포함된 페이지
+- `02:25` [GSC] patentgogo.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `02:20` [GSC] kang4.tistory.com — * robots.txt에 의해 차단됨
 - `02:13` [GSC] doseogogo.kr — * 리디렉션이 포함된 페이지
 - `02:04` [GSC] petinsuer.com — * 찾을 수 없음(404)
