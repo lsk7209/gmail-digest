@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-05 13:55 KST
+> 마지막 업데이트: 2026-07-05 16:55 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 26 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 98 |
+| 🚨 에러 | 101 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -54,14 +54,14 @@
 | `` |  | 기타 | **13회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `5779ca2` |
 | `gungangbohum` | Publish scheduled content | 기타 | **13회** | `d805895` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `1e235ed` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `1e235ed` |
 | `nongsusangogo.kr` | bulk-collect | 데이터 | **2회** | `45d9655` |
 | `gmail-digest` | Gmail Digest | 배포 | **11회** | `0f4d43f` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `95a8cff` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **25회** | `bdd5a4e` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **26회** | `bdd5a4e` |
 | `temon` | SEO Weekly Report | 시스템 | 1회 | `e02ae3b` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **12회** | `1e6254b` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `1e6254b` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **17회** | `1e6254b` |
 
 - `09:41` [Vercel] 배포 실패
 
