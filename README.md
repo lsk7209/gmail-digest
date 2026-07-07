@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-07 18:13 KST
+> 마지막 업데이트: 2026-07-07 20:48 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 52 |
 | ❌ 반려 | 9 |
-| 🚨 에러 | 57 |
+| 🚨 에러 | 58 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 5 |
 
@@ -93,7 +93,7 @@
 | `nongsusangogo.kr` | bulk-collect | 데이터 | 1회 | `45d9655` |
 | `gmail-digest` | Gmail Digest | 배포 | **10회** | `6db29ce` |
 | `park-trail` | NPS official data sync | 배포 | 1회 | `f850622` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **12회** | `27a1589` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **13회** | `27a1589` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `59420b6` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **2회** | `66e697d` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `66e697d` |
