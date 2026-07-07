@@ -1,4 +1,5 @@
 import base64
+import codecs
 import email
 from datetime import datetime, timedelta, timezone
 
@@ -67,10 +68,31 @@ def _decode_header(value: str) -> str:
     decoded = []
     for part, charset in parts:
         if isinstance(part, bytes):
-            decoded.append(part.decode(charset or "utf-8", errors="replace"))
+            decoded.append(_decode_bytes(part, charset))
         else:
             decoded.append(part)
     return "".join(decoded)
+
+
+def _decode_bytes(payload: bytes, charset: str | None = None) -> str:
+    candidates = []
+    if charset:
+        candidates.append(charset)
+    candidates.extend(["utf-8", "cp949", "euc-kr", "latin-1"])
+
+    tried = set()
+    for candidate in candidates:
+        normalized = (candidate or "").strip().lower()
+        if not normalized or normalized in tried or normalized == "unknown-8bit":
+            continue
+        tried.add(normalized)
+        try:
+            codecs.lookup(normalized)
+            return payload.decode(normalized, errors="replace")
+        except LookupError:
+            continue
+
+    return payload.decode("utf-8", errors="replace")
 
 
 def _get_body(msg) -> str:
@@ -84,17 +106,17 @@ def _get_body(msg) -> str:
                 continue
             charset = part.get_content_charset() or "utf-8"
             if ct == "text/plain" and not text_plain:
-                text_plain = payload.decode(charset, errors="replace")
+                text_plain = _decode_bytes(payload, charset)
             elif ct == "text/html" and not text_html:
-                text_html = payload.decode(charset, errors="replace")
+                text_html = _decode_bytes(payload, charset)
     else:
         payload = msg.get_payload(decode=True)
         if payload:
             charset = msg.get_content_charset() or "utf-8"
             if msg.get_content_type() == "text/html":
-                text_html = payload.decode(charset, errors="replace")
+                text_html = _decode_bytes(payload, charset)
             else:
-                text_plain = payload.decode(charset, errors="replace")
+                text_plain = _decode_bytes(payload, charset)
 
     if text_plain:
         return text_plain
