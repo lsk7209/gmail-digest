@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-09 06:05 KST
+> 마지막 업데이트: 2026-07-09 08:04 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 13 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 55 |
+| 🚨 에러 | 59 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 6 |
 
@@ -33,15 +33,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **18회** | `` |
+| `` |  | 기타 | **19회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `8ead856` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `9595ae9` |
 | `gungangbohum` | Publish scheduled content | 기타 | **10회** | `d805895` |
 | `2424` | Deploy to Vercel | 배포 | 1회 | `8ead856` |
 | `gmail-digest` | Gmail Digest | 배포 | **3회** | `6db29ce` |
 | `gong365kr` | StartupMoneyMap cron | 시스템 | **11회** | `56ae770` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `820d155` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `75362e5` |
+| `multi-dashboard` | Update dashboard stats | 시스템 | **2회** | `aa0b8bc` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `75362e5` |
 
 ## ⚠️ 경고
 
