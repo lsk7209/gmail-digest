@@ -1,15 +1,15 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-09 08:04 KST
+> 마지막 업데이트: 2026-07-09 11:44 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 13 |
+| ✅ 승인 | 11 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 59 |
+| 🚨 에러 | 28 |
 | ⚠️ 경고 | 1 |
-| 📊 알림 | 6 |
+| 📊 알림 | 1 |
 
 ## ✅ 승인
 
@@ -24,8 +24,6 @@
 - `11:16` [앱인토스] 매일 보물섬 v20260708-7 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `11:01` [앱인토스] 가계부노트 v20260708-9 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `11:01` [앱인토스] 약속 도장 v20260706-8 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `15:01` [앱인토스] 여행 짐 체크 v20260706-8 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `11:30` [앱인토스] 오늘의 포춘쿠키 v20260707-19 → ✅ 승인 ⚠️ 출시 업데이트 필요
 
 ## 🚨 에러
 
@@ -33,15 +31,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **19회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `8ead856` |
-| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `9595ae9` |
-| `gungangbohum` | Publish scheduled content | 기타 | **10회** | `d805895` |
-| `2424` | Deploy to Vercel | 배포 | 1회 | `8ead856` |
-| `gmail-digest` | Gmail Digest | 배포 | **3회** | `6db29ce` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **11회** | `56ae770` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | **2회** | `aa0b8bc` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `75362e5` |
+| `` |  | 기타 | **11회** | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `8ead856` |
+| `2424` | Deploy to Vercel | 배포 | **2회** | `69e6b02` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | 1회 | `56ae770` |
+| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `aa0b8bc` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `736b4cb` |
 
 ## ⚠️ 경고
 
@@ -50,11 +45,6 @@
 ## 📊 알림
 
 - `14:58` [GSC] pethomepick.com
-- `12:31` [GSC] wedfairguide.com
-- `12:27` [GSC] plategogo.com
-- `12:26` [GSC] kdramanote.com
-- `12:22` [GSC] smallhomepick.com
-- `12:22` [GSC] autorentlab.com
 
 ## 📁 로그 파일
 
