@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-10 23:21 KST
+> 마지막 업데이트: 2026-07-11 01:55 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 61 |
 | ❌ 반려 | 12 |
-| 🚨 에러 | 26 |
+| 🚨 에러 | 28 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
@@ -96,13 +96,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **12회** | `` |
+| `` |  | 기타 | **13회** | `` |
 | `bojo24` | Scheduled Post IndexNow Notify | 기타 | 1회 | `ba538ca` |
 | `lim-brain` | repo-health | 기타 | **2회** | `a373899` |
 | `lim-brain` | Skill checks | 기타 | **2회** | `a373899` |
 | `pickleball_app` | Expo Doctor (expo) | 기타 | **3회** | `77a0d36` |
 | `today_yakuk` | Publish Content Queue | 기타 | 1회 | `e11ba0a` |
 | `2424` | Deploy to Vercel | 배포 | 1회 | `69e6b02` |
+| `tennis_friends` | Deploy to GitHub Pages | 배포 | 1회 | `581bfa5` |
 | `gong365kr` | StartupMoneyMap cron | 시스템 | 1회 | `13c255a` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `305136c` |
 | `tennis_friends` | Scheduled Search Indexing | 시스템 | 1회 | `e24e367` |
@@ -115,6 +116,7 @@
 
 ## 📁 로그 파일
 
+- [2026-07-11](logs/2026-07-11.md)
 - [2026-07-10](logs/2026-07-10.md)
 - [2026-07-09](logs/2026-07-09.md)
 - [2026-07-08](logs/2026-07-08.md)
@@ -128,4 +130,3 @@
 - [2026-06-29](logs/2026-06-29.md)
 - [2026-06-28](logs/2026-06-28.md)
 - [2026-06-27](logs/2026-06-27.md)
-- [2026-06-26](logs/2026-06-26.md)
