@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-11 07:00 KST
+> 마지막 업데이트: 2026-07-11 08:08 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 61 |
 | ❌ 반려 | 12 |
-| 🚨 에러 | 32 |
+| 🚨 에러 | 35 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
@@ -96,7 +96,7 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **16회** | `` |
+| `` |  | 기타 | **17회** | `` |
 | `bojo24` | Scheduled Post IndexNow Notify | 기타 | 1회 | `ba538ca` |
 | `lim-brain` | repo-health | 기타 | **2회** | `a373899` |
 | `lim-brain` | Skill checks | 기타 | **2회** | `a373899` |
@@ -107,7 +107,9 @@
 | `gong365kr` | StartupMoneyMap cron | 시스템 | 1회 | `13c255a` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | **2회** | `7564255` |
 | `tennis_friends` | Scheduled Search Indexing | 시스템 | 1회 | `e24e367` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | 1회 | `736b4cb` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `d6fe8c1` |
+
+- `07:51` [Vercel] 배포 실패
 
 ## 📊 알림
 
