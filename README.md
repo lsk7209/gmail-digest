@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-11 11:26 KST
+> 마지막 업데이트: 2026-07-11 14:38 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 5 |
 | ❌ 반려 | 3 |
-| 🚨 에러 | 16 |
+| 🚨 에러 | 19 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -31,10 +31,10 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **9회** | `` |
-| `tennis_friends` | Deploy to GitHub Pages | 배포 | **2회** | `c83dfcc` |
+| `` |  | 기타 | **10회** | `` |
+| `tennis_friends` | Deploy to GitHub Pages | 배포 | **3회** | `e970b37` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7564255` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **3회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **4회** | `d6fe8c1` |
 
 - `07:51` [Vercel] 배포 실패
 
