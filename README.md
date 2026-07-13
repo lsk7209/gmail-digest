@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-13 11:39 KST
+> 마지막 업데이트: 2026-07-13 15:14 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 47 |
+| 🚨 에러 | 50 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
@@ -17,11 +17,11 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **14회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **14회** | `466156e` |
+| `` |  | 기타 | **15회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **15회** | `466156e` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `60fcfef` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `146359d` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **17회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **18회** | `d6fe8c1` |
 
 ## ⚠️ 경고
 
