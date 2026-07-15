@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-15 23:48 KST
+> 마지막 업데이트: 2026-07-16 01:19 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 3 |
 | ❌ 반려 | 1 |
-| 🚨 에러 | 64 |
+| 🚨 에러 | 67 |
 | ⚠️ 경고 | 1 |
-| 📊 알림 | 3 |
+| 📊 알림 | 4 |
 
 ## ✅ 승인
 
@@ -27,12 +27,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **18회** | `` |
+| `` |  | 기타 | **19회** | `` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `afd4e8d` |
-| `gungangbohum` | Publish scheduled content | 기타 | **19회** | `466156e` |
+| `gungangbohum` | Publish scheduled content | 기타 | **20회** | `466156e` |
 | `tennis_friends` | Deploy to GitHub Pages | 배포 | **3회** | `50068d9` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `b16fa14` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **22회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **23회** | `d6fe8c1` |
 
 ## ⚠️ 경고
 
@@ -40,12 +40,14 @@
 
 ## 📊 알림
 
+- `00:21` [Lovable] Lovable apps can now work inside Claude and ChatGPT
 - `16:02` [GSC] seniorlivingnote.com
 - `19:18` [Lovable] Low Balance Alert: Top Up Soon to Avoid Service Interruption
 - `13:05` [GSC] localgeo.app
 
 ## 📁 로그 파일
 
+- [2026-07-16](logs/2026-07-16.md)
 - [2026-07-15](logs/2026-07-15.md)
 - [2026-07-14](logs/2026-07-14.md)
 - [2026-07-13](logs/2026-07-13.md)
@@ -59,4 +61,3 @@
 - [2026-07-04](logs/2026-07-04.md)
 - [2026-07-03](logs/2026-07-03.md)
 - [2026-07-02](logs/2026-07-02.md)
-- [2026-07-01](logs/2026-07-01.md)
