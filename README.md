@@ -1,13 +1,13 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-15 08:52 KST
+> 마지막 업데이트: 2026-07-15 11:10 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
 | ✅ 승인 | 3 |
-| ❌ 반려 | 4 |
-| 🚨 에러 | 79 |
+| ❌ 반려 | 1 |
+| 🚨 에러 | 48 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 2 |
 
@@ -20,9 +20,6 @@
 ## ❌ 반려
 
 - `11:42` [앱인토스] 둘레길 도장 v20260709-5 → ❌ 반려
-- `18:10` [앱인토스] 계량 변환 메모 → ❌ 반려
-- `18:09` [앱인토스] 분리수거 체크 → ❌ 반려
-- `18:09` [앱인토스] 주차 위치 메모 → ❌ 반려
 
 ## 🚨 에러
 
@@ -30,13 +27,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **22회** | `` |
+| `` |  | 기타 | **13회** | `` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `afd4e8d` |
-| `gungangbohum` | Publish scheduled content | 기타 | **23회** | `466156e` |
-| `gmail-digest` | Gmail Digest | 배포 | **2회** | `8f70f69` |
+| `gungangbohum` | Publish scheduled content | 기타 | **14회** | `466156e` |
 | `tennis_friends` | Deploy to GitHub Pages | 배포 | **3회** | `50068d9` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | **2회** | `b16fa14` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **26회** | `d6fe8c1` |
+| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `b16fa14` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `d6fe8c1` |
 
 ## ⚠️ 경고
 
