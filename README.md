@@ -1,25 +1,15 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-16 08:01 KST
+> 마지막 업데이트: 2026-07-16 11:23 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 3 |
-| ❌ 반려 | 1 |
-| 🚨 에러 | 82 |
-| ⚠️ 경고 | 1 |
-| 📊 알림 | 4 |
-
-## ✅ 승인
-
-- `16:01` [앱인토스] 연봉 계산기 v20260709-13 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `12:57` [앱인토스] 1분 경제뉴스 v20260711-20 → ✅ 승인 ⚠️ 출시 업데이트 필요
-- `11:43` [앱인토스] 보험용어사전 v20260710-15 → ✅ 승인 ⚠️ 출시 업데이트 필요
-
-## ❌ 반려
-
-- `11:42` [앱인토스] 둘레길 도장 v20260709-5 → ❌ 반려
+| ✅ 승인 | 0 |
+| ❌ 반려 | 0 |
+| 🚨 에러 | 43 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -27,24 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **23회** | `` |
-| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `afd4e8d` |
-| `gungangbohum` | Publish scheduled content | 기타 | **24회** | `466156e` |
+| `` |  | 기타 | **13회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **13회** | `466156e` |
 | `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `77b3ebe` |
-| `tennis_friends` | Deploy to GitHub Pages | 배포 | **3회** | `50068d9` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | **2회** | `7474f38` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **28회** | `d6fe8c1` |
-
-## ⚠️ 경고
-
-- `05:29` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
+| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7474f38` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `d6fe8c1` |
 
 ## 📊 알림
 
 - `00:21` [Lovable] Lovable apps can now work inside Claude and ChatGPT
 - `16:02` [GSC] seniorlivingnote.com
-- `19:18` [Lovable] Low Balance Alert: Top Up Soon to Avoid Service Interruption
-- `13:05` [GSC] localgeo.app
 
 ## 📁 로그 파일
 
