@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-17 05:01 KST
+> 마지막 업데이트: 2026-07-17 07:01 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 16 |
 | ❌ 반려 | 5 |
-| 🚨 에러 | 67 |
+| 🚨 에러 | 72 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
@@ -44,11 +44,11 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **20회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **20회** | `466156e` |
+| `` |  | 기타 | **22회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **22회** | `466156e` |
 | `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `77b3ebe` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7474f38` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **25회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **26회** | `d6fe8c1` |
 
 ## 📊 알림
 
