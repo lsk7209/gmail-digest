@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-17 14:41 KST
+> 마지막 업데이트: 2026-07-17 17:06 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 18 |
 | ❌ 반려 | 6 |
-| 🚨 에러 | 43 |
+| 🚨 에러 | 46 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 0 |
+| 📊 알림 | 1 |
 
 ## ✅ 승인
 
@@ -47,10 +47,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **13회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **13회** | `466156e` |
+| `` |  | 기타 | **14회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **14회** | `466156e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7474f38` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **17회** | `d6fe8c1` |
+
+## 📊 알림
+
+- `15:57` [GSC] petcostlab.com
 
 ## 📁 로그 파일
 
