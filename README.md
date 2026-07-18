@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-18 18:22 KST
+> 마지막 업데이트: 2026-07-18 20:01 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 8 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 57 |
-| ⚠️ 경고 | 0 |
-| 📊 알림 | 1 |
+| 🚨 에러 | 60 |
+| ⚠️ 경고 | 3 |
+| 📊 알림 | 2 |
 
 ## ✅ 승인
 
@@ -33,15 +33,22 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **16회** | `` |
+| `` |  | 기타 | **17회** | `` |
 | `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `ba538ca` |
-| `gungangbohum` | Publish scheduled content | 기타 | **17회** | `466156e` |
+| `gungangbohum` | Publish scheduled content | 기타 | **18회** | `466156e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7474f38` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **2회** | `00cc9e6` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **20회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **21회** | `d6fe8c1` |
+
+## ⚠️ 경고
+
+- `19:49` [GSC] limsight.kr — * 리디렉션이 포함된 페이지
+- `19:43` [GSC] * robots.txt에 의해 차단됨
+- `19:35` [GSC] autopickgo.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 
 ## 📊 알림
 
+- `19:18` [Lovable] Action Required: Add Funds to Continue Using Lovable Service
 - `15:57` [GSC] petcostlab.com
 
 ## 📁 로그 파일
