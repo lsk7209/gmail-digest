@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-18 23:49 KST
+> 마지막 업데이트: 2026-07-19 00:54 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 8 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 67 |
+| 🚨 에러 | 70 |
 | ⚠️ 경고 | 18 |
 | 📊 알림 | 2 |
 
@@ -33,12 +33,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **19회** | `` |
+| `` |  | 기타 | **20회** | `` |
 | `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `ba538ca` |
-| `gungangbohum` | Publish scheduled content | 기타 | **20회** | `466156e` |
+| `gungangbohum` | Publish scheduled content | 기타 | **21회** | `466156e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7474f38` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **2회** | `00cc9e6` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **24회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **25회** | `d6fe8c1` |
 
 ## ⚠️ 경고
 
@@ -68,6 +68,7 @@
 
 ## 📁 로그 파일
 
+- [2026-07-19](logs/2026-07-19.md)
 - [2026-07-18](logs/2026-07-18.md)
 - [2026-07-17](logs/2026-07-17.md)
 - [2026-07-16](logs/2026-07-16.md)
@@ -81,4 +82,3 @@
 - [2026-07-08](logs/2026-07-08.md)
 - [2026-07-07](logs/2026-07-07.md)
 - [2026-07-05](logs/2026-07-05.md)
-- [2026-07-04](logs/2026-07-04.md)
