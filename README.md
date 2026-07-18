@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-18 20:01 KST
+> 마지막 업데이트: 2026-07-18 22:08 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 8 |
 | ❌ 반려 | 2 |
-| 🚨 에러 | 60 |
-| ⚠️ 경고 | 3 |
+| 🚨 에러 | 64 |
+| ⚠️ 경고 | 18 |
 | 📊 알림 | 2 |
 
 ## ✅ 승인
@@ -33,15 +33,30 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **17회** | `` |
+| `` |  | 기타 | **18회** | `` |
 | `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `ba538ca` |
-| `gungangbohum` | Publish scheduled content | 기타 | **18회** | `466156e` |
+| `gungangbohum` | Publish scheduled content | 기타 | **19회** | `466156e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7474f38` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **2회** | `00cc9e6` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **21회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **23회** | `d6fe8c1` |
 
 ## ⚠️ 경고
 
+- `20:55` [GSC] plategogo.com — * 찾을 수 없음(404)
+- `20:55` [GSC] autorentlab.com — * 찾을 수 없음(404)
+- `20:51` [GSC] autorentlab.com — * 찾을 수 없음(404)
+- `20:46` [GSC] cartain.kr — * 찾을 수 없음(404)
+- `20:46` [GSC] wedfairguide.com — * 찾을 수 없음(404)
+- `20:39` [GSC] plategogo.com — * 찾을 수 없음(404)
+- `20:34` [GSC] gradienttrail.com — * 리디렉션이 포함된 페이지
+- `20:30` [GSC] ezfunnel.kr — * 서버 오류(5xx)
+- `20:23` [GSC] solarpaybackmap.com — * 서버 오류(5xx)
+- `20:21` [GSC] localgeo.app — * 사용자가 선택한 표준이 없는 중복 페이지
+- `20:21` [GSC] localgeo.app — * 사용자가 선택한 표준이 없는 중복 페이지
+- `20:18` [GSC] sellerpit.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `20:17` [GSC] crepika.com — * 적절한 표준 태그가 포함된 대체 페이지
+- `20:16` [GSC] caregos.com — * 리디렉션이 포함된 페이지
+- `20:06` [GSC] recookie.tistory.com — * robots.txt에 의해 차단됨
 - `19:49` [GSC] limsight.kr — * 리디렉션이 포함된 페이지
 - `19:43` [GSC] * robots.txt에 의해 차단됨
 - `19:35` [GSC] autopickgo.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
