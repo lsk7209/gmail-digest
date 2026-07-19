@@ -1,15 +1,20 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-19 14:49 KST
+> 마지막 업데이트: 2026-07-19 17:12 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 0 |
+| ✅ 승인 | 2 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 55 |
+| 🚨 에러 | 58 |
 | ⚠️ 경고 | 18 |
 | 📊 알림 | 1 |
+
+## ✅ 승인
+
+- `16:16` [앱인토스] 오늘의미션 v20260719-21 → ✅ 승인 ⚠️ 출시 업데이트 필요
+- `15:45` [앱인토스] 강아지저금통 v20260719-32 → ✅ 승인 ⚠️ 출시 업데이트 필요
 
 ## 🚨 에러
 
@@ -17,12 +22,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **16회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **17회** | `466156e` |
+| `` |  | 기타 | **17회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **18회** | `466156e` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `9ae2ae7` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `7474f38` |
 | `temon` | SEO Weekly Report | 시스템 | 1회 | `5440d98` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **19회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **20회** | `d6fe8c1` |
 
 ## ⚠️ 경고
 
