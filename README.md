@@ -1,13 +1,13 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-20 07:49 KST
+> 마지막 업데이트: 2026-07-20 08:54 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
 | ✅ 승인 | 6 |
-| ❌ 반려 | 0 |
-| 🚨 에러 | 90 |
+| ❌ 반려 | 1 |
+| 🚨 에러 | 93 |
 | ⚠️ 경고 | 18 |
 | 📊 알림 | 1 |
 
@@ -20,18 +20,22 @@
 - `16:16` [앱인토스] 오늘의미션 v20260719-21 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `15:45` [앱인토스] 강아지저금통 v20260719-32 → ✅ 승인 ⚠️ 출시 업데이트 필요
 
+## ❌ 반려
+
+- `08:19` [앱인토스] 오늘의 행운 숫자 v20260720-9 → ❌ 반려
+
 ## 🚨 에러
 
 ### 🔴 GitHub Actions 실패
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **26회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **28회** | `466156e` |
+| `` |  | 기타 | **27회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **29회** | `466156e` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `9ae2ae7` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | **2회** | `bdd51f8` |
 | `temon` | SEO Weekly Report | 시스템 | 1회 | `5440d98` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **32회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **33회** | `d6fe8c1` |
 
 ## ⚠️ 경고
 
