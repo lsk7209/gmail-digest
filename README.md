@@ -1,18 +1,19 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-20 08:54 KST
+> 마지막 업데이트: 2026-07-20 11:44 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 6 |
+| ✅ 승인 | 7 |
 | ❌ 반려 | 1 |
-| 🚨 에러 | 93 |
-| ⚠️ 경고 | 18 |
-| 📊 알림 | 1 |
+| 🚨 에러 | 48 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 0 |
 
 ## ✅ 승인
 
+- `10:12` [앱인토스] 5분만 같이 집중해요 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `03:00` [앱인토스] 누가얼마 낼거야? v20260719-10 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `22:15` [앱인토스] 맞춤법퀴즈 v20260719-16 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `21:03` [앱인토스] 누가얼마 낼거야? → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -30,37 +31,11 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **27회** | `` |
-| `gungangbohum` | Publish scheduled content | 기타 | **29회** | `466156e` |
+| `` |  | 기타 | **14회** | `` |
+| `gungangbohum` | Publish scheduled content | 기타 | **15회** | `466156e` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `9ae2ae7` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | **2회** | `bdd51f8` |
-| `temon` | SEO Weekly Report | 시스템 | 1회 | `5440d98` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **33회** | `d6fe8c1` |
-
-## ⚠️ 경고
-
-- `20:55` [GSC] plategogo.com — * 찾을 수 없음(404)
-- `20:55` [GSC] autorentlab.com — * 찾을 수 없음(404)
-- `20:51` [GSC] autorentlab.com — * 찾을 수 없음(404)
-- `20:46` [GSC] cartain.kr — * 찾을 수 없음(404)
-- `20:46` [GSC] wedfairguide.com — * 찾을 수 없음(404)
-- `20:39` [GSC] plategogo.com — * 찾을 수 없음(404)
-- `20:34` [GSC] gradienttrail.com — * 리디렉션이 포함된 페이지
-- `20:30` [GSC] ezfunnel.kr — * 서버 오류(5xx)
-- `20:23` [GSC] solarpaybackmap.com — * 서버 오류(5xx)
-- `20:21` [GSC] localgeo.app — * 사용자가 선택한 표준이 없는 중복 페이지
-- `20:21` [GSC] localgeo.app — * 사용자가 선택한 표준이 없는 중복 페이지
-- `20:18` [GSC] sellerpit.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `20:17` [GSC] crepika.com — * 적절한 표준 태그가 포함된 대체 페이지
-- `20:16` [GSC] caregos.com — * 리디렉션이 포함된 페이지
-- `20:06` [GSC] recookie.tistory.com — * robots.txt에 의해 차단됨
-- `19:49` [GSC] limsight.kr — * 리디렉션이 포함된 페이지
-- `19:43` [GSC] * robots.txt에 의해 차단됨
-- `19:35` [GSC] autopickgo.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-
-## 📊 알림
-
-- `19:18` [Lovable] Action Required: Add Funds to Continue Using Lovable Service
+| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `bdd51f8` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **17회** | `d6fe8c1` |
 
 ## 📁 로그 파일
 
