@@ -1,18 +1,19 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-21 00:10 KST
+> 마지막 업데이트: 2026-07-21 03:00 KST
 
 ## 📊 오늘 현황
 
 | 카테고리 | 건수 |
 |---------|------|
-| ✅ 승인 | 21 |
+| ✅ 승인 | 22 |
 | ❌ 반려 | 12 |
-| 🚨 에러 | 64 |
+| 🚨 에러 | 67 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
 ## ✅ 승인
 
+- `02:46` [앱인토스] 계단운동 몇개했어? v20260720-11 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `23:34` [앱인토스] 계단운동 몇개했어? → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `22:31` [앱인토스] 오늘의 90초 추리 v20260720-21 → ✅ 승인 ⚠️ 출시 업데이트 필요
 - `19:56` [앱인토스] 가벼운 스트레칭 v20260716-7 → ✅ 승인 ⚠️ 출시 업데이트 필요
@@ -57,12 +58,14 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **18회** | `` |
+| `coverclarityhealth.com` | Content quality | 기타 | 1회 | `3289006` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `8ede049` |
 | `gungangbohum` | Publish scheduled content | 기타 | **19회** | `466156e` |
+| `kapti.kr` | Content publish SEO automation | 기타 | 1회 | `09f7b0b` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `9ae2ae7` |
 | `picturebook-app` | CI | 배포 | 1회 | `755279e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `bdd51f8` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **22회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **23회** | `d6fe8c1` |
 
 ## 📊 알림
 
