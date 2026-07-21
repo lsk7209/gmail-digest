@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-22 00:02 KST
+> 마지막 업데이트: 2026-07-22 02:16 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 16 |
 | ❌ 반려 | 11 |
-| 🚨 에러 | 37 |
+| 🚨 에러 | 38 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -54,6 +54,7 @@
 | `coverclarityhealth.com` | Content quality | 기타 | 1회 | `3289006` |
 | `crepikacom` | Quality Gates | 기타 | 1회 | `9d8f2d8` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `8ede049` |
+| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `823e7a1` |
 | `gungangbohum` | Publish scheduled content | 기타 | **5회** | `466156e` |
 | `kapti.kr` | Content publish SEO automation | 기타 | 1회 | `09f7b0b` |
 | `pickleball_app` | Expo Doctor (expo) | 기타 | **2회** | `0b74f60` |
