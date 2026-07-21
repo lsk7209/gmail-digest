@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-21 09:01 KST
+> 마지막 업데이트: 2026-07-21 13:13 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 16 |
 | ❌ 반려 | 11 |
-| 🚨 에러 | 27 |
+| 🚨 에러 | 34 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -52,13 +52,17 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **5회** | `` |
 | `coverclarityhealth.com` | Content quality | 기타 | 1회 | `3289006` |
+| `crepikacom` | Quality Gates | 기타 | 1회 | `9d8f2d8` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `8ede049` |
 | `gungangbohum` | Publish scheduled content | 기타 | **5회** | `466156e` |
 | `kapti.kr` | Content publish SEO automation | 기타 | 1회 | `09f7b0b` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `9ae2ae7` |
+| `pickleball_app` | Expo Doctor (expo) | 기타 | **2회** | `0b74f60` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `picturebook-app` | CI | 배포 | 1회 | `755279e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `bdd51f8` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `d6fe8c1` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `9d8f2d8` |
+
+- `11:34` [Vercel] 배포 실패
 
 ## 📊 알림
 
