@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-21 13:13 KST
+> 마지막 업데이트: 2026-07-21 16:31 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 16 |
 | ❌ 반려 | 11 |
-| 🚨 에러 | 34 |
+| 🚨 에러 | 35 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -57,7 +57,7 @@
 | `gungangbohum` | Publish scheduled content | 기타 | **5회** | `466156e` |
 | `kapti.kr` | Content publish SEO automation | 기타 | 1회 | `09f7b0b` |
 | `pickleball_app` | Expo Doctor (expo) | 기타 | **2회** | `0b74f60` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `askorekr` | plant-data-pipeline | 데이터 | **3회** | `549cb36` |
 | `picturebook-app` | CI | 배포 | 1회 | `755279e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `bdd51f8` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `9d8f2d8` |
