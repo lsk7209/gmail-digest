@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-21 19:23 KST
+> 마지막 업데이트: 2026-07-21 21:22 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 16 |
 | ❌ 반려 | 11 |
-| 🚨 에러 | 35 |
+| 🚨 에러 | 37 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -58,6 +58,8 @@
 | `kapti.kr` | Content publish SEO automation | 기타 | 1회 | `09f7b0b` |
 | `pickleball_app` | Expo Doctor (expo) | 기타 | **2회** | `0b74f60` |
 | `askorekr` | plant-data-pipeline | 데이터 | **3회** | `549cb36` |
+| `petjigi` | ETL — Shelters (전국동물보호센터) | 데이터 | 1회 | `77b3ebe` |
+| `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `77b3ebe` |
 | `picturebook-app` | CI | 배포 | 1회 | `755279e` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `bdd51f8` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `9d8f2d8` |
