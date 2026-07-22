@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-22 11:25 KST
+> 마지막 업데이트: 2026-07-22 14:47 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 11 |
+| 🚨 에러 | 12 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -20,7 +20,7 @@
 | `crepikacom` | Quality Gates | 기타 | 1회 | `9d8f2d8` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `823e7a1` |
 | `pickleball_app` | Expo Doctor (expo) | 기타 | **2회** | `0b74f60` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `askorekr` | plant-data-pipeline | 데이터 | **3회** | `549cb36` |
 | `petjigi` | ETL — Shelters (전국동물보호센터) | 데이터 | 1회 | `77b3ebe` |
 | `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `77b3ebe` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `9d8f2d8` |
