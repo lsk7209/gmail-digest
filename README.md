@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-23 06:03 KST
+> 마지막 업데이트: 2026-07-23 08:00 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 12 |
+| 🚨 에러 | 13 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -23,6 +23,7 @@
 | `askorekr` | plant-data-pipeline | 데이터 | **3회** | `549cb36` |
 | `petjigi` | ETL — Shelters (전국동물보호센터) | 데이터 | 1회 | `77b3ebe` |
 | `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `77b3ebe` |
+| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `9d8f2d8` |
 
 - `11:34` [Vercel] 배포 실패
