@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-26 00:00 KST
+> 마지막 업데이트: 2026-07-26 01:09 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 29 |
+| 🚨 에러 | 30 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -19,7 +19,7 @@
 |------|-----------|------|------|------|
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **4회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **20회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **21회** | `1d18ed2` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | 1회 | `1d18ed2` |
 | `yoyangwon` | Release due blog posts | 콘텐츠 | 1회 | `4eee320` |
 
@@ -31,6 +31,7 @@
 
 ## 📁 로그 파일
 
+- [2026-07-26](logs/2026-07-26.md)
 - [2026-07-25](logs/2026-07-25.md)
 - [2026-07-24](logs/2026-07-24.md)
 - [2026-07-23](logs/2026-07-23.md)
@@ -44,4 +45,3 @@
 - [2026-07-15](logs/2026-07-15.md)
 - [2026-07-14](logs/2026-07-14.md)
 - [2026-07-13](logs/2026-07-13.md)
-- [2026-07-12](logs/2026-07-12.md)
