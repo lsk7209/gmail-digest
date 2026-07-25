@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-25 07:13 KST
+> 마지막 업데이트: 2026-07-25 09:02 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 24 |
+| 🚨 에러 | 18 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 3 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -17,17 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **2회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **18회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `1d18ed2` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | 1회 | `1d18ed2` |
 | `yoyangwon` | Release due blog posts | 콘텐츠 | 1회 | `4eee320` |
 
 ## 📊 알림
 
 - `09:47` [공공데이터]  공공데이터포털 
-- `15:38` [공공데이터]  공공데이터포털 
-- `14:24` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
 
