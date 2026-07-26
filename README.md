@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-26 08:58 KST
+> 마지막 업데이트: 2026-07-26 12:33 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 37 |
+| 🚨 에러 | 20 |
 | ⚠️ 경고 | 1 |
-| 📊 알림 | 1 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -17,21 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **4회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **28회** | `1d18ed2` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | 1회 | `1d18ed2` |
-| `yoyangwon` | Release due blog posts | 콘텐츠 | 1회 | `4eee320` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **2회** | `083db49` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `1d18ed2` |
 
 - `14:21` [Vercel] 배포 실패
 
 ## ⚠️ 경고
 
 - `01:58` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
-
-## 📊 알림
-
-- `09:47` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
 
