@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-28 07:59 KST
+> 마지막 업데이트: 2026-07-28 09:07 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 33 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 14 |
+| ⚠️ 경고 | 2 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,13 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `fdd7426` |
 | `plategogo` | SEO readiness | 기타 | 1회 | `5531b10` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **3회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **25회** | `1d18ed2` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `1d18ed2` |
 
 - `20:27` [Vercel] 배포 실패
+
+## ⚠️ 경고
+
+- `09:03` [GSC] yesa.kr — * 찾을 수 없음(404)
+- `09:00` [GSC] yesa.kr — * 찾을 수 없음(404)
 
 ## 📁 로그 파일
 
