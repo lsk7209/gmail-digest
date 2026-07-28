@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-28 12:59 KST
+> 마지막 업데이트: 2026-07-28 15:33 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 15 |
+| 🚨 에러 | 17 |
 | ⚠️ 경고 | 19 |
-| 📊 알림 | 0 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -18,8 +18,8 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `plategogo` | SEO readiness | 기타 | 1회 | `5531b10` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `1d18ed2` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `1d18ed2` |
 
 - `20:27` [Vercel] 배포 실패
 
@@ -44,6 +44,10 @@
 - `09:09` [GSC] kdramanote.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `09:03` [GSC] yesa.kr — * 찾을 수 없음(404)
 - `09:00` [GSC] yesa.kr — * 찾을 수 없음(404)
+
+## 📊 알림
+
+- `14:43` [GSC] shotsetup.com
 
 ## 📁 로그 파일
 
