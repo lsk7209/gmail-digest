@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-28 09:07 KST
+> 마지막 업데이트: 2026-07-28 12:59 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 14 |
-| ⚠️ 경고 | 2 |
+| 🚨 에러 | 15 |
+| ⚠️ 경고 | 19 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -19,12 +19,29 @@
 |------|-----------|------|------|------|
 | `plategogo` | SEO readiness | 기타 | 1회 | `5531b10` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `1d18ed2` |
 
 - `20:27` [Vercel] 배포 실패
 
 ## ⚠️ 경고
 
+- `10:57` [GSC] petcostlab.com — * 찾을 수 없음(404)
+- `10:44` [GSC] discparty.com — * robots.txt에 의해 차단됨
+- `10:43` [GSC] cartain.kr — * 리디렉션이 포함된 페이지
+- `10:19` [GSC] dogbreedcost.com — * 리디렉션이 포함된 페이지
+- `10:06` [GSC] seniorlivingnote.com — * 찾을 수 없음(404)
+- `10:04` [GSC] tasko.kr — * 리디렉션이 포함된 페이지
+- `09:52` [GSC] petinsuer.com — * 다른 4xx 문제로 인해 차단됨
+- `09:52` [GSC] caregos.com — * robots.txt에 의해 차단됨
+- `09:51` [GSC] sssaass.com — * 리디렉션이 포함된 페이지
+- `09:49` [GSC] caregos.com — * robots.txt에 의해 차단됨
+- `09:38` [GSC] pethomepick.com — * 리디렉션이 포함된 페이지
+- `09:30` [GSC] * 적절한 표준 태그가 포함된 대체 페이지
+- `09:30` [GSC] * 적절한 표준 태그가 포함된 대체 페이지
+- `09:24` [GSC] travel.sellerpit.kr — * 찾을 수 없음(404)
+- `09:21` [GSC] coverclarityhealth.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `09:09` [GSC] trave.kr — * 찾을 수 없음(404)
+- `09:09` [GSC] kdramanote.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `09:03` [GSC] yesa.kr — * 찾을 수 없음(404)
 - `09:00` [GSC] yesa.kr — * 찾을 수 없음(404)
 
