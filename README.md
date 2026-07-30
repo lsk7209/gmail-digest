@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-31 06:06 KST
+> 마지막 업데이트: 2026-07-31 08:03 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 30 |
+| 🚨 에러 | 31 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 2 |
 
@@ -22,7 +22,7 @@
 | `plategogo` | SEO readiness | 기타 | 1회 | `a6df853` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `355d69c` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **23회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **24회** | `1d18ed2` |
 
 - `14:42` [Firebase]  장애 18건 안정성 문제
 
