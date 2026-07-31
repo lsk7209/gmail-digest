@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-31 23:13 KST
+> 마지막 업데이트: 2026-08-01 01:43 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 24 |
+| 🚨 에러 | 26 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,12 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `b8ebf6f` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `b46aff1` |
 | `lim-brain` | repo-health | 기타 | 1회 | `b46aff1` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `355d69c` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `picturebook-app` | CI | 배포 | 1회 | `e551c8a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **17회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **18회** | `1d18ed2` |
 
 - `14:42` [Firebase]  장애 18건 안정성 문제
 
@@ -32,6 +33,7 @@
 
 ## 📁 로그 파일
 
+- [2026-08-01](logs/2026-08-01.md)
 - [2026-07-31](logs/2026-07-31.md)
 - [2026-07-30](logs/2026-07-30.md)
 - [2026-07-29](logs/2026-07-29.md)
@@ -45,4 +47,3 @@
 - [2026-07-21](logs/2026-07-21.md)
 - [2026-07-20](logs/2026-07-20.md)
 - [2026-07-19](logs/2026-07-19.md)
-- [2026-07-18](logs/2026-07-18.md)
