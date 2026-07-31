@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-07-31 08:03 KST
+> 마지막 업데이트: 2026-07-31 11:35 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 31 |
+| 🚨 에러 | 18 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 2 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -19,17 +19,15 @@
 |------|-----------|------|------|------|
 | `lim-brain` | Skill checks | 기타 | 1회 | `b46aff1` |
 | `lim-brain` | repo-health | 기타 | 1회 | `b46aff1` |
-| `plategogo` | SEO readiness | 기타 | 1회 | `a6df853` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `355d69c` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **24회** | `1d18ed2` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `1d18ed2` |
 
 - `14:42` [Firebase]  장애 18건 안정성 문제
 
 ## 📊 알림
 
 - `16:05` [GSC] picturebooks.kr
-- `10:40` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
 
