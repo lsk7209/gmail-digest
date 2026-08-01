@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-01 07:02 KST
+> 마지막 업데이트: 2026-08-01 09:00 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 31 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 33 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -24,9 +24,13 @@
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `picturebook-app` | CI | 배포 | 1회 | `e551c8a` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **22회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **24회** | `1d18ed2` |
 
 - `14:42` [Firebase]  장애 18건 안정성 문제
+
+## ⚠️ 경고
+
+- `08:02` [Firebase] com.tennisfrens.app 1.0.50(177) dSYM 누락
 
 ## 📊 알림
 
