@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-01 15:26 KST
+> 마지막 업데이트: 2026-08-01 18:04 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 19 |
+| 🚨 에러 | 21 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -20,8 +20,8 @@
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `b8ebf6f` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `picturebook-app` | CI | 배포 | 1회 | `e551c8a` |
-| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `1d18ed2` |
+| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **2회** | `083db49` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
