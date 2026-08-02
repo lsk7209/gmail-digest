@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-02 08:55 KST
+> 마지막 업데이트: 2026-08-02 11:32 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 36 |
-| ⚠️ 경고 | 1 |
+| 🚨 에러 | 21 |
+| ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,16 +17,10 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `b8ebf6f` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `picturebook-app` | CI | 배포 | 1회 | `e551c8a` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `tennis_friends` | Deploy to GitHub Pages | 배포 | 1회 | `c0729fa` |
-| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **4회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **27회** | `1d18ed2` |
-
-## ⚠️ 경고
-
-- `08:02` [Firebase] com.tennisfrens.app 1.0.50(177) dSYM 누락
+| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **3회** | `083db49` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `1d18ed2` |
 
 ## 📁 로그 파일
 
