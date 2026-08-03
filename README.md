@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-04 05:25 KST
+> 마지막 업데이트: 2026-08-04 07:07 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 29 |
+| 🚨 에러 | 33 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -18,10 +18,12 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `plategogo` | SEO readiness | 기타 | 1회 | `9f1209c` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
+| `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **23회** | `1d18ed2` |
+| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `b4d12f3` |
+| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **24회** | `1d18ed2` |
 
 - `01:04` [Vercel] 배포 실패
 
