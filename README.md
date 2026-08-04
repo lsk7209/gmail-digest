@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-05 06:10 KST
+> 마지막 업데이트: 2026-08-05 08:01 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 38 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 39 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -25,9 +25,13 @@
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `b4d12f3` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **8회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **20회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **21회** | `1d18ed2` |
 
 - `01:04` [Vercel] 배포 실패
+
+## ⚠️ 경고
+
+- `07:21` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 
 ## 📁 로그 파일
 
