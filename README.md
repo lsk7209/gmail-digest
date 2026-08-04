@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-04 22:00 KST
+> 마지막 업데이트: 2026-08-05 00:31 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 27 |
+| 🚨 에러 | 29 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,18 +17,20 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `9a95b20` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `travel-aff` | Verify | 기타 | 1회 | `5c119d4` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `b4d12f3` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **5회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **16회** | `1d18ed2` |
 
 - `01:04` [Vercel] 배포 실패
 
 ## 📁 로그 파일
 
+- [2026-08-05](logs/2026-08-05.md)
 - [2026-08-04](logs/2026-08-04.md)
 - [2026-08-03](logs/2026-08-03.md)
 - [2026-08-02](logs/2026-08-02.md)
@@ -42,4 +44,3 @@
 - [2026-07-25](logs/2026-07-25.md)
 - [2026-07-24](logs/2026-07-24.md)
 - [2026-07-23](logs/2026-07-23.md)
-- [2026-07-22](logs/2026-07-22.md)
