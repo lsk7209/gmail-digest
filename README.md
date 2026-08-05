@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-05 11:13 KST
+> 마지막 업데이트: 2026-08-05 14:43 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 26 |
+| 🚨 에러 | 28 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -21,10 +21,10 @@
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `7285d58` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `travel-aff` | Verify | 기타 | 1회 | `5c119d4` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **6회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `1d18ed2` |
 
 - `10:16` [Vercel] 배포 실패
 - `10:13` [Vercel] 배포 실패
