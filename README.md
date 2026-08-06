@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-06 08:58 KST
+> 마지막 업데이트: 2026-08-06 11:56 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 39 |
-| ⚠️ 경고 | 1 |
+| 🚨 에러 | 17 |
+| ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,22 +17,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `9a95b20` |
-| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `7285d58` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
-| `travel-aff` | Verify | 기타 | 1회 | `5c119d4` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `5d2db18` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | **6회** | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **23회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `1d18ed2` |
 
 - `10:16` [Vercel] 배포 실패
 - `10:13` [Vercel] 배포 실패
-
-## ⚠️ 경고
-
-- `07:21` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 
 ## 📁 로그 파일
 
