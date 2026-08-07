@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-06 23:01 KST
+> 마지막 업데이트: 2026-08-07 09:39 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 23 |
+| 🚨 에러 | 35 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,15 +17,30 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `gmail-digest` | Gmail Digest | 배포 | 1회 | `5d2db18` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **18회** | `1d18ed2` |
-
-- `10:16` [Vercel] 배포 실패
-- `10:13` [Vercel] 배포 실패
+| `` |  | 기타 | **2회** | `` |
+| `bojo24` | Scheduled Post IndexNow Notify | 기타 | 1회 | `781e4a5` |
+| `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `781e4a5` |
+| `dog-breed` | Publish scheduled BreedWise posts | 기타 | 1회 | `8a9d91c` |
+| `lim-brain` | Skill checks | 기타 | 1회 | `0d0769c` |
+| `lim-brain` | repo-health | 기타 | 1회 | `0d0769c` |
+| `runmania` | Auto-Publish Cron | 기타 | 1회 | `47b2906` |
+| `today_yakuk` | Publish Content Queue | 기타 | **2회** | `82f4e44` |
+| `youkamap.kr` | Publish scheduled blog post | 기타 | 1회 | `8f74cda` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `82f4e44` |
+| `gmail-digest` | Gmail Digest | 배포 | **2회** | `7eb7a1e` |
+| `campgogo.kr` | backup | 시스템 | 1회 | `824a4ba` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **3회** | `265db4c` |
+| `tennis_friends` | Scheduled Search Indexing | 시스템 | 1회 | `1cb9705` |
+| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `1d18ed2` |
+| `today_yakuk` | Generate Pharmacy Content | 콘텐츠 | 1회 | `82f4e44` |
+| `yoyangwon` | Release due blog posts | 콘텐츠 | 1회 | `fc05e35` |
 
 ## 📁 로그 파일
 
+- [2026-08-07](logs/2026-08-07.md)
 - [2026-08-06](logs/2026-08-06.md)
 - [2026-08-05](logs/2026-08-05.md)
 - [2026-08-04](logs/2026-08-04.md)
@@ -39,4 +54,3 @@
 - [2026-07-27](logs/2026-07-27.md)
 - [2026-07-26](logs/2026-07-26.md)
 - [2026-07-25](logs/2026-07-25.md)
-- [2026-07-24](logs/2026-07-24.md)
