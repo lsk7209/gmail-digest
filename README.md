@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-07 17:56 KST
+> 마지막 업데이트: 2026-08-07 19:02 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 41 |
+| 🚨 에러 | 42 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -33,7 +33,7 @@
 | `gong365kr` | StartupMoneyMap cron | 시스템 | **3회** | `265db4c` |
 | `tennis_friends` | Scheduled Search Indexing | 시스템 | 1회 | `1cb9705` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `1d18ed2` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `1d18ed2` |
 | `today_yakuk` | Generate Pharmacy Content | 콘텐츠 | 1회 | `82f4e44` |
 | `yoyangwon` | Release due blog posts | 콘텐츠 | 1회 | `fc05e35` |
