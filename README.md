@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-08 07:32 KST
+> 마지막 업데이트: 2026-08-08 08:31 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 57 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 59 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -33,10 +33,14 @@
 | `gong365kr` | StartupMoneyMap cron | 시스템 | **3회** | `265db4c` |
 | `tennis_friends` | Scheduled Search Indexing | 시스템 | 1회 | `1cb9705` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **27회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **29회** | `1d18ed2` |
 | `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `1d18ed2` |
 | `today_yakuk` | Generate Pharmacy Content | 콘텐츠 | 1회 | `82f4e44` |
 | `yoyangwon` | Release due blog posts | 콘텐츠 | 1회 | `fc05e35` |
+
+## ⚠️ 경고
+
+- `08:29` [GSC] spinkorea.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 
 ## 📁 로그 파일
 
