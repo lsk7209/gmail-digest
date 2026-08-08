@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-08 08:31 KST
+> 마지막 업데이트: 2026-08-08 10:20 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 59 |
-| ⚠️ 경고 | 1 |
+| 🚨 에러 | 25 |
+| ⚠️ 경고 | 19 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,29 +17,32 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **2회** | `` |
-| `bojo24` | Scheduled Post IndexNow Notify | 기타 | 1회 | `781e4a5` |
-| `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `781e4a5` |
-| `dog-breed` | Publish scheduled BreedWise posts | 기타 | 1회 | `8a9d91c` |
-| `lim-brain` | Skill checks | 기타 | **2회** | `5db8b2a` |
-| `lim-brain` | repo-health | 기타 | **2회** | `5db8b2a` |
-| `runmania` | Auto-Publish Cron | 기타 | 1회 | `47b2906` |
-| `today_yakuk` | Publish Content Queue | 기타 | **2회** | `82f4e44` |
-| `youkamap.kr` | Publish scheduled blog post | 기타 | 1회 | `8f74cda` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `82f4e44` |
-| `gmail-digest` | Gmail Digest | 배포 | **3회** | `9f05b40` |
-| `campgogo.kr` | backup | 시스템 | 1회 | `824a4ba` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **3회** | `265db4c` |
-| `tennis_friends` | Scheduled Search Indexing | 시스템 | 1회 | `1cb9705` |
-| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `083db49` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **29회** | `1d18ed2` |
-| `crepikacom` | Auto Publish Utility Tool | 콘텐츠 | **3회** | `1d18ed2` |
-| `today_yakuk` | Generate Pharmacy Content | 콘텐츠 | 1회 | `82f4e44` |
-| `yoyangwon` | Release due blog posts | 콘텐츠 | 1회 | `fc05e35` |
+| `lim-brain` | repo-health | 기타 | 1회 | `5db8b2a` |
+| `lim-brain` | Skill checks | 기타 | 1회 | `5db8b2a` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `gmail-digest` | Gmail Digest | 배포 | 1회 | `9f05b40` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **21회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
+- `10:17` [GSC] autorentlab.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `10:16` [GSC] discparty.com — * 찾을 수 없음(404)
+- `10:13` [GSC] sorimate.com — * 찾을 수 없음(404)
+- `10:07` [GSC] mohana.kr — * 리디렉션이 포함된 페이지
+- `10:05` [GSC] petjigi.kr — * 찾을 수 없음(404)
+- `10:01` [GSC] wedfairguide.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `10:00` [GSC] healfood.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `09:47` [GSC] * 사용자가 선택한 표준이 없는 중복 페이지
+- `09:47` [GSC] * 사용자가 선택한 표준이 없는 중복 페이지
+- `09:42` [GSC] estat.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
+- `09:38` [GSC] estat.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
+- `09:29` [GSC] caregos.com — * 색인이 생성되었으나 robots.txt에 의해 차단됨
+- `09:15` [GSC] smallhomepick.com — * 리디렉션이 포함된 페이지
+- `09:11` [GSC] * 리디렉션이 포함된 페이지
+- `09:05` [GSC] autoscares.com — * 서버 오류(5xx)
+- `08:58` [GSC] * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
+- `08:51` [GSC] trave.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `08:32` [GSC] limsight.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `08:29` [GSC] spinkorea.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 
 ## 📁 로그 파일
