@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-08 21:41 KST
+> 마지막 업데이트: 2026-08-08 22:43 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 38 |
+| 🚨 에러 | 40 |
 | ⚠️ 경고 | 19 |
 | 📊 알림 | 0 |
 
@@ -17,11 +17,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `e06c0e3` |
 | `lim-brain` | repo-health | 기타 | 1회 | `5db8b2a` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `5db8b2a` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `9f05b40` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **33회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **34회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
