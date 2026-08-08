@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-08 12:22 KST
+> 마지막 업데이트: 2026-08-08 13:53 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 26 |
+| 🚨 에러 | 28 |
 | ⚠️ 경고 | 19 |
 | 📊 알림 | 0 |
 
@@ -19,9 +19,9 @@
 |------|-----------|------|------|------|
 | `lim-brain` | repo-health | 기타 | 1회 | `5db8b2a` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `5db8b2a` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `9f05b40` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **22회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **23회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
