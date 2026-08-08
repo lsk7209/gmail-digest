@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-08 22:43 KST
+> 마지막 업데이트: 2026-08-08 23:29 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 40 |
-| ⚠️ 경고 | 19 |
+| 🚨 에러 | 41 |
+| ⚠️ 경고 | 20 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -22,10 +22,11 @@
 | `lim-brain` | Skill checks | 기타 | 1회 | `5db8b2a` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `9f05b40` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **34회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **35회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
+- `22:55` [Firebase] com.tennisfrens.app 1.0.55(182) dSYM 누락
 - `10:17` [GSC] autorentlab.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `10:16` [GSC] discparty.com — * 찾을 수 없음(404)
 - `10:13` [GSC] sorimate.com — * 찾을 수 없음(404)
