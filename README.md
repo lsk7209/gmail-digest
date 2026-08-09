@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-09 08:25 KST
+> 마지막 업데이트: 2026-08-09 10:26 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 57 |
-| ⚠️ 경고 | 20 |
+| 🚨 에러 | 35 |
+| ⚠️ 경고 | 16 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -18,13 +18,10 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `e06c0e3` |
-| `lim-brain` | repo-health | 기타 | 1회 | `5db8b2a` |
-| `lim-brain` | Skill checks | 기타 | 1회 | `5db8b2a` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `0acf7f8` |
-| `gmail-digest` | Gmail Digest | 배포 | 1회 | `9f05b40` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **49회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **31회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
@@ -44,10 +41,6 @@
 - `09:15` [GSC] smallhomepick.com — * 리디렉션이 포함된 페이지
 - `09:11` [GSC] * 리디렉션이 포함된 페이지
 - `09:05` [GSC] autoscares.com — * 서버 오류(5xx)
-- `08:58` [GSC] * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `08:51` [GSC] trave.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `08:32` [GSC] limsight.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `08:29` [GSC] spinkorea.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 
 ## 📁 로그 파일
 
