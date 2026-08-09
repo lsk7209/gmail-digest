@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-10 01:30 KST
+> 마지막 업데이트: 2026-08-10 02:28 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 52 |
-| ⚠️ 경고 | 16 |
+| 🚨 에러 | 54 |
+| ⚠️ 경고 | 17 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -21,10 +21,11 @@
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `0acf7f8` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **47회** | `1d18ed2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **49회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
+- `02:20` [GSC] * 색인이 생성되었으나 robots.txt에 의해 차단됨
 - `22:55` [Firebase] com.tennisfrens.app 1.0.55(182) dSYM 누락
 - `10:17` [GSC] autorentlab.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `10:16` [GSC] discparty.com — * 찾을 수 없음(404)
