@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-10 08:28 KST
+> 마지막 업데이트: 2026-08-10 10:27 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 64 |
-| ⚠️ 경고 | 20 |
+| 🚨 에러 | 32 |
+| ⚠️ 경고 | 4 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -17,11 +17,10 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `e06c0e3` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | **2회** | `14294ab` |
-| `roadwayskr` | Sync TourAPI | 데이터 | **2회** | `0acf7f8` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **57회** | `1d18ed2` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
+| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `0acf7f8` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **29회** | `1d18ed2` |
 
 ## ⚠️ 경고
 
@@ -29,22 +28,6 @@
 - `02:44` [GSC] sorimate.com — * robots.txt에 의해 차단됨
 - `02:35` [GSC] seniorlivingnote.com — * 리디렉션이 포함된 페이지
 - `02:20` [GSC] * 색인이 생성되었으나 robots.txt에 의해 차단됨
-- `22:55` [Firebase] com.tennisfrens.app 1.0.55(182) dSYM 누락
-- `10:17` [GSC] autorentlab.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `10:16` [GSC] discparty.com — * 찾을 수 없음(404)
-- `10:13` [GSC] sorimate.com — * 찾을 수 없음(404)
-- `10:07` [GSC] mohana.kr — * 리디렉션이 포함된 페이지
-- `10:05` [GSC] petjigi.kr — * 찾을 수 없음(404)
-- `10:01` [GSC] wedfairguide.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `10:00` [GSC] healfood.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `09:47` [GSC] * 사용자가 선택한 표준이 없는 중복 페이지
-- `09:47` [GSC] * 사용자가 선택한 표준이 없는 중복 페이지
-- `09:42` [GSC] estat.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `09:38` [GSC] estat.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `09:29` [GSC] caregos.com — * 색인이 생성되었으나 robots.txt에 의해 차단됨
-- `09:15` [GSC] smallhomepick.com — * 리디렉션이 포함된 페이지
-- `09:11` [GSC] * 리디렉션이 포함된 페이지
-- `09:05` [GSC] autoscares.com — * 서버 오류(5xx)
 
 ## 📊 알림
 
