@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-11 08:32 KST
+> 마지막 업데이트: 2026-08-11 10:26 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 59 |
-| ⚠️ 경고 | 4 |
-| 📊 알림 | 1 |
+| 🚨 에러 | 30 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -20,21 +20,9 @@
 | `lim-brain` | repo-health | 기타 | **3회** | `110e2bc` |
 | `lim-brain` | Skill checks | 기타 | **3회** | `110e2bc` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | **2회** | `14294ab` |
-| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `0acf7f8` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **47회** | `1d18ed2` |
-
-## ⚠️ 경고
-
-- `02:44` [GSC] healfood.kr — * robots.txt에 의해 차단됨
-- `02:44` [GSC] sorimate.com — * robots.txt에 의해 차단됨
-- `02:35` [GSC] seniorlivingnote.com — * 리디렉션이 포함된 페이지
-- `02:20` [GSC] * 색인이 생성되었으나 robots.txt에 의해 차단됨
-
-## 📊 알림
-
-- `18:52` [AdSense] 알림: 계정이 최적화되었습니다 
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **21회** | `1d18ed2` |
 
 ## 📁 로그 파일
 
