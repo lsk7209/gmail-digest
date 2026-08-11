@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-11 21:57 KST
+> 마지막 업데이트: 2026-08-11 23:21 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 42 |
+| 🚨 에러 | 44 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,12 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
+| `` |  | 기타 | 1회 | `` |
 | `lim-brain` | repo-health | 기타 | **3회** | `110e2bc` |
 | `lim-brain` | Skill checks | 기타 | **3회** | `110e2bc` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **30회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **31회** | `7e6ab0e` |
 
 - `14:10` [Vercel] 배포 실패
 - `10:53` [Vercel] 배포 실패
