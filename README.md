@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-13 04:10 KST
+> 마지막 업데이트: 2026-08-13 05:40 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 76 |
+| 🚨 에러 | 81 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,17 +17,17 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **23회** | `` |
+| `` |  | 기타 | **24회** | `` |
 | `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `ea6c627` |
 | `busellerpitkr` | Refresh Search Console sitemap | 기타 | 1회 | `66ef595` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `89bc240` |
 | `dog-breed` | Check Public Data APIs | 기타 | 1회 | `89bc240` |
 | `lim-brain` | Skill checks | 기타 | **3회** | `3cd2fda` |
 | `lim-brain` | repo-health | 기타 | **3회** | `3cd2fda` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
+| `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **35회** | `7e6ab0e` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | **2회** | `3f38c66` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **37회** | `7e6ab0e` |
 
 - `14:10` [Vercel] 배포 실패
 - `10:53` [Vercel] 배포 실패
