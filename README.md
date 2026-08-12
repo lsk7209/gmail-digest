@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-12 20:06 KST
+> 마지막 업데이트: 2026-08-12 22:02 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 63 |
+| 🚨 에러 | 66 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,7 +17,7 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **17회** | `` |
+| `` |  | 기타 | **18회** | `` |
 | `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `ea6c627` |
 | `busellerpitkr` | Refresh Search Console sitemap | 기타 | 1회 | `66ef595` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `89bc240` |
@@ -27,7 +27,7 @@
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `14294ab` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **28회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **30회** | `7e6ab0e` |
 
 - `14:10` [Vercel] 배포 실패
 - `10:53` [Vercel] 배포 실패
