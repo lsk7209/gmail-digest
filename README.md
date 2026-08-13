@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-14 00:57 KST
+> 마지막 업데이트: 2026-08-14 01:57 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 63 |
+| 🚨 에러 | 64 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -23,7 +23,7 @@
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **30회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **31회** | `7e6ab0e` |
 
 ## 📊 알림
 
