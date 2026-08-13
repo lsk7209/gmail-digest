@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-14 07:38 KST
+> 마지막 업데이트: 2026-08-14 08:38 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 79 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 83 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -17,15 +17,19 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **30회** | `` |
-| `lim-brain` | Skill checks | 기타 | **2회** | `3cd2fda` |
-| `lim-brain` | repo-health | 기타 | **2회** | `3cd2fda` |
+| `` |  | 기타 | **31회** | `` |
+| `lim-brain` | Skill checks | 기타 | **3회** | `06bda07` |
+| `lim-brain` | repo-health | 기타 | **3회** | `06bda07` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | **2회** | `3f38c66` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `3ff7e04` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `95ceff5` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **37회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **38회** | `7e6ab0e` |
+
+## ⚠️ 경고
+
+- `07:38` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 
 ## 📊 알림
 
