@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-13 08:38 KST
+> 마지막 업데이트: 2026-08-13 10:45 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 87 |
+| 🚨 에러 | 44 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 1 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -17,24 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **27회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `ea6c627` |
-| `busellerpitkr` | Refresh Search Console sitemap | 기타 | 1회 | `66ef595` |
-| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `89bc240` |
-| `dog-breed` | Check Public Data APIs | 기타 | 1회 | `89bc240` |
-| `lim-brain` | Skill checks | 기타 | **3회** | `3cd2fda` |
-| `lim-brain` | repo-health | 기타 | **3회** | `3cd2fda` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `82f4e44` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | **2회** | `3f38c66` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **40회** | `7e6ab0e` |
-
-- `14:10` [Vercel] 배포 실패
-- `10:53` [Vercel] 배포 실패
-
-## 📊 알림
-
-- `13:21` [GSC] pregnancy.ehon365.kr
+| `` |  | 기타 | **17회** | `` |
+| `lim-brain` | Skill checks | 기타 | **2회** | `3cd2fda` |
+| `lim-brain` | repo-health | 기타 | **2회** | `3cd2fda` |
+| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **20회** | `7e6ab0e` |
 
 ## 📁 로그 파일
 
