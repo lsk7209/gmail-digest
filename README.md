@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-14 18:57 KST
+> 마지막 업데이트: 2026-08-14 19:59 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 55 |
+| 🚨 에러 | 58 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
@@ -17,8 +17,8 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **20회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `06aa718` |
+| `` |  | 기타 | **21회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `06aa718` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `06bda07` |
 | `lim-brain` | repo-health | 기타 | 1회 | `06bda07` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
@@ -26,7 +26,7 @@
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `3ff7e04` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `95ceff5` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **24회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **25회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
