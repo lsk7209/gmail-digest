@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-15 08:19 KST
+> 마지막 업데이트: 2026-08-15 10:04 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 97 |
-| ⚠️ 경고 | 1 |
-| 📊 알림 | 1 |
+| 🚨 에러 | 61 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -17,25 +17,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **33회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **14회** | `06aa718` |
-| `lim-brain` | Skill checks | 기타 | 1회 | `06bda07` |
-| `lim-brain` | repo-health | 기타 | 1회 | `06bda07` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `82f4e44` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
+| `` |  | 기타 | **19회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **15회** | `06aa718` |
+| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `ad98d9a` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `3ff7e04` |
-| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `95ceff5` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **40회** | `7e6ab0e` |
-
-## ⚠️ 경고
-
-- `07:38` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
-
-## 📊 알림
-
-- `17:27` [GSC] go.sellerpit.kr
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **24회** | `7e6ab0e` |
 
 ## 📁 로그 파일
 
