@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-17 18:38 KST
+> 마지막 업데이트: 2026-08-17 19:29 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 112 |
-| ⚠️ 경고 | 4 |
+| 🚨 에러 | 116 |
+| ⚠️ 경고 | 9 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,14 +17,19 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **30회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **30회** | `06aa718` |
+| `` |  | 기타 | **31회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **31회** | `06aa718` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **49회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **51회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
+- `19:00` [GSC] klick.kr — * 리디렉션이 포함된 페이지
+- `18:56` [GSC] campgogo.kr — * 찾을 수 없음(404)
+- `18:53` [GSC] tourguide.tistory.com — * 찾을 수 없음(404)
+- `18:52` [GSC] * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `18:41` [GSC] kang4.tistory.com — * 적절한 표준 태그가 포함된 대체 페이지
 - `18:33` [GSC] travel.sellerpit.kr — * robots.txt에 의해 차단됨
 - `18:26` [GSC] kdramanote.com — * 찾을 수 없음(404)
 - `04:18` [GSC] seniorlivingnote.com — * 찾을 수 없음(404)
