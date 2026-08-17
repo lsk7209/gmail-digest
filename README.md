@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-18 04:25 KST
+> 마지막 업데이트: 2026-08-18 05:23 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 149 |
+| 🚨 에러 | 155 |
 | ⚠️ 경고 | 9 |
 | 📊 알림 | 0 |
 
@@ -17,12 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **40회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **40회** | `06aa718` |
+| `` |  | 기타 | **41회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **41회** | `06aa718` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
+| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `ad98d9a` |
 | `gmail-digest` | Gmail Digest | 배포 | **2회** | `d969783` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **64회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **66회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
