@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-17 16:50 KST
+> 마지막 업데이트: 2026-08-17 17:39 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 108 |
+| 🚨 에러 | 109 |
 | ⚠️ 경고 | 2 |
 | 📊 알림 | 0 |
 
@@ -21,7 +21,7 @@
 | `busellerpitkr` | Release scheduled guide | 기타 | **29회** | `06aa718` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **47회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **48회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
