@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-18 23:30 KST
+> 마지막 업데이트: 2026-08-19 00:28 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 127 |
+| 🚨 에러 | 131 |
 | ⚠️ 경고 | 7 |
 | 📊 알림 | 1 |
 
@@ -17,13 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **35회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **35회** | `06aa718` |
+| `` |  | 기타 | **36회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **36회** | `06aa718` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `ad98d9a` |
 | `gmail-digest` | Gmail Digest | 배포 | **2회** | `d969783` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **51회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **53회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
@@ -41,6 +41,7 @@
 
 ## 📁 로그 파일
 
+- [2026-08-19](logs/2026-08-19.md)
 - [2026-08-18](logs/2026-08-18.md)
 - [2026-08-17](logs/2026-08-17.md)
 - [2026-08-16](logs/2026-08-16.md)
@@ -54,4 +55,3 @@
 - [2026-08-08](logs/2026-08-08.md)
 - [2026-08-07](logs/2026-08-07.md)
 - [2026-08-06](logs/2026-08-06.md)
-- [2026-08-05](logs/2026-08-05.md)
