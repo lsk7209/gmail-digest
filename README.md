@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-20 06:22 KST
+> 마지막 업데이트: 2026-08-20 07:21 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 155 |
+| 🚨 에러 | 159 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
@@ -17,14 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **42회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **43회** | `06aa718` |
+| `` |  | 기타 | **43회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **44회** | `06aa718` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `d4c6c61` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `4318c80` |
 | `lim-brain` | repo-health | 기타 | 1회 | `4318c80` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **64회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **66회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
