@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-20 02:24 KST
+> 마지막 업데이트: 2026-08-20 03:31 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 140 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 144 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -17,14 +17,18 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **38회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **39회** | `06aa718` |
+| `` |  | 기타 | **39회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **40회** | `06aa718` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `d4c6c61` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `4318c80` |
 | `lim-brain` | repo-health | 기타 | 1회 | `4318c80` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **57회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **59회** | `7e6ab0e` |
+
+## ⚠️ 경고
+
+- `02:46` [GSC] tourguide.tistory.com — * 다른 4xx 문제로 인해 차단됨
 
 ## 📊 알림
 
