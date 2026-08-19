@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-19 23:30 KST
+> 마지막 업데이트: 2026-08-20 00:28 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 129 |
+| 🚨 에러 | 133 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,14 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **35회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **36회** | `06aa718` |
+| `` |  | 기타 | **36회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **37회** | `06aa718` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `d4c6c61` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `4318c80` |
 | `lim-brain` | repo-health | 기타 | 1회 | `4318c80` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **52회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **54회** | `7e6ab0e` |
 
 ## 📊 알림
 
@@ -32,6 +32,7 @@
 
 ## 📁 로그 파일
 
+- [2026-08-20](logs/2026-08-20.md)
 - [2026-08-19](logs/2026-08-19.md)
 - [2026-08-18](logs/2026-08-18.md)
 - [2026-08-17](logs/2026-08-17.md)
@@ -45,4 +46,3 @@
 - [2026-08-09](logs/2026-08-09.md)
 - [2026-08-08](logs/2026-08-08.md)
 - [2026-08-07](logs/2026-08-07.md)
-- [2026-08-06](logs/2026-08-06.md)
