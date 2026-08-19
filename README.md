@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-19 11:54 KST
+> 마지막 업데이트: 2026-08-19 12:43 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 87 |
+| 🚨 에러 | 93 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,12 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **24회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **24회** | `06aa718` |
+| `` |  | 기타 | **25회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **25회** | `06aa718` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `d4c6c61` |
+| `lim-brain` | Skill checks | 기타 | 1회 | `4318c80` |
+| `lim-brain` | repo-health | 기타 | 1회 | `4318c80` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **36회** | `7e6ab0e` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **37회** | `7e6ab0e` |
 
 ## 📊 알림
 
