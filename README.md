@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-21 08:22 KST
+> 마지막 업데이트: 2026-08-21 10:07 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 158 |
-| ⚠️ 경고 | 1 |
+| 🚨 에러 | 79 |
+| ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,17 +17,11 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **44회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **45회** | `06aa718` |
-| `lim-brain` | Skill checks | 기타 | 1회 | `4318c80` |
-| `lim-brain` | repo-health | 기타 | 1회 | `4318c80` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `` |  | 기타 | **23회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **23회** | `06aa718` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `ad98d9a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **64회** | `7e6ab0e` |
-
-## ⚠️ 경고
-
-- `02:46` [GSC] tourguide.tistory.com — * 다른 4xx 문제로 인해 차단됨
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **31회** | `7e6ab0e` |
 
 ## 📁 로그 파일
 
