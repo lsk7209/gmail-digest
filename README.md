@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-22 23:18 KST
+> 마지막 업데이트: 2026-08-23 00:17 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 128 |
+| 🚨 에러 | 132 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,16 +17,17 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **35회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **35회** | `06aa718` |
+| `` |  | 기타 | **36회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **36회** | `06aa718` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `ad98d9a` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `929e031` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **53회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **55회** | `7e6ab0e` |
 
 ## 📁 로그 파일
 
+- [2026-08-23](logs/2026-08-23.md)
 - [2026-08-22](logs/2026-08-22.md)
 - [2026-08-21](logs/2026-08-21.md)
 - [2026-08-20](logs/2026-08-20.md)
@@ -40,4 +41,3 @@
 - [2026-08-12](logs/2026-08-12.md)
 - [2026-08-11](logs/2026-08-11.md)
 - [2026-08-10](logs/2026-08-10.md)
-- [2026-08-09](logs/2026-08-09.md)
