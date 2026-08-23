@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-24 02:18 KST
+> 마지막 업데이트: 2026-08-24 03:24 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 146 |
-| ⚠️ 경고 | 3 |
+| 🚨 에러 | 150 |
+| ⚠️ 경고 | 5 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,14 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **38회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **38회** | `06aa718` |
+| `` |  | 기타 | **39회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **39회** | `06aa718` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **66회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **68회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
+- `03:22` [GSC] today2424.kr — * 찾을 수 없음(404)
+- `03:10` [GSC] gover.kr — * 찾을 수 없음(404)
 - `02:06` [GSC] temon.kr — * 사용자가 선택한 표준이 없는 중복 페이지
 - `02:04` [GSC] temon.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `01:55` [GSC] todayshops.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
