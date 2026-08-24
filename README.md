@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-24 23:38 KST
+> 마지막 업데이트: 2026-08-25 00:36 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 126 |
+| 🚨 에러 | 129 |
 | ⚠️ 경고 | 6 |
-| 📊 알림 | 0 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -17,12 +17,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **33회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **33회** | `06aa718` |
+| `` |  | 기타 | **34회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **34회** | `06aa718` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `82f4e44` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **55회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **56회** | `7e6ab0e` |
 
 ## ⚠️ 경고
 
@@ -33,8 +33,13 @@
 - `02:04` [GSC] temon.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `01:55` [GSC] todayshops.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 
+## 📊 알림
+
+- `00:11` [GSC] jeompolab.com
+
 ## 📁 로그 파일
 
+- [2026-08-25](logs/2026-08-25.md)
 - [2026-08-24](logs/2026-08-24.md)
 - [2026-08-23](logs/2026-08-23.md)
 - [2026-08-22](logs/2026-08-22.md)
@@ -48,4 +53,3 @@
 - [2026-08-14](logs/2026-08-14.md)
 - [2026-08-13](logs/2026-08-13.md)
 - [2026-08-12](logs/2026-08-12.md)
-- [2026-08-11](logs/2026-08-11.md)
