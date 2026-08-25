@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-26 05:25 KST
+> 마지막 업데이트: 2026-08-26 06:25 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 144 |
+| 🚨 에러 | 147 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
@@ -17,15 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **40회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **40회** | `06aa718` |
+| `` |  | 기타 | **41회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **41회** | `06aa718` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `bbb5a24` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
 | `roadwayskr` | Sync TourAPI | 데이터 | **2회** | `ad98d9a` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `c51e118` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **54회** | `7e6ab0e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **55회** | `7e6ab0e` |
 
 - `23:43` [Vercel] 배포 실패
 
