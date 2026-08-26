@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-26 22:52 KST
+> 마지막 업데이트: 2026-08-26 23:41 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 121 |
+| 🚨 에러 | 122 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -25,7 +25,7 @@
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `ad98d9a` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `c51e118` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **44회** | `bf33657` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **45회** | `bf33657` |
 
 - `23:43` [Vercel] 배포 실패
 
