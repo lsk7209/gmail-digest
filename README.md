@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-28 08:34 KST
+> 마지막 업데이트: 2026-08-28 18:27 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 60 |
+| 🚨 에러 | 12 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 1 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -17,15 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **17회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **17회** | `06aa718` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `ad98d9a` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **22회** | `5749fa6` |
+| `` |  | 기타 | **3회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `06aa718` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
+| `today_yakuk` | CI | 배포 | 1회 | `eaa4277` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **3회** | `5749fa6` |
 
 ## 📊 알림
 
+- `16:12` [GSC] lim01.soonsaak.co.kr
 - `10:46` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
