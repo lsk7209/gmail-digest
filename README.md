@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-30 04:10 KST
+> 마지막 업데이트: 2026-08-30 07:19 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 29 |
+| 🚨 에러 | 34 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,15 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **6회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `06aa718` |
+| `` |  | 기타 | **8회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `06aa718` |
 | `today_yakuk` | Publish Content Queue | 기타 | **4회** | `8a9b892` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `3f38c66` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `8a9b892` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **2회** | `5387c5e` |
 | `today_yakuk` | CI | 배포 | 1회 | `eaa4277` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `95ceff5` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `5749fa6` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `5749fa6` |
 
 ## 📊 알림
 
