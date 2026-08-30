@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-08-30 10:01 KST
+> 마지막 업데이트: 2026-08-30 16:50 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 27 |
+| 🚨 에러 | 38 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -18,12 +18,19 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **7회** | `` |
+| `2424` | Live Cost Watch | 기타 | **4회** | `7ea0ace` |
 | `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `06aa718` |
+| `coverclarityhealth.com` | Content quality | 기타 | 1회 | `a122988` |
 | `today_yakuk` | Publish Content Queue | 기타 | **3회** | `8a9b892` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `5387c5e` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **4회** | `5387c5e` |
 | `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `95ceff5` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `5749fa6` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `5749fa6` |
+
+- `13:29` [Vercel] 배포 실패
+- `13:01` [Vercel] 배포 실패
+- `12:59` [Vercel] 배포 실패
+- `12:55` [Vercel] 배포 실패
 
 ## 📁 로그 파일
 
