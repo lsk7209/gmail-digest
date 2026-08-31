@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-01 02:51 KST
+> 마지막 업데이트: 2026-09-01 07:25 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 21 |
+| 🚨 에러 | 22 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -23,7 +23,7 @@
 | `coverclarityhealth.com` | Content quality | 기타 | 1회 | `a122988` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `bb9fc17` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `2d0486f` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **4회** | `2d0486f` |
 | `campgogo.kr` | CI | 배포 | 1회 | `49291fb` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | 1회 | `5749fa6` |
 
