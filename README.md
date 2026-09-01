@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-01 07:25 KST
+> 마지막 업데이트: 2026-09-01 10:37 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 22 |
+| 🚨 에러 | 6 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,20 +17,11 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **2회** | `` |
-| `2424` | Live Cost Watch | 기타 | **5회** | `7ea0ace` |
-| `busellerpitkr` | Release scheduled guide | 기타 | 1회 | `06aa718` |
-| `coverclarityhealth.com` | Content quality | 기타 | 1회 | `a122988` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `7ea0ace` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `bb9fc17` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **4회** | `2d0486f` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **2회** | `2d0486f` |
 | `campgogo.kr` | CI | 배포 | 1회 | `49291fb` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | 1회 | `5749fa6` |
-
-- `13:29` [Vercel] 배포 실패
-- `13:01` [Vercel] 배포 실패
-- `12:59` [Vercel] 배포 실패
-- `12:55` [Vercel] 배포 실패
 
 ## 📁 로그 파일
 
