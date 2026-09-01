@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-02 02:35 KST
+> 마지막 업데이트: 2026-09-02 05:31 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 10 |
+| 🚨 에러 | 13 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -18,10 +18,11 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `2424` | Live Cost Watch | 기타 | 1회 | `7ea0ace` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **2회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `5b5adce` |
+| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `5544b63` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `bb9fc17` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **2회** | `2d0486f` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `2d0486f` |
 | `campgogo.kr` | CI | 배포 | 1회 | `49291fb` |
 
 - `21:41` [Vercel] 배포 실패
