@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-02 05:31 KST
+> 마지막 업데이트: 2026-09-02 07:59 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 13 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 15 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -18,14 +18,19 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `2424` | Live Cost Watch | 기타 | 1회 | `7ea0ace` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `5544b63` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `468c0b8` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `bb9fc17` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `2d0486f` |
 | `campgogo.kr` | CI | 배포 | 1회 | `49291fb` |
 
 - `21:41` [Vercel] 배포 실패
+
+## ⚠️ 경고
+
+- `06:54` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 
 ## 📊 알림
 
