@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-02 09:58 KST
+> 마지막 업데이트: 2026-09-02 14:34 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 10 |
+| 🚨 에러 | 11 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
@@ -17,7 +17,7 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `5544b63` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `468c0b8` |
