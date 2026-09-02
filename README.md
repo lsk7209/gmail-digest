@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-02 23:57 KST
+> 마지막 업데이트: 2026-09-03 03:29 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 17 |
+| 🚨 에러 | 19 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 1 |
 
@@ -17,12 +17,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `5544b63` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `468c0b8` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `2d0486f` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **3회** | `648ea42` |
 
 - `21:41` [Vercel] 배포 실패
 
@@ -36,6 +36,7 @@
 
 ## 📁 로그 파일
 
+- [2026-09-03](logs/2026-09-03.md)
 - [2026-09-02](logs/2026-09-02.md)
 - [2026-09-01](logs/2026-09-01.md)
 - [2026-08-31](logs/2026-08-31.md)
@@ -49,4 +50,3 @@
 - [2026-08-23](logs/2026-08-23.md)
 - [2026-08-22](logs/2026-08-22.md)
 - [2026-08-21](logs/2026-08-21.md)
-- [2026-08-20](logs/2026-08-20.md)
