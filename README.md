@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-03 08:50 KST
+> 마지막 업데이트: 2026-09-03 11:53 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 25 |
-| ⚠️ 경고 | 1 |
-| 📊 알림 | 1 |
+| 🚨 에러 | 17 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -17,23 +17,11 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
-| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `5544b63` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `2d0486f` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
-| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `468c0b8` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `2d0486f` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
-
-- `21:41` [Vercel] 배포 실패
-
-## ⚠️ 경고
-
-- `06:54` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
-
-## 📊 알림
-
-- `23:39` [AdSense] 광고 노출수 집계 방식이 변경됩니다
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `549cb36` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `2d0486f` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
 
 ## 📁 로그 파일
 
