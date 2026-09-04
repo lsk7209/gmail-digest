@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-04 19:34 KST
+> 마지막 업데이트: 2026-09-04 23:46 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 26 |
+| 🚨 에러 | 28 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 0 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -17,14 +17,18 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `549cb36` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `468c0b8` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `2d0486f` |
 | `cafe-work-automation` | ci | 배포 | **2회** | `0c5ac76` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `648ea42` |
 
 - `14:44` [Firebase]  장애 10건 안정성 문제
+
+## 📊 알림
+
+- `21:05` [GSC] item79.com
 
 ## 📁 로그 파일
 
