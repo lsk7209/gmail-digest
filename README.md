@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-06 06:54 KST
+> 마지막 업데이트: 2026-09-06 08:33 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 38 |
+| 🚨 에러 | 39 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -23,7 +23,7 @@
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `bb9fc17` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **5회** | `2d0486f` |
 | `cafe-work-automation` | ci | 배포 | **2회** | `0c5ac76` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `648ea42` |
 
 ## 📊 알림
 
