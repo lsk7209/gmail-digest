@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-13 01:44 KST
+> 마지막 업데이트: 2026-09-13 03:56 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 30 |
+| 🚨 에러 | 33 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,14 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
+| `bojo24` | Scheduled Post IndexNow Notify | 기타 | 1회 | `5706a0a` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **11회** | `5b5adce` |
 | `petjigi` | Production DB migrate | 기타 | 1회 | `3e003c3` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `5000307` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `6a70d35` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `fc573c1` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `648ea42` |
 
 ## 📁 로그 파일
 
