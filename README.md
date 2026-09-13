@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-14 02:14 KST
+> 마지막 업데이트: 2026-09-14 05:18 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 43 |
+| 🚨 에러 | 53 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -18,19 +18,23 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `bojo24` | Scheduled Post IndexNow Notify | 기타 | 1회 | `5706a0a` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **11회** | `5b5adce` |
+| `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `5706a0a` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **12회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `a0cdb7d` |
 | `petjigi` | Production DB migrate | 기타 | 1회 | `3e003c3` |
-| `runmania` | Auto-Publish Cron | 기타 | 1회 | `44f35be` |
+| `runmania` | Auto-Publish Cron | 기타 | **2회** | `44f35be` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `fc573c1` |
 | `today_yakuk` | Public Data Sync Watchdog | 기타 | 1회 | `fc573c1` |
+| `today_yakuk` | Indexing Notification Outbox | 기타 | 1회 | `fc573c1` |
+| `today_yakuk` | Publish Content Queue | 기타 | 1회 | `fc573c1` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `fc573c1` |
 | `localgeoapp` | CI | 배포 | **6회** | `edb092d` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **2회** | `fb90121` |
+| `campgogo.kr` | dedup-review | 시스템 | 1회 | `b9c6ecd` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **4회** | `fb90121` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `de77c50` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `648ea42` |
 
 ## 📊 알림
 
