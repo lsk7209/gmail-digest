@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-14 07:51 KST
+> 마지막 업데이트: 2026-09-14 09:42 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 65 |
+| 🚨 에러 | 49 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,26 +17,23 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `bojo24` | Scheduled Post IndexNow Notify | 기타 | 1회 | `5706a0a` |
 | `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `5706a0a` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **13회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `a0cdb7d` |
-| `petjigi` | Production DB migrate | 기타 | 1회 | `3e003c3` |
-| `runmania` | Auto-Publish Cron | 기타 | **3회** | `44f35be` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | **3회** | `fc573c1` |
+| `runmania` | Auto-Publish Cron | 기타 | **4회** | `44f35be` |
 | `today_yakuk` | Public Data Sync Watchdog | 기타 | **2회** | `fc573c1` |
-| `today_yakuk` | Indexing Notification Outbox | 기타 | **2회** | `fc573c1` |
-| `today_yakuk` | Publish Content Queue | 기타 | 1회 | `fc573c1` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
+| `today_yakuk` | Indexing Notification Outbox | 기타 | **3회** | `fc573c1` |
+| `today_yakuk` | Publish Content Queue | 기타 | **2회** | `fc573c1` |
+| `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `fc573c1` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `98e4242` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f2c717b` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **2회** | `fc573c1` |
 | `localgeoapp` | CI | 배포 | **6회** | `edb092d` |
 | `campgogo.kr` | dedup-review | 시스템 | 1회 | `b9c6ecd` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **6회** | `fb90121` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `de77c50` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **15회** | `648ea42` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **7회** | `fb90121` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `648ea42` |
 
 ## 📊 알림
 
