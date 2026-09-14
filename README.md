@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-14 09:42 KST
+> 마지막 업데이트: 2026-09-14 14:46 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 49 |
+| 🚨 에러 | 60 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,23 +17,24 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
+| `2424` | Live Cost Watch | 기타 | 1회 | `7ea0ace` |
 | `bojo24` | Data Sync (Scheduled) | 기타 | 1회 | `5706a0a` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `a0cdb7d` |
-| `runmania` | Auto-Publish Cron | 기타 | **4회** | `44f35be` |
-| `today_yakuk` | Public Data Sync Watchdog | 기타 | **2회** | `fc573c1` |
-| `today_yakuk` | Indexing Notification Outbox | 기타 | **3회** | `fc573c1` |
+| `runmania` | Auto-Publish Cron | 기타 | **5회** | `44f35be` |
+| `today_yakuk` | Public Data Sync Watchdog | 기타 | **3회** | `fc573c1` |
+| `today_yakuk` | Indexing Notification Outbox | 기타 | **4회** | `fc573c1` |
 | `today_yakuk` | Publish Content Queue | 기타 | **2회** | `fc573c1` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `fc573c1` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `98e4242` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f2c717b` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **2회** | `fc573c1` |
-| `localgeoapp` | CI | 배포 | **6회** | `edb092d` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `fc573c1` |
+| `localgeoapp` | CI | 배포 | **8회** | `431ff85` |
 | `campgogo.kr` | dedup-review | 시스템 | 1회 | `b9c6ecd` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **7회** | `fb90121` |
+| `gong365kr` | StartupMoneyMap cron | 시스템 | **9회** | `fb90121` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `648ea42` |
 
 ## 📊 알림
 
