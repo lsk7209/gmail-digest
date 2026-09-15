@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-16 04:58 KST
+> 마지막 업데이트: 2026-09-16 07:48 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 55 |
+| 🚨 에러 | 57 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -18,7 +18,7 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `2424` | Live Cost Watch | 기타 | 1회 | `7ea0ace` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `b94b5d8` |
 | `runmania` | Auto-Publish Cron | 기타 | **2회** | `44f35be` |
 | `today_yakuk` | Indexing Notification Outbox | 기타 | **3회** | `fc573c1` |
@@ -31,7 +31,7 @@
 | `gong365kr` | StartupMoneyMap cron | 시스템 | **3회** | `fb90121` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | **2회** | `51c2fe4` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `e2157f1` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
 
 ## 📊 알림
 
