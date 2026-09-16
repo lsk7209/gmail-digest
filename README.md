@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-16 07:48 KST
+> 마지막 업데이트: 2026-09-16 10:04 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 57 |
+| 🚨 에러 | 17 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 3 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -17,27 +17,17 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `2424` | Live Cost Watch | 기타 | 1회 | `7ea0ace` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `b94b5d8` |
-| `runmania` | Auto-Publish Cron | 기타 | **2회** | `44f35be` |
-| `today_yakuk` | Indexing Notification Outbox | 기타 | **3회** | `fc573c1` |
-| `today_yakuk` | Public Data Sync Watchdog | 기타 | **2회** | `fc573c1` |
-| `today_yakuk` | Publish Content Queue | 기타 | 1회 | `fc573c1` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `fc573c1` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `fc573c1` |
-| `localgeoapp` | CI | 배포 | **14회** | `0443d49` |
-| `gong365kr` | StartupMoneyMap cron | 시스템 | **3회** | `fb90121` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `fc573c1` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | **2회** | `51c2fe4` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `e2157f1` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## 📊 알림
 
 - `10:42` [공공데이터]  공공데이터포털 
 - `10:29` [공공데이터]  공공데이터포털 
-- `19:43` [GSC] gold79.kr
 
 ## 📁 로그 파일
 
