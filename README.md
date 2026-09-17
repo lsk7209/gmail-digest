@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-17 14:42 KST
+> 마지막 업데이트: 2026-09-17 19:56 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 19 |
+| 🚨 에러 | 23 |
 | ⚠️ 경고 | 8 |
-| 📊 알림 | 1 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -18,11 +18,11 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **2회** | `fc573c1` |
-| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `51c2fe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
+| `localgeoapp` | Verify GSC sitemap | 시스템 | **2회** | `51c2fe4` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `648ea42` |
 
 ## ⚠️ 경고
 
@@ -37,6 +37,7 @@
 
 ## 📊 알림
 
+- `15:17` [공공데이터]  공공데이터포털 
 - `21:01` [AdSense] 알림: 계정이 최적화되었습니다 
 
 ## 📁 로그 파일
