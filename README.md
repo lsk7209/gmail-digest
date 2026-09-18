@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-18 07:38 KST
+> 마지막 업데이트: 2026-09-18 09:59 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 34 |
-| ⚠️ 경고 | 8 |
-| 📊 알림 | 2 |
+| 🚨 에러 | 20 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -17,28 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **2회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **11회** | `5b5adce` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | **5회** | `fc573c1` |
-| `localgeoapp` | Verify GSC sitemap | 시스템 | **2회** | `51c2fe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `648ea42` |
-
-## ⚠️ 경고
-
-- `05:40` [GSC] runmania.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `05:38` [GSC] runmania.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `05:27` [GSC] cartain.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `05:27` [GSC] cartain.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `05:21` [GSC] petjigi.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `05:14` [GSC] goesku.com — * 찾을 수 없음(404)
-- `04:35` [GSC] petjigi.kr — * 중복 페이지, Google에서 사용자와 다른 표준을 선택함
-- `04:22` [GSC] dokseos.tistory.com — * robots.txt에 의해 차단됨
+| `` |  | 기타 | 1회 | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | **4회** | `fc573c1` |
+| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `51c2fe4` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
 
 ## 📊 알림
 
 - `15:17` [공공데이터]  공공데이터포털 
-- `21:01` [AdSense] 알림: 계정이 최적화되었습니다 
 
 ## 📁 로그 파일
 
