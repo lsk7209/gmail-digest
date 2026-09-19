@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-20 04:09 KST
+> 마지막 업데이트: 2026-09-20 07:06 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 35 |
+| 🚨 에러 | 39 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -17,16 +17,17 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `busellerpitkr` | Release scheduled guide | 기타 | **11회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **12회** | `5b5adce` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `abf9f4d` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `836e20e` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
+| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f2c717b` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **3회** | `1dfde60` |
 | `auto-trading` | CI | 배포 | 1회 | `d340f70` |
 | `today_yakuk` | CI | 배포 | 1회 | `4418786` |
 | `gong365kr` | StartupMoneyMap cron | 시스템 | 1회 | `fb90121` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | **2회** | `51c2fe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **14회** | `648ea42` |
 
 ## 📊 알림
 
