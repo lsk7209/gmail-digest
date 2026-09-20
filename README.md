@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-20 23:28 KST
+> 마지막 업데이트: 2026-09-21 02:56 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 32 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 34 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,17 +17,22 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **11회** | `5b5adce` |
 | `lim-brain` | Skill checks | 기타 | **3회** | `af9731b` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f2c717b` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | **2회** | `1dfde60` |
 | `auto-trading` | CI | 배포 | 1회 | `d340f70` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | **2회** | `51c2fe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `648ea42` |
+
+## ⚠️ 경고
+
+- `01:35` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 
 ## 📁 로그 파일
 
+- [2026-09-21](logs/2026-09-21.md)
 - [2026-09-20](logs/2026-09-20.md)
 - [2026-09-19](logs/2026-09-19.md)
 - [2026-09-18](logs/2026-09-18.md)
@@ -41,4 +46,3 @@
 - [2026-09-10](logs/2026-09-10.md)
 - [2026-09-09](logs/2026-09-09.md)
 - [2026-09-08](logs/2026-09-08.md)
-- [2026-09-07](logs/2026-09-07.md)
