@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-22 03:04 KST
+> 마지막 업데이트: 2026-09-22 07:25 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 36 |
+| 🚨 에러 | 38 |
 | ⚠️ 경고 | 6 |
 | 📊 알림 | 2 |
 
@@ -20,7 +20,7 @@
 | `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **3회** | `b3f6aed` |
 | `2424` | Live Cost Watch, Attempt #2 | 기타 | 1회 | `b3f6aed` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
 | `lim-brain` | Skill checks | 기타 | **2회** | `af9731b` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `0697dec` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
@@ -28,7 +28,7 @@
 | `free-seller` | CI | 배포 | **3회** | `078465f` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `51c2fe4` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `cf635d7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `f77bcc2` |
 
 ## ⚠️ 경고
