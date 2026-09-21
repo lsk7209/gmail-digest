@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-21 14:53 KST
+> 마지막 업데이트: 2026-09-21 20:58 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 31 |
 | ⚠️ 경고 | 6 |
-| 📊 알림 | 1 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -20,14 +20,14 @@
 | `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **3회** | `b3f6aed` |
 | `2424` | Live Cost Watch, Attempt #2 | 기타 | 1회 | `b3f6aed` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
 | `lim-brain` | Skill checks | 기타 | **2회** | `af9731b` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `0697dec` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `51c2fe4` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `cf635d7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `648ea42` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `f77bcc2` |
 
 ## ⚠️ 경고
@@ -41,6 +41,7 @@
 
 ## 📊 알림
 
+- `17:35` [AdSense] Offerwall이 충성도 높은 사용자의 eCPM을 2.1배 높인 방법 알아보기
 - `13:52` [GSC] bu.sellerpit.kr
 
 ## 📁 로그 파일
