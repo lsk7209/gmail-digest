@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-22 10:25 KST
+> 마지막 업데이트: 2026-09-22 16:16 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 22 |
+| 🚨 에러 | 25 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -17,14 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `2424` | Live Cost Watch | 기타 | **3회** | `b3f6aed` |
+| `2424` | Live Cost Watch | 기타 | **4회** | `d790f39` |
 | `2424` | Live Cost Watch, Attempt #2 | 기타 | 1회 | `b3f6aed` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `98e4242` |
 | `free-seller` | CI | 배포 | **3회** | `078465f` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `cf635d7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `f77bcc2` |
 
 ## 📊 알림
