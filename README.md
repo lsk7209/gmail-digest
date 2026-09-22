@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-22 22:04 KST
+> 마지막 업데이트: 2026-09-23 02:55 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 30 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -19,12 +19,12 @@
 |------|-----------|------|------|------|
 | `2424` | Live Cost Watch | 기타 | **4회** | `d790f39` |
 | `2424` | Live Cost Watch, Attempt #2 | 기타 | 1회 | `b3f6aed` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `98e4242` |
 | `free-seller` | CI | 배포 | **3회** | `078465f` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `cf635d7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `648ea42` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `f77bcc2` |
 
 ## 📊 알림
@@ -35,6 +35,7 @@
 
 ## 📁 로그 파일
 
+- [2026-09-23](logs/2026-09-23.md)
 - [2026-09-22](logs/2026-09-22.md)
 - [2026-09-21](logs/2026-09-21.md)
 - [2026-09-20](logs/2026-09-20.md)
@@ -48,4 +49,3 @@
 - [2026-09-12](logs/2026-09-12.md)
 - [2026-09-11](logs/2026-09-11.md)
 - [2026-09-10](logs/2026-09-10.md)
-- [2026-09-09](logs/2026-09-09.md)
