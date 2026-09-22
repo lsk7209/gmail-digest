@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-23 05:53 KST
+> 마지막 업데이트: 2026-09-23 08:28 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 33 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 36 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 3 |
 
 ## 🚨 에러
@@ -19,14 +19,19 @@
 |------|-----------|------|------|------|
 | `2424` | Live Cost Watch | 기타 | **4회** | `d790f39` |
 | `2424` | Live Cost Watch, Attempt #2 | 기타 | 1회 | `b3f6aed` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `0602407` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `98e4242` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `cf635d7` |
 | `free-seller` | CI | 배포 | **3회** | `078465f` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `cf635d7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `f77bcc2` |
+
+## ⚠️ 경고
+
+- `07:58` [Firebase] com.tennisfrens.app 1.0.62(210) dSYM 누락
 
 ## 📊 알림
 
