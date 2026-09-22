@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-22 07:25 KST
+> 마지막 업데이트: 2026-09-22 10:25 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 38 |
-| ⚠️ 경고 | 6 |
-| 📊 알림 | 2 |
+| 🚨 에러 | 22 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 3 |
 
 ## 🚨 에러
 
@@ -17,31 +17,19 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **3회** | `b3f6aed` |
 | `2424` | Live Cost Watch, Attempt #2 | 기타 | 1회 | `b3f6aed` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
-| `lim-brain` | Skill checks | 기타 | **2회** | `af9731b` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `0697dec` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
-| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
+| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `98e4242` |
 | `free-seller` | CI | 배포 | **3회** | `078465f` |
-| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `51c2fe4` |
 | `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `cf635d7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `f77bcc2` |
-
-## ⚠️ 경고
-
-- `03:55` [GSC] kapti.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `03:43` [GSC] yungyanggogo.kr — * 찾을 수 없음(404)
-- `03:43` [GSC] yungyanggogo.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `03:41` [GSC] localgeo.app — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `03:28` [GSC] travel.sellerpit.kr — * 사용자가 선택한 표준이 없는 중복 페이지
-- `01:35` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 
 ## 📊 알림
 
+- `10:11` [AdSense] 설정 하나만 변경해도 수익이 35% 증가합니다 🚀
 - `17:35` [AdSense] Offerwall이 충성도 높은 사용자의 eCPM을 2.1배 높인 방법 알아보기
 - `13:52` [GSC] bu.sellerpit.kr
 
