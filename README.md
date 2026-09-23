@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-23 08:28 KST
+> 마지막 업데이트: 2026-09-23 12:15 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 36 |
+| 🚨 에러 | 17 |
 | ⚠️ 경고 | 1 |
-| 📊 알림 | 3 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -17,17 +17,12 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `2424` | Live Cost Watch | 기타 | **4회** | `d790f39` |
-| `2424` | Live Cost Watch, Attempt #2 | 기타 | 1회 | `b3f6aed` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `d790f39` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `0602407` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
-| `petjigi` | ETL — Rescued Animals (APMS 구조동물, noindex) | 데이터 | 1회 | `98e4242` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `cf635d7` |
-| `free-seller` | CI | 배포 | **3회** | `078465f` |
-| `today_yakuk` | Turso Usage Monitor | 시스템 | 1회 | `cf635d7` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
-| `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `f77bcc2` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
 
 ## ⚠️ 경고
 
@@ -36,8 +31,6 @@
 ## 📊 알림
 
 - `10:11` [AdSense] 설정 하나만 변경해도 수익이 35% 증가합니다 🚀
-- `17:35` [AdSense] Offerwall이 충성도 높은 사용자의 eCPM을 2.1배 높인 방법 알아보기
-- `13:52` [GSC] bu.sellerpit.kr
 
 ## 📁 로그 파일
 
