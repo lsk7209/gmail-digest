@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-23 23:39 KST
+> 마지막 업데이트: 2026-09-24 03:49 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 24 |
-| ⚠️ 경고 | 1 |
+| 🚨 에러 | 26 |
+| ⚠️ 경고 | 2 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -18,15 +18,16 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `2424` | Live Cost Watch | 기타 | **2회** | `d790f39` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
 | `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `0602407` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `cf635d7` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `c043034` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `648ea42` |
 
 ## ⚠️ 경고
 
+- `02:17` [GSC] goesku.com — * 서버 오류(5xx)
 - `07:58` [Firebase] com.tennisfrens.app 1.0.62(210) dSYM 누락
 
 ## 📊 알림
@@ -35,6 +36,7 @@
 
 ## 📁 로그 파일
 
+- [2026-09-24](logs/2026-09-24.md)
 - [2026-09-23](logs/2026-09-23.md)
 - [2026-09-22](logs/2026-09-22.md)
 - [2026-09-21](logs/2026-09-21.md)
@@ -48,4 +50,3 @@
 - [2026-09-13](logs/2026-09-13.md)
 - [2026-09-12](logs/2026-09-12.md)
 - [2026-09-11](logs/2026-09-11.md)
-- [2026-09-10](logs/2026-09-10.md)
