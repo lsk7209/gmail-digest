@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-24 07:02 KST
+> 마지막 업데이트: 2026-09-24 10:02 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
-| ⚠️ 경고 | 2 |
-| 📊 알림 | 1 |
+| 🚨 에러 | 15 |
+| ⚠️ 경고 | 1 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -17,22 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `2424` | Live Cost Watch | 기타 | **2회** | `d790f39` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
-| `dog-breed` | Update BLS Cost Data | 기타 | 1회 | `0602407` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `cf635d7` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `d790f39` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `c043034` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## ⚠️ 경고
 
 - `02:17` [GSC] goesku.com — * 서버 오류(5xx)
-- `07:58` [Firebase] com.tennisfrens.app 1.0.62(210) dSYM 누락
-
-## 📊 알림
-
-- `10:11` [AdSense] 설정 하나만 변경해도 수익이 35% 증가합니다 🚀
 
 ## 📁 로그 파일
 
