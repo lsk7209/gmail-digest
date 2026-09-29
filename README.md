@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-29 13:10 KST
+> 마지막 업데이트: 2026-09-29 20:04 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 19 |
+| 🚨 에러 | 23 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 2 |
+| 📊 알림 | 3 |
 
 ## 🚨 에러
 
@@ -18,16 +18,17 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
-| `2424` | Live Cost Watch | 기타 | **5회** | `12fd4b3` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `2424` | Live Cost Watch | 기타 | **6회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `cf635d7` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `8e3e8c0` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `localgeoapp` | CI | 배포 | 1회 | `d32b92f` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `88295a5` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## 📊 알림
 
+- `14:12` [공공데이터]  공공데이터포털 
 - `10:57` [공공데이터]  공공데이터포털 
 - `10:55` [공공데이터]  공공데이터포털 
 
