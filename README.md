@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-09-29 20:04 KST
+> 마지막 업데이트: 2026-09-30 02:36 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 23 |
+| 🚨 에러 | 27 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 3 |
 
@@ -17,14 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | 1회 | `` |
+| `` |  | 기타 | **2회** | `` |
 | `2424` | Live Cost Watch | 기타 | **6회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `cf635d7` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `8e3e8c0` |
 | `localgeoapp` | CI | 배포 | 1회 | `d32b92f` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `88295a5` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
+| `yungyanggogo.kr` | GSC Sitemap Scheduled | 시스템 | 1회 | `d9f8325` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
 
 ## 📊 알림
 
@@ -34,6 +35,7 @@
 
 ## 📁 로그 파일
 
+- [2026-09-30](logs/2026-09-30.md)
 - [2026-09-29](logs/2026-09-29.md)
 - [2026-09-28](logs/2026-09-28.md)
 - [2026-09-27](logs/2026-09-27.md)
@@ -47,4 +49,3 @@
 - [2026-09-19](logs/2026-09-19.md)
 - [2026-09-18](logs/2026-09-18.md)
 - [2026-09-17](logs/2026-09-17.md)
-- [2026-09-16](logs/2026-09-16.md)
