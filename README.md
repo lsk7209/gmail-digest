@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-01 20:21 KST
+> 마지막 업데이트: 2026-10-02 03:00 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 24 |
+| 🚨 에러 | 26 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -19,13 +19,13 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **3회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `ee65d59` |
 | `today_yakuk` | CI | 배포 | **2회** | `ee65d59` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `9e951e9` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
 
 ## ⚠️ 경고
 
@@ -33,6 +33,7 @@
 
 ## 📁 로그 파일
 
+- [2026-10-02](logs/2026-10-02.md)
 - [2026-10-01](logs/2026-10-01.md)
 - [2026-09-30](logs/2026-09-30.md)
 - [2026-09-29](logs/2026-09-29.md)
@@ -46,4 +47,3 @@
 - [2026-09-21](logs/2026-09-21.md)
 - [2026-09-20](logs/2026-09-20.md)
 - [2026-09-19](logs/2026-09-19.md)
-- [2026-09-18](logs/2026-09-18.md)
