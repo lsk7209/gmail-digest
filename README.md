@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-01 13:05 KST
+> 마지막 업데이트: 2026-10-01 20:21 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 19 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 24 |
+| ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -18,13 +18,18 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **3회** | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `0b93895` |
+| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `ee65d59` |
 | `today_yakuk` | CI | 배포 | **2회** | `ee65d59` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `9e951e9` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `648ea42` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
+
+## ⚠️ 경고
+
+- `14:47` [Firebase] com.tennisfrens.app 1.0.63(212) dSYM 누락
 
 ## 📁 로그 파일
 
