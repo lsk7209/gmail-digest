@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-02 11:00 KST
+> 마지막 업데이트: 2026-10-02 17:22 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 18 |
+| 🚨 에러 | 26 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -17,16 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | 1회 | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `` |  | 기타 | **5회** | `` |
+| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `5f4bdc9` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `petjigi` | ETL — Shelters (전국동물보호센터) | 데이터 | 1회 | `73e25ba` |
 | `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `73e25ba` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## ⚠️ 경고
 
