@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-03 21:12 KST
+> 마지막 업데이트: 2026-10-04 01:57 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 51 |
+| 🚨 에러 | 54 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -19,14 +19,14 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **16회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `1692cae` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `62c9201` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `73e25ba` |
 | `localgeoapp` | CI | 배포 | **12회** | `01f4369` |
 | `today_yakuk` | CI | 배포 | 1회 | `81b02eb` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `648ea42` |
 
 ## ⚠️ 경고
 
@@ -34,6 +34,7 @@
 
 ## 📁 로그 파일
 
+- [2026-10-04](logs/2026-10-04.md)
 - [2026-10-03](logs/2026-10-03.md)
 - [2026-10-02](logs/2026-10-02.md)
 - [2026-10-01](logs/2026-10-01.md)
@@ -47,4 +48,3 @@
 - [2026-09-23](logs/2026-09-23.md)
 - [2026-09-22](logs/2026-09-22.md)
 - [2026-09-21](logs/2026-09-21.md)
-- [2026-09-20](logs/2026-09-20.md)
