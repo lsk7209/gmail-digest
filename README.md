@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-04 01:57 KST
+> 마지막 업데이트: 2026-10-04 04:43 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 54 |
+| 🚨 에러 | 55 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -26,7 +26,7 @@
 | `localgeoapp` | CI | 배포 | **12회** | `01f4369` |
 | `today_yakuk` | CI | 배포 | 1회 | `81b02eb` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `648ea42` |
 
 ## ⚠️ 경고
 
