@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-04 07:39 KST
+> 마지막 업데이트: 2026-10-04 11:22 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 59 |
-| ⚠️ 경고 | 1 |
+| 🚨 에러 | 29 |
+| ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,21 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **17회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `62c9201` |
+| `` |  | 기타 | **2회** | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `62c9201` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `81b02eb` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
-| `petjigi` | ETL — Registration Agents (검역본부 등록대행업체) | 데이터 | 1회 | `73e25ba` |
-| `localgeoapp` | CI | 배포 | **12회** | `01f4369` |
-| `today_yakuk` | CI | 배포 | 1회 | `81b02eb` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `648ea42` |
-
-## ⚠️ 경고
-
-- `20:40` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `localgeoapp` | CI | 배포 | **11회** | `01f4369` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## 📁 로그 파일
 
