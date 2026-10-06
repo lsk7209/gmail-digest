@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-06 13:48 KST
+> 마지막 업데이트: 2026-10-06 20:46 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 19 |
+| 🚨 에러 | 24 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,17 +17,17 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **2회** | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `` |  | 기타 | **3회** | `` |
+| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `add2445` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `81b02eb` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
 | `localgeoapp` | CI | 배포 | 1회 | `9a4283b` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `55d3bdf` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## 📁 로그 파일
 
