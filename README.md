@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-07 11:04 KST
+> 마지막 업데이트: 2026-10-07 18:47 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 23 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 30 |
+| ⚠️ 경고 | 9 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,18 +17,32 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **3회** | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `` |  | 기타 | **4회** | `` |
+| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `9abff59` |
 | `dog-breed` | Check Public Data APIs | 기타 | 1회 | `9abff59` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | **2회** | `81b02eb` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
 | `campgogo.kr` | CI | 배포 | 1회 | `65c8505` |
+| `localgeoapp` | CI | 배포 | 1회 | `8a444b8` |
 | `today_yakuk` | CI | 배포 | 1회 | `8cfbb6c` |
+| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `8a444b8` |
 | `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `55d3bdf` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
+
+## ⚠️ 경고
+
+- `18:02` [GSC] kapti.kr — * 찾을 수 없음(404)
+- `17:48` [GSC] wedfairguide.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `17:48` [GSC] sorimate.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `17:48` [GSC] healfood.kr — * 리디렉션이 포함된 페이지
+- `17:20` [GSC] yungyanggogo.kr — * 찾을 수 없음(404)
+- `17:20` [GSC] yungyanggogo.kr — * robots.txt에 의해 차단됨
+- `17:01` [GSC] lawer.kr — * 리디렉션이 포함된 페이지
+- `16:23` [GSC] spinkorea.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `16:11` [GSC] knewstory.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 
 ## 📁 로그 파일
 
