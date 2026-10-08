@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-08 11:29 KST
+> 마지막 업데이트: 2026-10-08 18:57 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 22 |
+| 🚨 에러 | 28 |
 | ⚠️ 경고 | 9 |
 | 📊 알림 | 1 |
 
@@ -17,16 +17,16 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **2회** | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `` |  | 기타 | **3회** | `` |
+| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `bff1a98` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `8cfbb6c` |
-| `localgeoapp` | CI | 배포 | **4회** | `9011161` |
+| `localgeoapp` | CI | 배포 | **5회** | `0be5c60` |
 | `today_yakuk` | CI | 배포 | 1회 | `8cfbb6c` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `8a444b8` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `648ea42` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## ⚠️ 경고
 
