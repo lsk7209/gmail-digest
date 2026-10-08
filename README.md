@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-08 18:57 KST
+> 마지막 업데이트: 2026-10-09 02:16 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 30 |
 | ⚠️ 경고 | 9 |
-| 📊 알림 | 1 |
+| 📊 알림 | 3 |
 
 ## 🚨 에러
 
@@ -19,13 +19,14 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **3회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `bff1a98` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `8cfbb6c` |
 | `localgeoapp` | CI | 배포 | **5회** | `0be5c60` |
 | `today_yakuk` | CI | 배포 | 1회 | `8cfbb6c` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `8a444b8` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
 | `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
 
 ## ⚠️ 경고
@@ -42,10 +43,14 @@
 
 ## 📊 알림
 
+- `01:39` [AdSense] 
+동영상 인벤토리 제한사항 업데이트
+- `22:13` [AdSense] 수익을 증대시키는 방법을 알아보세요
 - `20:47` [AdSense] 9월 수익 개요
 
 ## 📁 로그 파일
 
+- [2026-10-09](logs/2026-10-09.md)
 - [2026-10-08](logs/2026-10-08.md)
 - [2026-10-07](logs/2026-10-07.md)
 - [2026-10-06](logs/2026-10-06.md)
@@ -59,4 +64,3 @@
 - [2026-09-28](logs/2026-09-28.md)
 - [2026-09-27](logs/2026-09-27.md)
 - [2026-09-26](logs/2026-09-26.md)
-- [2026-09-25](logs/2026-09-25.md)
