@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-09 07:52 KST
+> 마지막 업데이트: 2026-10-09 11:46 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 32 |
-| ⚠️ 경고 | 9 |
-| 📊 알림 | 3 |
+| 🚨 에러 | 15 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -17,36 +17,21 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **3회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `d7cf360` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `8cfbb6c` |
-| `localgeoapp` | CI | 배포 | **5회** | `0be5c60` |
-| `today_yakuk` | CI | 배포 | 1회 | `8cfbb6c` |
-| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `8a444b8` |
+| `` |  | 기타 | **2회** | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `d7cf360` |
+| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `8cfbb6c` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `localgeoapp` | CI | 배포 | 1회 | `0be5c60` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `648ea42` |
-
-## ⚠️ 경고
-
-- `18:02` [GSC] kapti.kr — * 찾을 수 없음(404)
-- `17:48` [GSC] wedfairguide.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `17:48` [GSC] sorimate.com — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `17:48` [GSC] healfood.kr — * 리디렉션이 포함된 페이지
-- `17:20` [GSC] yungyanggogo.kr — * 찾을 수 없음(404)
-- `17:20` [GSC] yungyanggogo.kr — * robots.txt에 의해 차단됨
-- `17:01` [GSC] lawer.kr — * 리디렉션이 포함된 페이지
-- `16:23` [GSC] spinkorea.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `16:11` [GSC] knewstory.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `648ea42` |
 
 ## 📊 알림
 
 - `01:39` [AdSense] 
 동영상 인벤토리 제한사항 업데이트
 - `22:13` [AdSense] 수익을 증대시키는 방법을 알아보세요
-- `20:47` [AdSense] 9월 수익 개요
 
 ## 📁 로그 파일
 
