@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-10 18:22 KST
+> 마지막 업데이트: 2026-10-11 00:41 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 31 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,18 +17,19 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **11회** | `` |
+| `` |  | 기타 | **12회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `603286b` |
 | `yungyanggogo.kr` | Enrich Nutrition Scheduled | 기타 | 1회 | `7c30818` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `today_yakuk` | CI | 배포 | 1회 | `af0e301` |
 | `yungyanggogo.kr` | CI | 배포 | **3회** | `bd173d0` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
 
 ## 📁 로그 파일
 
+- [2026-10-11](logs/2026-10-11.md)
 - [2026-10-10](logs/2026-10-10.md)
 - [2026-10-09](logs/2026-10-09.md)
 - [2026-10-08](logs/2026-10-08.md)
@@ -42,4 +43,3 @@
 - [2026-09-30](logs/2026-09-30.md)
 - [2026-09-29](logs/2026-09-29.md)
 - [2026-09-28](logs/2026-09-28.md)
-- [2026-09-27](logs/2026-09-27.md)
