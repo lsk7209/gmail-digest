@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-10 07:14 KST
+> 마지막 업데이트: 2026-10-10 11:03 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 36 |
+| 🚨 에러 | 24 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 2 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -17,24 +17,15 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **11회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `603286b` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `8cfbb6c` |
+| `` |  | 기타 | **10회** | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `603286b` |
 | `yungyanggogo.kr` | Enrich Nutrition Scheduled | 기타 | 1회 | `7c30818` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
-| `localgeoapp` | CI | 배포 | 1회 | `0be5c60` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
 | `today_yakuk` | CI | 배포 | 1회 | `af0e301` |
 | `yungyanggogo.kr` | CI | 배포 | **3회** | `bd173d0` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **2회** | `648ea42` |
-
-## 📊 알림
-
-- `01:39` [AdSense] 
-동영상 인벤토리 제한사항 업데이트
-- `22:13` [AdSense] 수익을 증대시키는 방법을 알아보세요
+| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
 
 ## 📁 로그 파일
 
