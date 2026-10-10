@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-11 04:44 KST
+> 마지막 업데이트: 2026-10-11 08:12 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 32 |
+| 🚨 에러 | 35 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,10 +17,11 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **12회** | `` |
+| `` |  | 기타 | **13회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `6b45a15` |
+| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `c471f00` |
 | `yungyanggogo.kr` | Enrich Nutrition Scheduled | 기타 | 1회 | `7c30818` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `today_yakuk` | CI | 배포 | 1회 | `af0e301` |
