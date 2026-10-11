@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-11 19:36 KST
+> 마지막 업데이트: 2026-10-12 01:32 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 19 |
+| 🚨 에러 | 20 |
 | ⚠️ 경고 | 0 |
-| 📊 알림 | 0 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -19,15 +19,20 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **5회** | `` |
 | `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `6b45a15` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `c471f00` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `petjigi` | CI — Verify | 배포 | 1회 | `4f03805` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
 
+## 📊 알림
+
+- `20:57` [GSC] toolnavigo.com
+
 ## 📁 로그 파일
 
+- [2026-10-12](logs/2026-10-12.md)
 - [2026-10-11](logs/2026-10-11.md)
 - [2026-10-10](logs/2026-10-10.md)
 - [2026-10-09](logs/2026-10-09.md)
@@ -41,4 +46,3 @@
 - [2026-10-01](logs/2026-10-01.md)
 - [2026-09-30](logs/2026-09-30.md)
 - [2026-09-29](logs/2026-09-29.md)
-- [2026-09-28](logs/2026-09-28.md)
