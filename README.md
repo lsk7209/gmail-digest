@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-11 12:55 KST
+> 마지막 업데이트: 2026-10-11 19:36 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 13 |
+| 🚨 에러 | 19 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,13 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **3회** | `` |
+| `` |  | 기타 | **5회** | `` |
 | `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `6b45a15` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `c471f00` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
+| `petjigi` | CI — Verify | 배포 | 1회 | `4f03805` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
 
 ## 📁 로그 파일
 
