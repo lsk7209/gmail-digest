@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-12 05:47 KST
+> 마지막 업데이트: 2026-10-12 09:12 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 22 |
+| 🚨 에러 | 13 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,14 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **5회** | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `eb8dcae` |
+| `` |  | 기타 | **3회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `eb8dcae` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `c471f00` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `c471f00` |
 | `petjigi` | CI — Verify | 배포 | 1회 | `4f03805` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
 
 ## 📊 알림
 
