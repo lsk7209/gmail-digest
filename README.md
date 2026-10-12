@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-12 15:57 KST
+> 마지막 업데이트: 2026-10-13 01:33 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 15 |
-| ⚠️ 경고 | 6 |
+| 🚨 에러 | 20 |
+| ⚠️ 경고 | 7 |
 | 📊 알림 | 2 |
 
 ## 🚨 에러
@@ -17,18 +17,20 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **3회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `` |  | 기타 | **4회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `eb8dcae` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `c471f00` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `c471f00` |
+| `localgeoapp` | CI | 배포 | 1회 | `842cf2d` |
 | `petjigi` | CI — Verify | 배포 | 1회 | `4f03805` |
 | `today_yakuk` | CI | 배포 | 1회 | `85723ef` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
 
 ## ⚠️ 경고
 
+- `00:04` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 - `14:43` [GSC] alt.coinyo.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `14:40` [GSC] hos.dogspang.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `14:32` [GSC] travel.dogspang.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
@@ -43,6 +45,7 @@
 
 ## 📁 로그 파일
 
+- [2026-10-13](logs/2026-10-13.md)
 - [2026-10-12](logs/2026-10-12.md)
 - [2026-10-11](logs/2026-10-11.md)
 - [2026-10-10](logs/2026-10-10.md)
@@ -56,4 +59,3 @@
 - [2026-10-02](logs/2026-10-02.md)
 - [2026-10-01](logs/2026-10-01.md)
 - [2026-09-30](logs/2026-09-30.md)
-- [2026-09-29](logs/2026-09-29.md)
