@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-12 09:12 KST
+> 마지막 업데이트: 2026-10-12 15:57 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 13 |
-| ⚠️ 경고 | 0 |
-| 📊 알림 | 1 |
+| 🚨 에러 | 15 |
+| ⚠️ 경고 | 6 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -18,16 +18,27 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **3회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `eb8dcae` |
 | `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `c471f00` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
 | `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `c471f00` |
 | `petjigi` | CI — Verify | 배포 | 1회 | `4f03805` |
+| `today_yakuk` | CI | 배포 | 1회 | `85723ef` |
 | `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
+
+## ⚠️ 경고
+
+- `14:43` [GSC] alt.coinyo.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `14:40` [GSC] hos.dogspang.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `14:32` [GSC] travel.dogspang.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `14:26` [GSC] www.certifi.kr — * 찾을 수 없음(404)
+- `14:26` [GSC] www.certifi.kr — * 찾을 수 없음(404)
+- `14:16` [GSC] bit.coinyo.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 
 ## 📊 알림
 
+- `14:07` [공공데이터]  공공데이터포털 
 - `20:57` [GSC] toolnavigo.com
 
 ## 📁 로그 파일
