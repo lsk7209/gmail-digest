@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-13 14:25 KST
+> 마지막 업데이트: 2026-10-13 22:32 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 12 |
+| 🚨 에러 | 14 |
 | ⚠️ 경고 | 7 |
 | 📊 알림 | 1 |
 
@@ -18,9 +18,9 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **2회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `0318022` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
 | `localgeoapp` | CI | 배포 | 1회 | `842cf2d` |
 | `today_yakuk` | CI | 배포 | 1회 | `85723ef` |
