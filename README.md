@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-13 08:29 KST
+> 마지막 업데이트: 2026-10-13 14:25 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 22 |
+| 🚨 에러 | 12 |
 | ⚠️ 경고 | 7 |
-| 📊 알림 | 2 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -17,16 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **4회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `0318022` |
-| `today_yakuk` | Scheduled Public Data Sync | 기타 | 1회 | `c471f00` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
-| `today_yakuk` | Auto Enrich Supplements | 데이터 | 1회 | `c471f00` |
+| `` |  | 기타 | **2회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `0318022` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
 | `localgeoapp` | CI | 배포 | 1회 | `842cf2d` |
-| `petjigi` | CI — Verify | 배포 | 1회 | `4f03805` |
 | `today_yakuk` | CI | 배포 | 1회 | `85723ef` |
-| `picturebook-app` | Submit GSC sitemap | 시스템 | **2회** | `735479a` |
+| `picturebook-app` | Submit GSC sitemap | 시스템 | 1회 | `735479a` |
 
 ## ⚠️ 경고
 
@@ -41,7 +39,6 @@
 ## 📊 알림
 
 - `14:07` [공공데이터]  공공데이터포털 
-- `20:57` [GSC] toolnavigo.com
 
 ## 📁 로그 파일
 
