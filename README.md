@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-15 08:40 KST
+> 마지막 업데이트: 2026-10-15 12:09 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 22 |
+| 🚨 에러 | 18 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 1 |
 
@@ -17,14 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **4회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `73a9c0f` |
-| `dog-breed` | Check Public Data APIs | 기타 | 1회 | `46a9ef1` |
-| `lim-brain` | Skill checks | 기타 | 1회 | `f0dd03c` |
-| `lim-brain` | repo-health | 기타 | 1회 | `f0dd03c` |
-| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
-| `roadwayskr` | Sync TourAPI | 데이터 | 1회 | `f48351d` |
+| `` |  | 기타 | **2회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `73a9c0f` |
+| `lim-brain` | Skill checks | 기타 | **3회** | `dd61b34` |
+| `lim-brain` | repo-health | 기타 | **3회** | `dd61b34` |
+| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `multi-platform-postiz` | content-os-ci | 배포 | 1회 | `e413a82` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
 
 ## 📊 알림
