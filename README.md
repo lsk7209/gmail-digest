@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-16 03:01 KST
+> 마지막 업데이트: 2026-10-16 06:56 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 29 |
+| 🚨 에러 | 31 |
 | ⚠️ 경고 | 6 |
 | 📊 알림 | 1 |
 
@@ -18,11 +18,12 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **5회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `474da4c` |
 | `lim-brain` | Skill checks | 기타 | **4회** | `4963523` |
 | `lim-brain` | repo-health | 기타 | **4회** | `4963523` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
+| `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `73767e3` |
 | `multi-platform-postiz` | content-os-ci | 배포 | 1회 | `e413a82` |
 | `petjigi` | CI — Verify | 배포 | **2회** | `9ddca08` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
