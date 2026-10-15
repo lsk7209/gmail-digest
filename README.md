@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-15 17:50 KST
+> 마지막 업데이트: 2026-10-15 22:56 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 26 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 28 |
+| ⚠️ 경고 | 6 |
 | 📊 알림 | 1 |
 
 ## 🚨 에러
@@ -17,8 +17,8 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **4회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `` |  | 기타 | **5회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `73a9c0f` |
 | `lim-brain` | Skill checks | 기타 | **4회** | `4963523` |
 | `lim-brain` | repo-health | 기타 | **4회** | `4963523` |
@@ -26,6 +26,15 @@
 | `multi-platform-postiz` | content-os-ci | 배포 | 1회 | `e413a82` |
 | `petjigi` | CI — Verify | 배포 | **2회** | `9ddca08` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
+
+## ⚠️ 경고
+
+- `21:33` [GSC] runmania.kr — * 찾을 수 없음(404)
+- `21:33` [GSC] runmania.kr — * 찾을 수 없음(404)
+- `21:21` [GSC] * robots.txt에 의해 차단됨
+- `21:19` [GSC] sellerpit.kr — * robots.txt에 의해 차단됨
+- `21:07` [GSC] knewstory.kr — * 찾을 수 없음(404)
+- `21:05` [GSC] insupang.com — * 찾을 수 없음(404)
 
 ## 📊 알림
 
