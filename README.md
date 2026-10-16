@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-16 14:25 KST
+> 마지막 업데이트: 2026-10-16 19:40 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 22 |
+| 🚨 에러 | 24 |
 | ⚠️ 경고 | 6 |
 | 📊 알림 | 0 |
 
@@ -18,11 +18,11 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **4회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `474da4c` |
 | `lim-brain` | Skill checks | 기타 | **3회** | `4963523` |
 | `lim-brain` | repo-health | 기타 | **3회** | `4963523` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
+| `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 | `petjigi` | ETL — Businesses (LOCALDATA 18종) | 데이터 | 1회 | `73767e3` |
 | `multi-platform-postiz` | content-os-ci | 배포 | 1회 | `e413a82` |
 | `petjigi` | CI — Verify | 배포 | **2회** | `9ddca08` |
