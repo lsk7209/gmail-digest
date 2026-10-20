@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-20 22:19 KST
+> 마지막 업데이트: 2026-10-21 03:19 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 15 |
+| 🚨 에러 | 17 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -19,13 +19,14 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **2회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `17ba6d1` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `4e6382d` |
 | `tennis_friends` | OVH production image build | 기타 | 1회 | `9524cd0` |
 | `askorekr` | plant-data-pipeline | 데이터 | **2회** | `91a60d1` |
 
 ## 📁 로그 파일
 
+- [2026-10-21](logs/2026-10-21.md)
 - [2026-10-20](logs/2026-10-20.md)
 - [2026-10-19](logs/2026-10-19.md)
 - [2026-10-18](logs/2026-10-18.md)
@@ -39,4 +40,3 @@
 - [2026-10-10](logs/2026-10-10.md)
 - [2026-10-09](logs/2026-10-09.md)
 - [2026-10-08](logs/2026-10-08.md)
-- [2026-10-07](logs/2026-10-07.md)
