@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-21 16:02 KST
+> 마지막 업데이트: 2026-10-21 22:24 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 17 |
+| 🚨 에러 | 20 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -19,13 +19,14 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `4e6382d` |
 | `dog-breed` | Check Public Data APIs | 기타 | 1회 | `772f193` |
 | `tennis_friends` | OVH production image build | 기타 | 1회 | `9524cd0` |
 | `tennis_friends` | Quality checks | 기타 | 1회 | `cae9caa` |
 | `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **3회** | `2ac5caf` |
+| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **4회** | `2ac5caf` |
 
 ## 📁 로그 파일
 
