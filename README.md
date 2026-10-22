@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-22 10:11 KST
+> 마지막 업데이트: 2026-10-22 16:04 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 17 |
+| 🚨 에러 | 20 |
 | ⚠️ 경고 | 1 |
-| 📊 알림 | 1 |
+| 📊 알림 | 2 |
 
 ## 🚨 에러
 
@@ -18,12 +18,12 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `2bbc981` |
 | `tennis_friends` | Quality checks | 기타 | 1회 | `cae9caa` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
@@ -31,6 +31,7 @@
 
 ## 📊 알림
 
+- `15:02` [공공데이터]  공공데이터포털 
 - `09:46` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
