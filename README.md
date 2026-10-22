@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-22 07:05 KST
+> 마지막 업데이트: 2026-10-22 10:11 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 25 |
-| ⚠️ 경고 | 0 |
-| 📊 알림 | 0 |
+| 🚨 에러 | 17 |
+| ⚠️ 경고 | 1 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -18,15 +18,20 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `2bbc981` |
-| `dog-breed` | Check Public Data APIs | 기타 | 1회 | `772f193` |
-| `tennis_friends` | OVH production image build | 기타 | 1회 | `9524cd0` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `2bbc981` |
 | `tennis_friends` | Quality checks | 기타 | 1회 | `cae9caa` |
-| `askorekr` | plant-data-pipeline | 데이터 | 1회 | `91a60d1` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2ac5caf` |
+
+## ⚠️ 경고
+
+- `09:17` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
+
+## 📊 알림
+
+- `09:46` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
 
