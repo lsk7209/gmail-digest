@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-24 05:58 KST
+> 마지막 업데이트: 2026-10-24 08:47 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 33 |
 | ⚠️ 경고 | 6 |
 | 📊 알림 | 2 |
 
@@ -17,14 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | 1회 | `` |
+| `` |  | 기타 | **2회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `e91ec4b` |
-| `lim-brain` | repo-health | 기타 | 1회 | `d905880` |
-| `lim-brain` | Skill checks | 기타 | 1회 | `d905880` |
+| `lim-brain` | repo-health | 기타 | **2회** | `51cbf2a` |
+| `lim-brain` | Skill checks | 기타 | **2회** | `51cbf2a` |
 | `today_yakuk` | CI | 배포 | 1회 | `89bf92f` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
