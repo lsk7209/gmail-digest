@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-23 15:56 KST
+> 마지막 업데이트: 2026-10-23 21:25 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 21 |
+| 🚨 에러 | 23 |
 | ⚠️ 경고 | 6 |
 | 📊 알림 | 2 |
 
@@ -19,12 +19,12 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `32ffe45` |
 | `lim-brain` | repo-health | 기타 | 1회 | `d905880` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `d905880` |
 | `today_yakuk` | CI | 배포 | 1회 | `89bf92f` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
