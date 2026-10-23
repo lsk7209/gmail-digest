@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-23 07:04 KST
+> 마지막 업데이트: 2026-10-23 10:11 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 17 |
 | ⚠️ 경고 | 6 |
 | 📊 알림 | 2 |
 
@@ -18,13 +18,13 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `32ffe45` |
-| `tennis_friends` | Quality checks | 기타 | 1회 | `cae9caa` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `32ffe45` |
+| `lim-brain` | repo-health | 기타 | 1회 | `d905880` |
+| `lim-brain` | Skill checks | 기타 | 1회 | `d905880` |
 | `today_yakuk` | CI | 배포 | 1회 | `89bf92f` |
-| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **11회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
