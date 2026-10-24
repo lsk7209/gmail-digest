@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-24 08:47 KST
+> 마지막 업데이트: 2026-10-24 12:14 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 33 |
-| ⚠️ 경고 | 6 |
-| 📊 알림 | 2 |
+| 🚨 에러 | 20 |
+| ⚠️ 경고 | 0 |
+| 📊 알림 | 0 |
 
 ## 🚨 에러
 
@@ -17,28 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **2회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `e91ec4b` |
+| `` |  | 기타 | 1회 | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `e91ec4b` |
 | `lim-brain` | repo-health | 기타 | **2회** | `51cbf2a` |
 | `lim-brain` | Skill checks | 기타 | **2회** | `51cbf2a` |
-| `today_yakuk` | CI | 배포 | 1회 | `89bf92f` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `2ac5caf` |
-
-## ⚠️ 경고
-
-- `17:22` [GSC] picklefriend.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `17:10` [GSC] workgogo.kr — * 찾을 수 없음(404)
-- `17:07` [GSC] workgogo.kr — * 찾을 수 없음(404)
-- `17:04` [GSC] localgeo.app — * robots.txt에 의해 차단됨
-- `17:03` [GSC] wedfairguide.com — * 찾을 수 없음(404)
-- `09:17` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
-
-## 📊 알림
-
-- `15:02` [공공데이터]  공공데이터포털 
-- `09:46` [공공데이터]  공공데이터포털 
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2ac5caf` |
 
 ## 📁 로그 파일
 
