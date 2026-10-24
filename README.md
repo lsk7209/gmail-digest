@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-24 22:05 KST
+> 마지막 업데이트: 2026-10-25 02:11 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 27 |
+| 🚨 에러 | 30 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -19,14 +19,15 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `e91ec4b` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `dbb5c84` |
 | `lim-brain` | repo-health | 기타 | **3회** | `089730b` |
 | `lim-brain` | Skill checks | 기타 | **3회** | `089730b` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `2ac5caf` |
 
 ## 📁 로그 파일
 
+- [2026-10-25](logs/2026-10-25.md)
 - [2026-10-24](logs/2026-10-24.md)
 - [2026-10-23](logs/2026-10-23.md)
 - [2026-10-22](logs/2026-10-22.md)
@@ -40,4 +41,3 @@
 - [2026-10-14](logs/2026-10-14.md)
 - [2026-10-13](logs/2026-10-13.md)
 - [2026-10-12](logs/2026-10-12.md)
-- [2026-10-11](logs/2026-10-11.md)
