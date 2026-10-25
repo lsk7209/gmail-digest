@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-26 06:25 KST
+> 마지막 업데이트: 2026-10-26 08:47 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 34 |
-| ⚠️ 경고 | 0 |
+| 🚨 에러 | 39 |
+| ⚠️ 경고 | 5 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,13 +17,21 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | 1회 | `` |
+| `` |  | 기타 | **2회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **11회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **12회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `cba4fd7` |
-| `lim-brain` | repo-health | 기타 | **3회** | `7194ff9` |
-| `lim-brain` | Skill checks | 기타 | **3회** | `7194ff9` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **12회** | `2ac5caf` |
+| `lim-brain` | repo-health | 기타 | **4회** | `5ca6655` |
+| `lim-brain` | Skill checks | 기타 | **4회** | `5ca6655` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `2ac5caf` |
+
+## ⚠️ 경고
+
+- `07:13` [GSC] picklefriend.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `07:04` [GSC] mohana.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `07:03` [GSC] mohana.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `06:52` [GSC] * 색인이 생성되었으나 robots.txt에 의해 차단됨
+- `06:37` [GSC] yesa.kr — * robots.txt에 의해 차단됨
 
 ## 📁 로그 파일
 
