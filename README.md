@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-26 08:47 KST
+> 마지막 업데이트: 2026-10-26 12:09 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 39 |
+| 🚨 에러 | 21 |
 | ⚠️ 경고 | 5 |
 | 📊 알림 | 0 |
 
@@ -17,13 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **2회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **12회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `cba4fd7` |
-| `lim-brain` | repo-health | 기타 | **4회** | `5ca6655` |
-| `lim-brain` | Skill checks | 기타 | **4회** | `5ca6655` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **13회** | `2ac5caf` |
+| `` |  | 기타 | 1회 | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `cba4fd7` |
+| `lim-brain` | Skill checks | 기타 | **2회** | `5ca6655` |
+| `lim-brain` | repo-health | 기타 | **2회** | `5ca6655` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
