@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-26 18:40 KST
+> 마지막 업데이트: 2026-10-27 01:28 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 26 |
-| ⚠️ 경고 | 5 |
+| 🚨 에러 | 28 |
+| ⚠️ 경고 | 8 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -19,15 +19,18 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **2회** | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **9회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `cba4fd7` |
 | `lim-brain` | Skill checks | 기타 | **2회** | `5ca6655` |
 | `lim-brain` | repo-health | 기타 | **2회** | `5ca6655` |
 | `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `6cdd360` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
+- `20:41` [GSC] gover.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
+- `20:31` [GSC] nicewomen.kr — * 다른 4xx 문제로 인해 차단됨
+- `19:58` [GSC] yesa.kr — * Soft 404
 - `07:13` [GSC] picklefriend.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `07:04` [GSC] mohana.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `07:03` [GSC] mohana.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
@@ -36,6 +39,7 @@
 
 ## 📁 로그 파일
 
+- [2026-10-27](logs/2026-10-27.md)
 - [2026-10-26](logs/2026-10-26.md)
 - [2026-10-25](logs/2026-10-25.md)
 - [2026-10-24](logs/2026-10-24.md)
@@ -49,4 +53,3 @@
 - [2026-10-16](logs/2026-10-16.md)
 - [2026-10-15](logs/2026-10-15.md)
 - [2026-10-14](logs/2026-10-14.md)
-- [2026-10-13](logs/2026-10-13.md)
