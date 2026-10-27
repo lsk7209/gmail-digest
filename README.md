@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-27 06:20 KST
+> 마지막 업데이트: 2026-10-27 10:06 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 31 |
-| ⚠️ 경고 | 8 |
+| 🚨 에러 | 17 |
+| ⚠️ 경고 | 3 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -18,24 +18,19 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **2회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **10회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `d784efd` |
-| `lim-brain` | Skill checks | 기타 | **2회** | `5ca6655` |
-| `lim-brain` | repo-health | 기타 | **2회** | `5ca6655` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `d784efd` |
+| `lim-brain` | Skill checks | 기타 | 1회 | `b53d24b` |
+| `lim-brain` | repo-health | 기타 | 1회 | `b53d24b` |
 | `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `6cdd360` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **10회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
 - `20:41` [GSC] gover.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
 - `20:31` [GSC] nicewomen.kr — * 다른 4xx 문제로 인해 차단됨
 - `19:58` [GSC] yesa.kr — * Soft 404
-- `07:13` [GSC] picklefriend.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `07:04` [GSC] mohana.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `07:03` [GSC] mohana.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `06:52` [GSC] * 색인이 생성되었으나 robots.txt에 의해 차단됨
-- `06:37` [GSC] yesa.kr — * robots.txt에 의해 차단됨
 
 ## 📁 로그 파일
 
