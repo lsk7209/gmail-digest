@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-28 08:28 KST
+> 마지막 업데이트: 2026-10-28 12:56 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
-| ⚠️ 경고 | 3 |
+| 🚨 에러 | 17 |
+| ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,21 +17,14 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **3회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `a63af2e` |
+| `` |  | 기타 | 1회 | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `a63af2e` |
 | `dog-breed` | Check Public Data APIs | 기타 | 1회 | `a63af2e` |
-| `lim-brain` | Skill checks | 기타 | 1회 | `b53d24b` |
-| `lim-brain` | repo-health | 기타 | 1회 | `b53d24b` |
-| `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `6cdd360` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `2ac5caf` |
-
-## ⚠️ 경고
-
-- `20:41` [GSC] gover.kr — * ‘NOINDEX’ 태그에 의해 제외되었습니다.
-- `20:31` [GSC] nicewomen.kr — * 다른 4xx 문제로 인해 차단됨
-- `19:58` [GSC] yesa.kr — * Soft 404
+| `lim-brain` | Skill checks | 기타 | 1회 | `64e8df7` |
+| `lim-brain` | repo-health | 기타 | 1회 | `64e8df7` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `2ac5caf` |
 
 ## 📁 로그 파일
 
