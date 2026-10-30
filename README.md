@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-30 05:51 KST
+> 마지막 업데이트: 2026-10-30 09:35 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 31 |
+| 🚨 에러 | 13 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,20 +17,13 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **4회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `2d3b296` |
-| `lim-brain` | Skill checks | 기타 | 1회 | `7d8766d` |
-| `lim-brain` | repo-health | 기타 | 1회 | `7d8766d` |
-| `tennis_friends` | Quality checks | 기타 | 1회 | `8420608` |
-| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `22df5a3` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `2ac5caf` |
-| `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `cdcd66a` |
-| `spinkorea` | Scheduled publish, Attempt #2 | 콘텐츠 | 1회 | `cdcd66a` |
-
-- `13:25` [Vercel] 권한 오류: Vercelbobotw2014@gmail.com 배포 시도
-- `13:25` [Vercel] 권한 오류: Vercelbobotw2014@gmail.com 배포 시도
+| `` |  | 기타 | 1회 | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `2d3b296` |
+| `lim-brain` | Skill checks | 기타 | 1회 | `43f9539` |
+| `lim-brain` | repo-health | 기타 | 1회 | `43f9539` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **4회** | `2ac5caf` |
 
 ## 📁 로그 파일
 
