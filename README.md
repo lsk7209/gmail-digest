@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-31 03:58 KST
+> 마지막 업데이트: 2026-10-31 07:53 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 23 |
+| 🚨 에러 | 24 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -24,7 +24,7 @@
 | `lim-brain` | Skill checks | 기타 | 1회 | `43f9539` |
 | `lim-brain` | repo-health | 기타 | 1회 | `43f9539` |
 | `localgeoapp` | CI | 배포 | 1회 | `06f9dce` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `2ac5caf` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `50a4c1a` |
 
 ## 📁 로그 파일
