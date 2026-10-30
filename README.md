@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-10-30 22:49 KST
+> 마지막 업데이트: 2026-10-31 03:58 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 20 |
+| 🚨 에러 | 23 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -19,16 +19,17 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `2d3b296` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `7f3eadb` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `43f9539` |
 | `lim-brain` | repo-health | 기타 | 1회 | `43f9539` |
 | `localgeoapp` | CI | 배포 | 1회 | `06f9dce` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2ac5caf` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `50a4c1a` |
 
 ## 📁 로그 파일
 
+- [2026-10-31](logs/2026-10-31.md)
 - [2026-10-30](logs/2026-10-30.md)
 - [2026-10-29](logs/2026-10-29.md)
 - [2026-10-28](logs/2026-10-28.md)
@@ -42,4 +43,3 @@
 - [2026-10-20](logs/2026-10-20.md)
 - [2026-10-19](logs/2026-10-19.md)
 - [2026-10-18](logs/2026-10-18.md)
-- [2026-10-17](logs/2026-10-17.md)
