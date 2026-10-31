@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-01 00:00 KST
+> 마지막 업데이트: 2026-11-01 04:42 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 33 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -19,13 +19,14 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | 1회 | `` |
 | `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `7f3eadb` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **7회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `7f3eadb` |
 | `lim-brain` | repo-health | 기타 | 1회 | `ec658df` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `ec658df` |
+| `tennis_friends` | Quality checks | 기타 | **2회** | `7e5f5aa` |
 | `localgeoapp` | CI | 배포 | **5회** | `c016110` |
 | `today_yakuk` | CI | 배포 | **2회** | `9e0bb6d` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **8회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `2ac5caf` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `50a4c1a` |
 
 ## 📁 로그 파일
