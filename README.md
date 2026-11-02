@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-02 06:40 KST
+> 마지막 업데이트: 2026-11-02 10:14 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 46 |
+| 🚨 에러 | 28 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -18,19 +18,15 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **3회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **8회** | `5b5adce` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `7f3eadb` |
-| `lim-brain` | repo-health | 기타 | **3회** | `1283452` |
-| `lim-brain` | Skill checks | 기타 | **3회** | `1283452` |
-| `tennis_friends` | Quality checks | 기타 | **6회** | `4677e06` |
-| `campgogo.kr` | CI | 배포 | 1회 | `e4adbe4` |
-| `localgeoapp` | CI | 배포 | **4회** | `c016110` |
-| `today_yakuk` | CI | 배포 | **2회** | `9e0bb6d` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `7f3eadb` |
+| `lim-brain` | repo-health | 기타 | **4회** | `b74397b` |
+| `lim-brain` | Skill checks | 기타 | **4회** | `b74397b` |
+| `tennis_friends` | Quality checks | 기타 | **4회** | `4677e06` |
 | `campgogo.kr` | dedup-review | 시스템 | 1회 | `e4adbe4` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `e4adbe4` |
-| `multi-dashboard` | Update dashboard stats | 시스템 | 1회 | `b02c19a` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **9회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `2ac5caf` |
 
 ## ⚠️ 경고
 
