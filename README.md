@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-02 10:14 KST
+> 마지막 업데이트: 2026-11-02 17:51 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 28 |
+| 🚨 에러 | 36 |
 | ⚠️ 경고 | 1 |
 | 📊 알림 | 0 |
 
@@ -17,16 +17,18 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **3회** | `` |
-| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `5b5adce` |
+| `` |  | 기타 | **4회** | `` |
+| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `7f3eadb` |
 | `lim-brain` | repo-health | 기타 | **4회** | `b74397b` |
 | `lim-brain` | Skill checks | 기타 | **4회** | `b74397b` |
-| `tennis_friends` | Quality checks | 기타 | **4회** | `4677e06` |
+| `tennis_friends` | Quality checks | 기타 | **6회** | `afdf58c` |
+| `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `6dc6a3b` |
 | `campgogo.kr` | dedup-review | 시스템 | 1회 | `e4adbe4` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `e4adbe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `2ac5caf` |
+| `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `fa97154` |
 
 ## ⚠️ 경고
 
