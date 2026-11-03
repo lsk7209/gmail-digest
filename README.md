@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-03 04:10 KST
+> 마지막 업데이트: 2026-11-03 10:59 KST
 
 ## 📊 오늘 현황
 
@@ -7,8 +7,8 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 39 |
-| ⚠️ 경고 | 1 |
+| 🚨 에러 | 18 |
+| ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
 ## 🚨 에러
@@ -17,22 +17,17 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **5회** | `` |
-| `2424` | Live Cost Watch | 기타 | **2회** | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `5b5adce` |
+| `` |  | 기타 | **3회** | `` |
+| `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **3회** | `5b5adce` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `7f3eadb` |
-| `lim-brain` | repo-health | 기타 | **4회** | `b74397b` |
-| `lim-brain` | Skill checks | 기타 | **4회** | `b74397b` |
-| `tennis_friends` | Quality checks | 기타 | **6회** | `afdf58c` |
+| `lim-brain` | Skill checks | 기타 | 1회 | `b7cfade` |
+| `lim-brain` | repo-health | 기타 | 1회 | `b7cfade` |
+| `tennis_friends` | Quality checks | 기타 | **2회** | `afdf58c` |
 | `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `6dc6a3b` |
-| `campgogo.kr` | dedup-review | 시스템 | 1회 | `e4adbe4` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `e4adbe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `2ac5caf` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **3회** | `2ac5caf` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `fa97154` |
-
-## ⚠️ 경고
-
-- `04:03` [AdSense] 애드센스를 사용하려면 사이트에서 발견된 문제를 수정해야 합니다.
 
 ## 📁 로그 파일
 
