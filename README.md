@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-04 02:31 KST
+> 마지막 업데이트: 2026-11-04 07:53 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 26 |
+| 🚨 에러 | 32 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -19,16 +19,17 @@
 |------|-----------|------|------|------|
 | `` |  | 기타 | **3회** | `` |
 | `2424` | Live Cost Watch | 기타 | 1회 | `e79fade` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `82e83b5` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `82e83b5` |
 | `cartainkr` | Quality | 기타 | 1회 | `b64fac5` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `7f3eadb` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `34f676b` |
+| `dog-breed` | Check Public Data APIs | 기타 | 1회 | `3df105c` |
 | `lim-brain` | Skill checks | 기타 | 1회 | `b7cfade` |
 | `lim-brain` | repo-health | 기타 | 1회 | `b7cfade` |
 | `tennis_friends` | Quality checks | 기타 | **2회** | `afdf58c` |
 | `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `6dc6a3b` |
 | `today_yakuk` | CI | 배포 | **2회** | `1959939` |
-| `campgogo.kr` | backup | 시스템 | 1회 | `e4adbe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `6cce17e` |
+| `campgogo.kr` | backup | 시스템 | **2회** | `e4adbe4` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `6cce17e` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `42d6be7` |
 
 ## 📁 로그 파일
