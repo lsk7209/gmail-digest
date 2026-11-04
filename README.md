@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-04 11:54 KST
+> 마지막 업데이트: 2026-11-05 03:27 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 25 |
+| 🚨 에러 | 41 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -17,20 +17,24 @@
 
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
-| `` |  | 기타 | **3회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `82e83b5` |
+| `` |  | 기타 | **4회** | `` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `82e83b5` |
 | `cartainkr` | Quality | 기타 | 1회 | `b64fac5` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `34f676b` |
 | `dog-breed` | Check Public Data APIs | 기타 | 1회 | `3df105c` |
-| `lim-brain` | repo-health | 기타 | **3회** | `61d1acb` |
-| `lim-brain` | Skill checks | 기타 | **3회** | `61d1acb` |
+| `lim-brain` | repo-health | 기타 | **6회** | `e3a51ab` |
+| `lim-brain` | Skill checks | 기타 | **6회** | `e3a51ab` |
+| `tennis_friends` | Quality checks | 기타 | **2회** | `7e76c78` |
+| `gmail-digest` | Gmail Digest | 배포 | 1회 | `7724832` |
 | `today_yakuk` | CI | 배포 | **2회** | `1959939` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `e4adbe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `6cce17e` |
-| `spinkorea` | Scheduled publish | 콘텐츠 | 1회 | `42d6be7` |
+| `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `c016110` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **7회** | `6cce17e` |
+| `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `42d6be7` |
 
 ## 📁 로그 파일
 
+- [2026-11-05](logs/2026-11-05.md)
 - [2026-11-04](logs/2026-11-04.md)
 - [2026-11-03](logs/2026-11-03.md)
 - [2026-11-02](logs/2026-11-02.md)
@@ -44,4 +48,3 @@
 - [2026-10-25](logs/2026-10-25.md)
 - [2026-10-24](logs/2026-10-24.md)
 - [2026-10-23](logs/2026-10-23.md)
-- [2026-10-22](logs/2026-10-22.md)
