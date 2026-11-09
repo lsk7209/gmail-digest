@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-09 09:30 KST
+> 마지막 업데이트: 2026-11-09 16:38 KST
 
 ## 📊 오늘 현황
 
@@ -7,9 +7,9 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 39 |
-| ⚠️ 경고 | 0 |
-| 📊 알림 | 0 |
+| 🚨 에러 | 44 |
+| ⚠️ 경고 | 1 |
+| 📊 알림 | 1 |
 
 ## 🚨 에러
 
@@ -18,15 +18,24 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **5회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **4회** | `82e83b5` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `82e83b5` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `338b8db` |
 | `lim-brain` | repo-health | 기타 | **13회** | `6e9df3f` |
 | `lim-brain` | Skill checks | 기타 | **2회** | `6e9df3f` |
-| `tennis_friends` | Quality checks | 기타 | **4회** | `0586369` |
+| `tennis_friends` | Quality checks | 기타 | **5회** | `8abddcc` |
+| `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `8abddcc` |
 | `campgogo.kr` | dedup-review | 시스템 | 1회 | `e4adbe4` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `e4adbe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `6cce17e` |
-| `spinkorea` | Scheduled publish | 콘텐츠 | **3회** | `07293a7` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `6cce17e` |
+| `spinkorea` | Scheduled publish | 콘텐츠 | **4회** | `e4a6279` |
+
+## ⚠️ 경고
+
+- `16:36` [GSC] write0666.tistory.com — * 찾을 수 없음(404)
+
+## 📊 알림
+
+- `15:58` [공공데이터]  공공데이터포털 
 
 ## 📁 로그 파일
 
