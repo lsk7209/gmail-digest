@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-11 02:28 KST
+> 마지막 업데이트: 2026-11-11 07:49 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 29 |
+| 🚨 에러 | 34 |
 | ⚠️ 경고 | 14 |
 | 📊 알림 | 1 |
 
@@ -18,16 +18,17 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **2회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `82e83b5` |
-| `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `338b8db` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `82e83b5` |
+| `dog-breed` | Update Outdoor Risk Data | 기타 | **2회** | `338b8db` |
+| `dog-breed` | Check Public Data APIs | 기타 | 1회 | `7d871c2` |
 | `lim-brain` | Affiliate catalog | 기타 | 1회 | `1fcd2f2` |
-| `tennis_friends` | Quality checks | 기타 | **7회** | `42ece7c` |
+| `tennis_friends` | Quality checks | 기타 | **8회** | `8a630a1` |
 | `tennis_friends` | Editorial operations monitor | 기타 | 1회 | `8abddcc` |
 | `gmail-digest` | Gmail Digest | 배포 | 1회 | `ff3b7f7` |
 | `multi-platform-postiz2` | content-os-ci | 배포 | **2회** | `b2b8baf` |
 | `today_yakuk` | CI | 배포 | 1회 | `b90264e` |
 | `campgogo.kr` | backup | 시스템 | 1회 | `e4adbe4` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `6cce17e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `6cce17e` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `2286584` |
 
 ## ⚠️ 경고
