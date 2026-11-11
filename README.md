@@ -1,5 +1,5 @@
 # 📬 Gmail Digest
-> 마지막 업데이트: 2026-11-11 19:17 KST
+> 마지막 업데이트: 2026-11-12 03:21 KST
 
 ## 📊 오늘 현황
 
@@ -7,7 +7,7 @@
 |---------|------|
 | ✅ 승인 | 0 |
 | ❌ 반려 | 0 |
-| 🚨 에러 | 24 |
+| 🚨 에러 | 27 |
 | ⚠️ 경고 | 0 |
 | 📊 알림 | 0 |
 
@@ -18,17 +18,18 @@
 | 레포 | 워크플로우 | 타입 | 횟수 | 커밋 |
 |------|-----------|------|------|------|
 | `` |  | 기타 | **2회** | `` |
-| `busellerpitkr` | Release scheduled guide | 기타 | **5회** | `82e83b5` |
+| `busellerpitkr` | Release scheduled guide | 기타 | **6회** | `82e83b5` |
 | `dog-breed` | Update Outdoor Risk Data | 기타 | 1회 | `338b8db` |
 | `dog-breed` | Check Public Data APIs | 기타 | 1회 | `7d871c2` |
-| `tennis_friends` | Quality checks | 기타 | **6회** | `eb7f704` |
+| `tennis_friends` | Quality checks | 기타 | **7회** | `4b11452` |
 | `today_yakuk` | CI | 배포 | 1회 | `b90264e` |
 | `localgeoapp` | Verify GSC sitemap | 시스템 | 1회 | `c016110` |
-| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **5회** | `6cce17e` |
+| `crepikacom` | Auto Publish Blog Post | 콘텐츠 | **6회** | `6cce17e` |
 | `spinkorea` | Scheduled publish | 콘텐츠 | **2회** | `46983b0` |
 
 ## 📁 로그 파일
 
+- [2026-11-12](logs/2026-11-12.md)
 - [2026-11-11](logs/2026-11-11.md)
 - [2026-11-10](logs/2026-11-10.md)
 - [2026-11-09](logs/2026-11-09.md)
@@ -42,4 +43,3 @@
 - [2026-11-01](logs/2026-11-01.md)
 - [2026-10-31](logs/2026-10-31.md)
 - [2026-10-30](logs/2026-10-30.md)
-- [2026-10-29](logs/2026-10-29.md)
